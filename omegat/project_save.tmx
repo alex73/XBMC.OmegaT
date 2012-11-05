@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.6.1_2" segtype="paragraph" srclang="en"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="en">
+        <seg>April</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121105T062747Z">
+        <seg>Красавік</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>August</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121105T062808Z">
+        <seg>Жнівень</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>December</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121105T062815Z">
+        <seg>Снежань</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>February</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121105T062743Z">
+        <seg>Люты</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>File manager</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121105T062711Z">
+        <seg>Кіраўнік файлаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Friday</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Пятніца</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>January</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121105T062741Z">
+        <seg>Студзень</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>July</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121105T062806Z">
+        <seg>Ліпень</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>June</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121105T062805Z">
+        <seg>Чэрвень</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>March</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121105T062745Z">
+        <seg>Сакавік</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>May</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121105T062757Z">
+        <seg>Травень</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Monday</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Панядзелак</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Music</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Музыка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>November</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121105T062812Z">
+        <seg>Лістапад</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>October</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121105T062811Z">
+        <seg>Кастычнік</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pictures</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Малюнкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Programs</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Праграмы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Saturday</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Субота</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>September</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121105T062809Z">
+        <seg>Верасень</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Settings</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Налады</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sunday</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Нядзеля</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Thursday</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Чацьвер</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tuesday</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Аўторак</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Videos</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Відэа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Weather</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Надвор'е</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wednesday</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Серада</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
