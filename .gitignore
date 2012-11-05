@@ -1,1 +1,4 @@
 /*.tmx
+/target/*
+/omegat/*.bak
+/omegat/project_stats.txt
