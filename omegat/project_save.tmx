@@ -1017,6 +1017,16 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#13170</prop>
+      <tuv lang="en">
+        <seg>Never</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121106T160522Z">
+        <seg>Ніколі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#34123</prop>
       <tuv lang="en">
         <seg>Never</seg>
@@ -1103,6 +1113,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121106T155753Z">
         <seg>Выключыць кампутар</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#13200</prop>
+      <tuv lang="en">
+        <seg>Profiles</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121106T160444Z">
+        <seg>Профілі</seg>
       </tuv>
     </tu>
     <tu>
