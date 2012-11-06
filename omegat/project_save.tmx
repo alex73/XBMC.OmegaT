@@ -757,6 +757,16 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#20367</prop>
+      <tuv lang="en">
+        <seg>Hide watched</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121106T155254Z">
+        <seg>Схаваць прагледжаныя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#36028</prop>
       <tuv lang="en">
         <seg>Ignore</seg>
