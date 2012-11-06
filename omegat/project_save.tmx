@@ -553,6 +553,26 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#58</prop>
+      <tuv lang="en">
+        <seg>Aug</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121106T125714Z">
+        <seg>Жні</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#62</prop>
+      <tuv lang="en">
+        <seg>Dec</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121106T125726Z">
+        <seg>Сне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#52</prop>
       <tuv lang="en">
         <seg>Feb</seg>
@@ -573,6 +593,26 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#57</prop>
+      <tuv lang="en">
+        <seg>Jul</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121106T125712Z">
+        <seg>Ліп</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#56</prop>
+      <tuv lang="en">
+        <seg>Jun</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121106T125710Z">
+        <seg>Чэр</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#53</prop>
       <tuv lang="en">
         <seg>Mar</seg>
@@ -589,6 +629,36 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121106T125516Z">
         <seg>Тра</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#61</prop>
+      <tuv lang="en">
+        <seg>Nov</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121106T125723Z">
+        <seg>Ліс</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#60</prop>
+      <tuv lang="en">
+        <seg>Oct</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121106T125720Z">
+        <seg>Кас</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#59</prop>
+      <tuv lang="en">
+        <seg>Sep</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121106T125717Z">
+        <seg>Вер</seg>
       </tuv>
     </tu>
   </body>
