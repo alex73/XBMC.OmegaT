@@ -543,6 +543,46 @@
 <!-- Alternative translations -->
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#54</prop>
+      <tuv lang="en">
+        <seg>Apr</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121106T125614Z">
+        <seg>Кра</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#52</prop>
+      <tuv lang="en">
+        <seg>Feb</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121106T125608Z">
+        <seg>Лют</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#51</prop>
+      <tuv lang="en">
+        <seg>Jan</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121106T125605Z">
+        <seg>Сту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#53</prop>
+      <tuv lang="en">
+        <seg>Mar</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121106T125610Z">
+        <seg>Сак</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#55</prop>
       <tuv lang="en">
         <seg>May</seg>
