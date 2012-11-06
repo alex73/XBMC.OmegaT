@@ -566,6 +566,36 @@
     </tu>
 <!-- Alternative translations -->
     <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
+      <prop type="path">#31040</prop>
+      <tuv lang="en">
+        <seg>Now Playing</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121106T154935Z">
+        <seg>Прайграецца зараз</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
+      <prop type="path">#31043</prop>
+      <tuv lang="en">
+        <seg>PAUSED</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121106T154803Z">
+        <seg>ПРЫПЫНЕНА</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
+      <prop type="path">#31042</prop>
+      <tuv lang="en">
+        <seg>PLAYING</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121106T154941Z">
+        <seg>ПРАЙГРАЕЦЦА</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="file">translations/XBMC-Main-Frodo.skin-touched/be.po</prop>
       <prop type="path">#31002</prop>
       <tuv lang="en">
