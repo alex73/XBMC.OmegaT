@@ -607,6 +607,16 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#15</prop>
+      <tuv lang="en">
+        <seg>Friday</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Пятніца</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#51</prop>
       <tuv lang="en">
         <seg>Jan</seg>
@@ -657,6 +667,56 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#11</prop>
+      <tuv lang="en">
+        <seg>Monday</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Панядзелак</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#10005</prop>
+      <tuv lang="en">
+        <seg>Music</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Музыка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#1211</prop>
+      <tuv lang="en">
+        <seg>Music</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Музыка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#2</prop>
+      <tuv lang="en">
+        <seg>Music</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Музыка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#249</prop>
+      <tuv lang="en">
+        <seg>Music</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Музыка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#61</prop>
       <tuv lang="en">
         <seg>Nov</seg>
@@ -677,12 +737,192 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#1</prop>
+      <tuv lang="en">
+        <seg>Pictures</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Малюнкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#10002</prop>
+      <tuv lang="en">
+        <seg>Pictures</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Малюнкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#1213</prop>
+      <tuv lang="en">
+        <seg>Pictures</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Малюнкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#0</prop>
+      <tuv lang="en">
+        <seg>Programs</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Праграмы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#10001</prop>
+      <tuv lang="en">
+        <seg>Programs</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Праграмы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#10506</prop>
+      <tuv lang="en">
+        <seg>Programs</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Праграмы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#350</prop>
+      <tuv lang="en">
+        <seg>Programs</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Праграмы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#16</prop>
+      <tuv lang="en">
+        <seg>Saturday</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Субота</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#59</prop>
       <tuv lang="en">
         <seg>Sep</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121106T125717Z">
         <seg>Вер</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#5</prop>
+      <tuv lang="en">
+        <seg>Settings</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Налады</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#17</prop>
+      <tuv lang="en">
+        <seg>Sunday</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Нядзеля</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#14</prop>
+      <tuv lang="en">
+        <seg>Thursday</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Чацьвер</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#12</prop>
+      <tuv lang="en">
+        <seg>Tuesday</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Аўторак</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#3</prop>
+      <tuv lang="en">
+        <seg>Videos</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Відэа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#12600</prop>
+      <tuv lang="en">
+        <seg>Weather</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Надвор'е</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#24027</prop>
+      <tuv lang="en">
+        <seg>Weather</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Надвор'е</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#400</prop>
+      <tuv lang="en">
+        <seg>Weather</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Надвор'е</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#8</prop>
+      <tuv lang="en">
+        <seg>Weather</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Надвор'е</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#13</prop>
+      <tuv lang="en">
+        <seg>Wednesday</seg>
+      </tuv>
+      <tuv lang="be">
+        <seg>Серада</seg>
       </tuv>
     </tu>
   </body>
