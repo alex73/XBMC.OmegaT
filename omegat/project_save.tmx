@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>Albums</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121106T125236Z">
+        <seg>Альбомы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Apr</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121106T124830Z">
@@ -18,6 +26,14 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121105T062747Z">
         <seg>Красавік</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Artists</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121106T125239Z">
+        <seg>Выканаўцы</seg>
       </tuv>
     </tu>
     <tu>
@@ -38,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Copy</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121106T125205Z">
+        <seg>Скапіяваць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Dec</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121106T124903Z">
@@ -50,6 +74,14 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121105T062815Z">
         <seg>Снежань</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Delete</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121106T125212Z">
+        <seg>Выдаліць</seg>
       </tuv>
     </tu>
     <tu>
@@ -98,6 +130,14 @@
       </tuv>
       <tuv lang="be">
         <seg>Пятніца</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Genres</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121106T125244Z">
+        <seg>Жанры</seg>
       </tuv>
     </tu>
     <tu>
@@ -190,10 +230,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Move</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121106T125209Z">
+        <seg>Перасунуць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Music</seg>
       </tuv>
       <tuv lang="be">
         <seg>Музыка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>New folder</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121106T125221Z">
+        <seg>Новы каталёг</seg>
       </tuv>
     </tu>
     <tu>
@@ -270,6 +326,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Rename</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121106T125217Z">
+        <seg>Пераназваць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Sat</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121106T124735Z">
@@ -326,6 +390,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Songs</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121106T125242Z">
+        <seg>Кампазіцыі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Sort by: Date</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121106T125028Z">
@@ -354,6 +426,14 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121106T124916Z">
         <seg>Паўднёвы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Status</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121106T125228Z">
+        <seg>Статус</seg>
       </tuv>
     </tu>
     <tu>
@@ -461,5 +541,15 @@
       </tuv>
     </tu>
 <!-- Alternative translations -->
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#25</prop>
+      <tuv lang="en">
+        <seg>May</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121106T125450Z">
+        <seg>Тра</seg>
+      </tuv>
+    </tu>
   </body>
 </tmx>
