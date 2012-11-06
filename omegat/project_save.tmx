@@ -687,6 +687,16 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#20151</prop>
+      <tuv lang="en">
+        <seg>Cancel shutdown timer</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121106T160103Z">
+        <seg>Скасаваць таймер выключэньня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#21873</prop>
       <tuv lang="en">
         <seg>City</seg>
@@ -713,6 +723,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121106T144831Z">
         <seg>Краіна</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#20150</prop>
+      <tuv lang="en">
+        <seg>Custom shutdown timer</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121106T160117Z">
+        <seg>Адмысловы таймер выключэньня</seg>
       </tuv>
     </tu>
     <tu>
@@ -987,6 +1007,16 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#145</prop>
+      <tuv lang="en">
+        <seg>Network:</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121106T160245Z">
+        <seg>Сетка:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#34123</prop>
       <tuv lang="en">
         <seg>Never</seg>
@@ -1187,6 +1217,46 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#20149</prop>
+      <tuv lang="en">
+        <seg>Shutdown in 120 minutes</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121106T160051Z">
+        <seg>Выключыць праз 120 хвілінаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#20147</prop>
+      <tuv lang="en">
+        <seg>Shutdown in 30 minutes</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121106T160018Z">
+        <seg>Выключыць праз 30 хвілінаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#20148</prop>
+      <tuv lang="en">
+        <seg>Shutdown in 60 minutes</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121106T160047Z">
+        <seg>Выключыць праз 60 хвілінаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#20144</prop>
+      <tuv lang="en">
+        <seg>Shutdown timer</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121106T160109Z">
+        <seg>Таймер выключэньня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#21874</prop>
       <tuv lang="en">
         <seg>State</seg>
@@ -1237,6 +1307,46 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#13000</prop>
+      <tuv lang="en">
+        <seg>System</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121106T160201Z">
+        <seg>Сыстэма</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#138</prop>
+      <tuv lang="en">
+        <seg>System Information</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121106T160228Z">
+        <seg>Зьвесткі пра сыстэму</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#130</prop>
+      <tuv lang="en">
+        <seg>System info</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121106T160215Z">
+        <seg>Зьвесткі пра сыстэму</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#139</prop>
+      <tuv lang="en">
+        <seg>Temperatures:</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121106T160234Z">
+        <seg>Тэмпература:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#19152</prop>
       <tuv lang="en">
         <seg>Th</seg>
@@ -1257,6 +1367,16 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#142</prop>
+      <tuv lang="en">
+        <seg>Time:</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121106T160242Z">
+        <seg>Час:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#19150</prop>
       <tuv lang="en">
         <seg>Tu</seg>
@@ -1273,6 +1393,26 @@
       </tuv>
       <tuv lang="be">
         <seg>Аўторак</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#146</prop>
+      <tuv lang="en">
+        <seg>Type:</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121106T160252Z">
+        <seg>Тып:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#20142</prop>
+      <tuv lang="en">
+        <seg>Username</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121106T160124Z">
+        <seg>Імя карыстальніка</seg>
       </tuv>
     </tu>
     <tu>
