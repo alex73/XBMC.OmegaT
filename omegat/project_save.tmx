@@ -566,6 +566,16 @@
     </tu>
 <!-- Alternative translations -->
     <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.skin-touched/be.po</prop>
+      <prop type="path">#31002</prop>
+      <tuv lang="en">
+        <seg>Audio Settings</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121106T154440Z">
+        <seg>Налады гуку</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#24011</prop>
       <tuv lang="en">
@@ -627,12 +637,32 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#464</prop>
+      <tuv lang="en">
+        <seg>Brightness</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121106T154627Z">
+        <seg>Яркасьць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#21873</prop>
       <tuv lang="en">
         <seg>City</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121106T144837Z">
         <seg>Горад</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#465</prop>
+      <tuv lang="en">
+        <seg>Contrast</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121106T154607Z">
+        <seg>Кантраснасьць</seg>
       </tuv>
     </tu>
     <tu>
@@ -1133,6 +1163,16 @@
       </tuv>
       <tuv lang="be">
         <seg>Відэа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#13376</prop>
+      <tuv lang="en">
+        <seg>Volume</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121106T154504Z">
+        <seg>Гучнасьць</seg>
       </tuv>
     </tu>
     <tu>
