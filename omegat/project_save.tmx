@@ -787,6 +787,16 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#13010</prop>
+      <tuv lang="en">
+        <seg>Hibernate</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121106T155854Z">
+        <seg>Гібернацыя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#20367</prop>
       <tuv lang="en">
         <seg>Hide watched</seg>
@@ -1057,6 +1067,16 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#13016</prop>
+      <tuv lang="en">
+        <seg>Power off System</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121106T155753Z">
+        <seg>Выключыць кампутар</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#0</prop>
       <tuv lang="en">
         <seg>Programs</seg>
@@ -1103,6 +1123,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121106T145129Z">
         <seg>Радыё</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#13013</prop>
+      <tuv lang="en">
+        <seg>Reboot</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121106T155830Z">
+        <seg>Перастартаваць кампутар</seg>
       </tuv>
     </tu>
     <tu>
@@ -1193,6 +1223,16 @@
       </tuv>
       <tuv lang="be">
         <seg>Нядзеля</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#13011</prop>
+      <tuv lang="en">
+        <seg>Suspend</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121106T155848Z">
+        <seg>Прыпыніць</seg>
       </tuv>
     </tu>
     <tu>
