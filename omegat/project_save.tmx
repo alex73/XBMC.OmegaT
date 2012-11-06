@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>Apr</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121106T124830Z">
+        <seg>Кра</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>April</seg>
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121105T062747Z">
@@ -30,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Feb</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121106T124824Z">
+        <seg>Лют</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>February</seg>
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121105T062743Z">
@@ -46,10 +62,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Fri</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121106T124734Z">
+        <seg>пт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Friday</seg>
       </tuv>
       <tuv lang="be">
         <seg>Пятніца</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Jan</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121106T124820Z">
+        <seg>Сту</seg>
       </tuv>
     </tu>
     <tu>
@@ -78,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mar</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121106T124827Z">
+        <seg>Сак</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>March</seg>
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121105T062745Z">
@@ -88,8 +128,16 @@
       <tuv lang="en">
         <seg>May</seg>
       </tuv>
-      <tuv lang="be" changeid="alex" changedate="20121105T062757Z">
-        <seg>Травень</seg>
+      <tuv lang="be" changeid="Alex" changedate="20121106T124840Z">
+        <seg>Тра</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mon</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121106T124725Z">
+        <seg>пн</seg>
       </tuv>
     </tu>
     <tu>
@@ -142,6 +190,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sat</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121106T124735Z">
+        <seg>сб</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Saturday</seg>
       </tuv>
       <tuv lang="be">
@@ -166,6 +222,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sun</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121106T124723Z">
+        <seg>нд</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Sunday</seg>
       </tuv>
       <tuv lang="be">
@@ -174,10 +238,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Thu</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121106T124732Z">
+        <seg>чц</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Thursday</seg>
       </tuv>
       <tuv lang="be">
         <seg>Чацьвер</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tue</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121106T124728Z">
+        <seg>аў</seg>
       </tuv>
     </tu>
     <tu>
@@ -202,6 +282,14 @@
       </tuv>
       <tuv lang="be">
         <seg>Надвор'е</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wed</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121106T124730Z">
+        <seg>ср</seg>
       </tuv>
     </tu>
     <tu>
