@@ -567,6 +567,16 @@
 <!-- Alternative translations -->
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
+      <prop type="path">#31303</prop>
+      <tuv lang="en">
+        <seg>Data provider</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121106T155411Z">
+        <seg>Зьвесткі ад</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
       <prop type="path">#31040</prop>
       <tuv lang="en">
         <seg>Now Playing</seg>
@@ -717,12 +727,32 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#405</prop>
+      <tuv lang="en">
+        <seg>Dew point</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121106T155546Z">
+        <seg>Пункт расы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#52</prop>
       <tuv lang="en">
         <seg>Feb</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121106T125608Z">
         <seg>Лют</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#402</prop>
+      <tuv lang="en">
+        <seg>Feels like</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121106T155536Z">
+        <seg>Адчуваецца як</seg>
       </tuv>
     </tu>
     <tu>
@@ -763,6 +793,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121106T155254Z">
         <seg>Схаваць прагледжаныя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#406</prop>
+      <tuv lang="en">
+        <seg>Humidity</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121106T155555Z">
+        <seg>Вільготнасьць</seg>
       </tuv>
     </tu>
     <tu>
@@ -1267,12 +1307,32 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#10508</prop>
+      <tuv lang="en">
+        <seg>Weather forecast</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121106T155342Z">
+        <seg>Прагноз надвор'я</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#13</prop>
       <tuv lang="en">
         <seg>Wednesday</seg>
       </tuv>
       <tuv lang="be">
         <seg>Серада</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#404</prop>
+      <tuv lang="en">
+        <seg>Wind</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121106T155539Z">
+        <seg>Вецер</seg>
       </tuv>
     </tu>
     <tu>
