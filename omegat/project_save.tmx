@@ -14,14 +14,6 @@
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>Apr</seg>
-      </tuv>
-      <tuv lang="be" changeid="Alex" changedate="20121106T124830Z">
-        <seg>Кра</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>April</seg>
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121105T062747Z">
@@ -38,14 +30,6 @@
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>Aug</seg>
-      </tuv>
-      <tuv lang="be" changeid="Alex" changedate="20121106T124850Z">
-        <seg>Жні</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>August</seg>
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121105T062808Z">
@@ -54,18 +38,18 @@
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>Copy</seg>
+        <seg>Cancel</seg>
       </tuv>
-      <tuv lang="be" changeid="Alex" changedate="20121106T125205Z">
-        <seg>Скапіяваць</seg>
+      <tuv lang="be" changeid="Alex" changedate="20121106T130113Z">
+        <seg>Скасаваць</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>Dec</seg>
+        <seg>Copy</seg>
       </tuv>
-      <tuv lang="be" changeid="Alex" changedate="20121106T124903Z">
-        <seg>Сне</seg>
+      <tuv lang="be" changeid="Alex" changedate="20121106T125205Z">
+        <seg>Скапіяваць</seg>
       </tuv>
     </tu>
     <tu>
@@ -94,14 +78,6 @@
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>Feb</seg>
-      </tuv>
-      <tuv lang="be" changeid="Alex" changedate="20121106T124824Z">
-        <seg>Лют</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>February</seg>
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121105T062743Z">
@@ -114,6 +90,14 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121105T062711Z">
         <seg>Кіраўнік файлаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Font</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121106T130127Z">
+        <seg>Шрыфт</seg>
       </tuv>
     </tu>
     <tu>
@@ -142,26 +126,10 @@
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>Jan</seg>
-      </tuv>
-      <tuv lang="be" changeid="Alex" changedate="20121106T124820Z">
-        <seg>Сту</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>January</seg>
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121105T062741Z">
         <seg>Студзень</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>Jul</seg>
-      </tuv>
-      <tuv lang="be" changeid="Alex" changedate="20121106T124847Z">
-        <seg>Ліп</seg>
       </tuv>
     </tu>
     <tu>
@@ -174,14 +142,6 @@
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>Jun</seg>
-      </tuv>
-      <tuv lang="be" changeid="Alex" changedate="20121106T124845Z">
-        <seg>Чэр</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>June</seg>
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121105T062805Z">
@@ -190,10 +150,10 @@
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>Mar</seg>
+        <seg>Language</seg>
       </tuv>
-      <tuv lang="be" changeid="Alex" changedate="20121106T124827Z">
-        <seg>Сак</seg>
+      <tuv lang="be" changeid="Alex" changedate="20121106T130133Z">
+        <seg>Мова</seg>
       </tuv>
     </tu>
     <tu>
@@ -270,14 +230,6 @@
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>Nov</seg>
-      </tuv>
-      <tuv lang="be" changeid="Alex" changedate="20121106T124854Z">
-        <seg>Ліс</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>November</seg>
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121105T062812Z">
@@ -286,10 +238,10 @@
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>Oct</seg>
+        <seg>OK</seg>
       </tuv>
-      <tuv lang="be" changeid="Alex" changedate="20121106T124853Z">
-        <seg>Кас</seg>
+      <tuv lang="be" changeid="Alex" changedate="20121106T130051Z">
+        <seg>Добра</seg>
       </tuv>
     </tu>
     <tu>
@@ -326,10 +278,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Refresh</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121106T130045Z">
+        <seg>Абнавіць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Rename</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121106T125217Z">
         <seg>Пераназваць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Resolution</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121106T130036Z">
+        <seg>Разрознасьць</seg>
       </tuv>
     </tu>
     <tu>
@@ -350,10 +318,26 @@
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>Sep</seg>
+        <seg>Save</seg>
       </tuv>
-      <tuv lang="be" changeid="Alex" changedate="20121106T124851Z">
-        <seg>Вер</seg>
+      <tuv lang="be" changeid="Alex" changedate="20121106T130059Z">
+        <seg>Захаваць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Scan</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121106T130104Z">
+        <seg>Сканаваць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121106T130009Z">
+        <seg>Пошук</seg>
       </tuv>
     </tu>
     <tu>
@@ -386,6 +370,14 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121106T125054Z">
         <seg>Слайдшоу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Song</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121106T130019Z">
+        <seg>Песьня</seg>
       </tuv>
     </tu>
     <tu>
@@ -430,10 +422,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Speed</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121106T130116Z">
+        <seg>Хуткасьць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Status</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121106T125228Z">
         <seg>Статус</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Subtitles</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121106T130124Z">
+        <seg>Субтытры</seg>
       </tuv>
     </tu>
     <tu>
