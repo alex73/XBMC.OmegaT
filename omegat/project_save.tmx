@@ -208,8 +208,8 @@
       <tuv lang="en">
         <seg>May</seg>
       </tuv>
-      <tuv lang="be" changeid="Alex" changedate="20121106T124840Z">
-        <seg>Тра</seg>
+      <tuv lang="be" changeid="Alex" changedate="20121106T125503Z">
+        <seg>Травень</seg>
       </tuv>
     </tu>
     <tu>
@@ -543,11 +543,11 @@
 <!-- Alternative translations -->
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
-      <prop type="path">#25</prop>
+      <prop type="path">#55</prop>
       <tuv lang="en">
         <seg>May</seg>
       </tuv>
-      <tuv lang="be" changeid="Alex" changedate="20121106T125450Z">
+      <tuv lang="be" changeid="Alex" changedate="20121106T125516Z">
         <seg>Тра</seg>
       </tuv>
     </tu>
