@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Exit</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121106T130231Z">
+        <seg>Выйсці</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>February</seg>
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121105T062743Z">
@@ -362,6 +370,14 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121106T125121Z">
         <seg>Скароты</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Shutdown</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121106T130233Z">
+        <seg>Выключыць</seg>
       </tuv>
     </tu>
     <tu>
