@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <filters>
-    <filter enabled="false" className="org.omegat.filters2.po.PoFilter">
+    <filter enabled="true" className="org.omegat.filters2.po.PoFilter">
         <files targetEncoding="UTF-8" sourceEncoding="UTF-8" targetFilenamePattern="${filename}" sourceFilenameMask="*.po"/>
         <files targetEncoding="UTF-8" sourceEncoding="UTF-8" targetFilenamePattern="${filename}" sourceFilenameMask="*.pot"/>
         <option value="false" name="autoFillInPluralStatement"/>
