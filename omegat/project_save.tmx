@@ -587,6 +587,16 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
+      <prop type="path">#31026</prop>
+      <tuv lang="en">
+        <seg>Misc Options</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121108T161933Z">
+        <seg>Іншыя налады</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
       <prop type="path">#31040</prop>
       <tuv lang="en">
         <seg>Now Playing</seg>
@@ -613,6 +623,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121106T154941Z">
         <seg>ПРАЙГРАЕЦЦА</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
+      <prop type="path">#31024</prop>
+      <tuv lang="en">
+        <seg>Page</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121108T161710Z">
+        <seg>Старонка</seg>
       </tuv>
     </tu>
     <tu>
@@ -1463,6 +1483,16 @@
       </tuv>
       <tuv lang="be">
         <seg>Відэа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#14018</prop>
+      <tuv lang="en">
+        <seg>View options</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121108T161824Z">
+        <seg>Налады выгляду</seg>
       </tuv>
     </tu>
     <tu>
