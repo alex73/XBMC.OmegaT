@@ -617,6 +617,16 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#999</prop>
+      <tuv lang="en">
+        <seg>Add Videos...</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121108T160831Z">
+        <seg>Дадаць відэа...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#24011</prop>
       <tuv lang="en">
         <seg>Add-on repository</seg>
