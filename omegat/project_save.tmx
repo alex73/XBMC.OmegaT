@@ -577,6 +577,16 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
+      <prop type="path">#31025</prop>
+      <tuv lang="en">
+        <seg>Items</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121108T161703Z">
+        <seg>элемэнтаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
       <prop type="path">#31040</prop>
       <tuv lang="en">
         <seg>Now Playing</seg>
