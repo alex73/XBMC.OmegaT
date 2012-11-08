@@ -717,6 +717,16 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#298</prop>
+      <tuv lang="en">
+        <seg>Bookmarks</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121108T162057Z">
+        <seg>Закладкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#464</prop>
       <tuv lang="en">
         <seg>Brightness</seg>
@@ -747,6 +757,16 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#296</prop>
+      <tuv lang="en">
+        <seg>Clear bookmarks</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121108T162125Z">
+        <seg>Прыбраць закладкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#465</prop>
       <tuv lang="en">
         <seg>Contrast</seg>
@@ -763,6 +783,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121106T144831Z">
         <seg>Краіна</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#294</prop>
+      <tuv lang="en">
+        <seg>Create bookmark</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121108T162110Z">
+        <seg>Стварыць закладку</seg>
       </tuv>
     </tu>
     <tu>
