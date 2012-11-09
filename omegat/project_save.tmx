@@ -726,6 +726,16 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
+      <prop type="path">#31401</prop>
+      <tuv lang="en">
+        <seg>[B]CONFIGURE VIDEO SETTINGS[/B][CR][CR]Manage your video library · Set video playback options · Change video listing options[CR]Set subtitle fonts</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121109T090558Z">
+        <seg>[B]ЗЬМЯНІЦЬ НАЛАДЫ ВІДЭА[/B][CR][CR]Кіраваць бібліятэкай відэа · Наставіць налады прайграваньня відэа · Зьмяніць налады сьпісу відэа[CR]Наставіць шрыфт субтытраў</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="file">translations/XBMC-Main-Frodo.skin-touched/be.po</prop>
       <prop type="path">#31002</prop>
       <tuv lang="en">
