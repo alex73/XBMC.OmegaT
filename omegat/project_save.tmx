@@ -587,6 +587,16 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
+      <prop type="path">#31300</prop>
+      <tuv lang="en">
+        <seg>Current Temp</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121109T083807Z">
+        <seg>Дзейная тэмпэратура</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
       <prop type="path">#31303</prop>
       <tuv lang="en">
         <seg>Data provider</seg>
@@ -767,6 +777,16 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#566</prop>
+      <tuv lang="en">
+        <seg>Album artist</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121109T083701Z">
+        <seg>Выканаўца альбома</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#34122</prop>
       <tuv lang="en">
         <seg>Always</seg>
@@ -813,6 +833,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121106T125714Z">
         <seg>Жні</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#21863</prop>
+      <tuv lang="en">
+        <seg>Author</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121109T083551Z">
+        <seg>Аўтар</seg>
       </tuv>
     </tu>
     <tu>
@@ -887,6 +917,16 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#24054</prop>
+      <tuv lang="en">
+        <seg>Changelog</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121109T083644Z">
+        <seg>Гісторыя зьменаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#21873</prop>
       <tuv lang="en">
         <seg>City</seg>
@@ -922,6 +962,16 @@
         <seg>Country</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121106T144831Z">
+        <seg>Краіна</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#574</prop>
+      <tuv lang="en">
+        <seg>Country</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121109T083707Z">
         <seg>Краіна</seg>
       </tuv>
     </tu>
@@ -1193,6 +1243,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121106T125710Z">
         <seg>Чэр</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#24053</prop>
+      <tuv lang="en">
+        <seg>License:</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121109T083624Z">
+        <seg>Ліцэнзія:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1597,6 +1657,16 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#563</prop>
+      <tuv lang="en">
+        <seg>Rating</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121109T083650Z">
+        <seg>Рэйтынг</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#13013</prop>
       <tuv lang="en">
         <seg>Reboot</seg>
@@ -1897,6 +1967,16 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#564</prop>
+      <tuv lang="en">
+        <seg>Type</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121109T083654Z">
+        <seg>Тып</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#146</prop>
       <tuv lang="en">
         <seg>Type:</seg>
@@ -1923,6 +2003,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121106T160124Z">
         <seg>Імя карыстальніка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#24051</prop>
+      <tuv lang="en">
+        <seg>Version:</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121109T083619Z">
+        <seg>Вэрсія:</seg>
       </tuv>
     </tu>
     <tu>
