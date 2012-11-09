@@ -646,6 +646,26 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
+      <prop type="path">#31050</prop>
+      <tuv lang="en">
+        <seg>Sort: Ascending</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121109T081545Z">
+        <seg>Наўпростае сартаваньне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
+      <prop type="path">#31051</prop>
+      <tuv lang="en">
+        <seg>Sort: Descending</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121109T081551Z">
+        <seg>Адваротнае сартаваньне</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="file">translations/XBMC-Main-Frodo.skin-touched/be.po</prop>
       <prop type="path">#31002</prop>
       <tuv lang="en">
@@ -893,6 +913,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121106T154248Z">
         <seg>Файлы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#587</prop>
+      <tuv lang="en">
+        <seg>Filter</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121109T081727Z">
+        <seg>Фільтраваць</seg>
       </tuv>
     </tu>
     <tu>
@@ -1423,6 +1453,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121106T160109Z">
         <seg>Таймер выключэньня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#105</prop>
+      <tuv lang="en">
+        <seg>Sort by: Size</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121109T081520Z">
+        <seg>Сартаваць па: памеру</seg>
       </tuv>
     </tu>
     <tu>
