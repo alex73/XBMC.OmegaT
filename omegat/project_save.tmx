@@ -667,6 +667,16 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#14076</prop>
+      <tuv lang="en">
+        <seg>Add to favourites</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121109T081226Z">
+        <seg>Дадаць ў упадабаныя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#24011</prop>
       <tuv lang="en">
         <seg>Add-on repository</seg>
@@ -837,6 +847,26 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#16105</prop>
+      <tuv lang="en">
+        <seg>Edit title</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121109T081333Z">
+        <seg>Рэдагаваць загаловак</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#1036</prop>
+      <tuv lang="en">
+        <seg>Favourites</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121109T081246Z">
+        <seg>Упадабаныя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#52</prop>
       <tuv lang="en">
         <seg>Feb</seg>
@@ -963,6 +993,26 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121106T125610Z">
         <seg>Сак</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#16104</prop>
+      <tuv lang="en">
+        <seg>Mark as unwatched</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121109T081320Z">
+        <seg>Пазначыць як непрагледжанае</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#16103</prop>
+      <tuv lang="en">
+        <seg>Mark as watched</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121109T081315Z">
+        <seg>Пазначыць як прагледжанае</seg>
       </tuv>
     </tu>
     <tu>
@@ -1277,6 +1327,16 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#14077</prop>
+      <tuv lang="en">
+        <seg>Remove from favourites</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121109T081212Z">
+        <seg>Выдаліць з упадабаных</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#19154</prop>
       <tuv lang="en">
         <seg>Sa</seg>
@@ -1513,6 +1573,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121106T160252Z">
         <seg>Тып:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#653</prop>
+      <tuv lang="en">
+        <seg>Update library</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121109T081400Z">
+        <seg>Абнавіць бібліятэку</seg>
       </tuv>
     </tu>
     <tu>
