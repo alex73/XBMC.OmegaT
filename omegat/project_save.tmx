@@ -1277,6 +1277,16 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#158</prop>
+      <tuv lang="en">
+        <seg>Free memory</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121109T090744Z">
+        <seg>Памяці вольна</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#15</prop>
       <tuv lang="en">
         <seg>Friday</seg>
@@ -1343,6 +1353,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121106T155555Z">
         <seg>Вільготнасьць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#150</prop>
+      <tuv lang="en">
+        <seg>IP address</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121109T090828Z">
+        <seg>Адрас IP</seg>
       </tuv>
     </tu>
     <tu>
@@ -1687,6 +1707,16 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#13283</prop>
+      <tuv lang="en">
+        <seg>Operating system:</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121109T090939Z">
+        <seg>Апэрацыйная сыстэма:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#33063</prop>
       <tuv lang="en">
         <seg>Options</seg>
@@ -1927,6 +1957,16 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#13287</prop>
+      <tuv lang="en">
+        <seg>Screen resolution:</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121109T090855Z">
+        <seg>Разрознасьць экрану:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#194</prop>
       <tuv lang="en">
         <seg>Searching...</seg>
@@ -2157,6 +2197,16 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#12390</prop>
+      <tuv lang="en">
+        <seg>System uptime</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121109T091030Z">
+        <seg>Час працы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#139</prop>
       <tuv lang="en">
         <seg>Temperatures:</seg>
@@ -2323,6 +2373,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121109T083422Z">
         <seg>Дадаткі відэа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#21443</prop>
+      <tuv lang="en">
+        <seg>Video resolution</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121109T090908Z">
+        <seg>Разрознасьць відэа</seg>
       </tuv>
     </tu>
     <tu>
