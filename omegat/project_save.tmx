@@ -957,6 +957,16 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#192</prop>
+      <tuv lang="en">
+        <seg>Clear</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121109T085050Z">
+        <seg>ясна</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#296</prop>
       <tuv lang="en">
         <seg>Clear bookmarks</seg>
@@ -971,8 +981,8 @@
       <tuv lang="en">
         <seg>Cloudy</seg>
       </tuv>
-      <tuv lang="be" changeid="Alex" changedate="20121109T084449Z">
-        <seg>Воблачна</seg>
+      <tuv lang="be" changeid="Alex" changedate="20121109T085006Z">
+        <seg>воблачна</seg>
       </tuv>
     </tu>
     <tu>
@@ -1071,8 +1081,8 @@
       <tuv lang="en">
         <seg>Drizzle</seg>
       </tuv>
-      <tuv lang="be" changeid="Alex" changedate="20121109T083918Z">
-        <seg>Імжа</seg>
+      <tuv lang="be" changeid="Alex" changedate="20121109T084942Z">
+        <seg>імжа</seg>
       </tuv>
     </tu>
     <tu>
@@ -1191,8 +1201,8 @@
       <tuv lang="en">
         <seg>Foggy</seg>
       </tuv>
-      <tuv lang="be" changeid="Alex" changedate="20121109T083928Z">
-        <seg>Туман</seg>
+      <tuv lang="be" changeid="Alex" changedate="20121109T084939Z">
+        <seg>туман</seg>
       </tuv>
     </tu>
     <tu>
@@ -1221,8 +1231,8 @@
       <tuv lang="en">
         <seg>From %s at %i %s</seg>
       </tuv>
-      <tuv lang="be" changeid="Alex" changedate="20121109T084859Z">
-        <seg>%s at %i %s</seg>
+      <tuv lang="be" changeid="Alex" changedate="20121109T085154Z">
+        <seg>%s, %i %s</seg>
       </tuv>
     </tu>
     <tu>
@@ -1241,8 +1251,8 @@
       <tuv lang="en">
         <seg>Grains</seg>
       </tuv>
-      <tuv lang="be" changeid="Alex" changedate="20121109T084007Z">
-        <seg>Зярністы снег</seg>
+      <tuv lang="be" changeid="Alex" changedate="20121109T084937Z">
+        <seg>зярністы снег</seg>
       </tuv>
     </tu>
     <tu>
@@ -1401,8 +1411,8 @@
       <tuv lang="en">
         <seg>Mist</seg>
       </tuv>
-      <tuv lang="be" changeid="Alex" changedate="20121109T084113Z">
-        <seg>Смуга</seg>
+      <tuv lang="be" changeid="Alex" changedate="20121109T084929Z">
+        <seg>смуга</seg>
       </tuv>
     </tu>
     <tu>
@@ -1471,8 +1481,8 @@
       <tuv lang="en">
         <seg>Mostly</seg>
       </tuv>
-      <tuv lang="be" changeid="Alex" changedate="20121109T084324Z">
-        <seg>Пераважна</seg>
+      <tuv lang="be" changeid="Alex" changedate="20121109T085008Z">
+        <seg>пераважна</seg>
       </tuv>
     </tu>
     <tu>
@@ -1631,8 +1641,18 @@
       <tuv lang="en">
         <seg>Overcast</seg>
       </tuv>
-      <tuv lang="be" changeid="Alex" changedate="20121109T083904Z">
-        <seg>Пахмурна</seg>
+      <tuv lang="be" changeid="Alex" changedate="20121109T084927Z">
+        <seg>пахмурна</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#371</prop>
+      <tuv lang="en">
+        <seg>Partly</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121109T085014Z">
+        <seg>часткова</seg>
       </tuv>
     </tu>
     <tu>
@@ -1771,8 +1791,8 @@
       <tuv lang="en">
         <seg>Rain</seg>
       </tuv>
-      <tuv lang="be" changeid="Alex" changedate="20121109T084453Z">
-        <seg>Дождж</seg>
+      <tuv lang="be" changeid="Alex" changedate="20121109T085003Z">
+        <seg>дождж</seg>
       </tuv>
     </tu>
     <tu>
@@ -1827,6 +1847,16 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#193</prop>
+      <tuv lang="en">
+        <seg>Scan</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121109T085132Z">
+        <seg>Сканаваць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#194</prop>
       <tuv lang="en">
         <seg>Searching...</seg>
@@ -1861,8 +1891,8 @@
       <tuv lang="en">
         <seg>Shallow</seg>
       </tuv>
-      <tuv lang="be" changeid="Alex" changedate="20121109T084045Z">
-        <seg>Неглыбокі туман</seg>
+      <tuv lang="be" changeid="Alex" changedate="20121109T084933Z">
+        <seg>неглыбокі туман</seg>
       </tuv>
     </tu>
     <tu>
@@ -1921,8 +1951,8 @@
       <tuv lang="en">
         <seg>Snow</seg>
       </tuv>
-      <tuv lang="be" changeid="Alex" changedate="20121109T084451Z">
-        <seg>Сьнег</seg>
+      <tuv lang="be" changeid="Alex" changedate="20121109T085004Z">
+        <seg>сьнег</seg>
       </tuv>
     </tu>
     <tu>
@@ -1991,8 +2021,8 @@
       <tuv lang="en">
         <seg>Sunny</seg>
       </tuv>
-      <tuv lang="be" changeid="Alex" changedate="20121109T084333Z">
-        <seg>Сонечна</seg>
+      <tuv lang="be" changeid="Alex" changedate="20121109T085007Z">
+        <seg>сонечна</seg>
       </tuv>
     </tu>
     <tu>
@@ -2071,8 +2101,8 @@
       <tuv lang="en">
         <seg>Thunderstorm</seg>
       </tuv>
-      <tuv lang="be" changeid="Alex" changedate="20121109T083934Z">
-        <seg>Навальніца</seg>
+      <tuv lang="be" changeid="Alex" changedate="20121109T084944Z">
+        <seg>навальніца</seg>
       </tuv>
     </tu>
     <tu>
@@ -2081,8 +2111,18 @@
       <tuv lang="en">
         <seg>Thunderstorms</seg>
       </tuv>
-      <tuv lang="be" changeid="Alex" changedate="20121109T084024Z">
-        <seg>Навальніцы</seg>
+      <tuv lang="be" changeid="Alex" changedate="20121109T084935Z">
+        <seg>навальніцы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#370</prop>
+      <tuv lang="en">
+        <seg>Thunderstorms</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121109T085022Z">
+        <seg>навальніцы</seg>
       </tuv>
     </tu>
     <tu>
@@ -2321,8 +2361,8 @@
       <tuv lang="en">
         <seg>Windy</seg>
       </tuv>
-      <tuv lang="be" changeid="Alex" changedate="20121109T084057Z">
-        <seg>Ветрана</seg>
+      <tuv lang="be" changeid="Alex" changedate="20121109T084931Z">
+        <seg>ветрана</seg>
       </tuv>
     </tu>
     <tu>
