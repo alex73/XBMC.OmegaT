@@ -587,6 +587,16 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
+      <prop type="path">#31000</prop>
+      <tuv lang="en">
+        <seg>Change Your</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121109T085944Z">
+        <seg>Зьмяняе вашыя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
       <prop type="path">#31300</prop>
       <tuv lang="en">
         <seg>Current Temp</seg>
@@ -817,6 +827,16 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#480</prop>
+      <tuv lang="en">
+        <seg>Appearance</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121109T090035Z">
+        <seg>Вонкавы выгляд</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#54</prop>
       <tuv lang="en">
         <seg>Apr</seg>
@@ -883,6 +903,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121106T154627Z">
         <seg>Яркасьць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#24098</prop>
+      <tuv lang="en">
+        <seg>Broken</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121109T085859Z">
+        <seg>зламаны</seg>
       </tuv>
     </tu>
     <tu>
