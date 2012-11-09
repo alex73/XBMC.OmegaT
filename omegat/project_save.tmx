@@ -747,6 +747,16 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#557</prop>
+      <tuv lang="en">
+        <seg>Artist</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121109T081931Z">
+        <seg>Выканаўцы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#58</prop>
       <tuv lang="en">
         <seg>Aug</seg>
@@ -843,6 +853,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121106T160117Z">
         <seg>Адмысловы таймер выключэньня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#552</prop>
+      <tuv lang="en">
+        <seg>Date</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121109T081918Z">
+        <seg>Часе</seg>
       </tuv>
     </tu>
     <tu>
@@ -977,6 +997,16 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#536</prop>
+      <tuv lang="en">
+        <seg>Icons</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121109T082036Z">
+        <seg>Значкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#36028</prop>
       <tuv lang="en">
         <seg>Ignore</seg>
@@ -1013,6 +1043,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121106T125710Z">
         <seg>Чэр</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#535</prop>
+      <tuv lang="en">
+        <seg>List</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121109T082014Z">
+        <seg>Сьпіс</seg>
       </tuv>
     </tu>
     <tu>
@@ -1163,6 +1203,16 @@
       </tuv>
       <tuv lang="be">
         <seg>Музыка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#551</prop>
+      <tuv lang="en">
+        <seg>Name</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121109T081906Z">
+        <seg>Назьве</seg>
       </tuv>
     </tu>
     <tu>
@@ -1457,6 +1507,26 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#553</prop>
+      <tuv lang="en">
+        <seg>Size</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121109T081921Z">
+        <seg>Памеру</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#550</prop>
+      <tuv lang="en">
+        <seg>Sort by: %s</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121109T081904Z">
+        <seg>Сартаваць па: %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#105</prop>
       <tuv lang="en">
         <seg>Sort by: Size</seg>
@@ -1587,6 +1657,16 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#556</prop>
+      <tuv lang="en">
+        <seg>Title</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121109T081927Z">
+        <seg>Загалоўку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#19150</prop>
       <tuv lang="en">
         <seg>Tu</seg>
@@ -1653,6 +1733,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121108T161824Z">
         <seg>Налады выгляду</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#534</prop>
+      <tuv lang="en">
+        <seg>View: %s</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121109T082011Z">
+        <seg>Выгляд: %s</seg>
       </tuv>
     </tu>
     <tu>
