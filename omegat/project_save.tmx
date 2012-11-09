@@ -727,6 +727,16 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#1026</prop>
+      <tuv lang="en">
+        <seg>Add source</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121109T083147Z">
+        <seg>Дадаць крыніцу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#14076</prop>
       <tuv lang="en">
         <seg>Add to favourites</seg>
@@ -837,6 +847,26 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#1024</prop>
+      <tuv lang="en">
+        <seg>Browse</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121109T083107Z">
+        <seg>Абраць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#1023</prop>
+      <tuv lang="en">
+        <seg>Browse for new share</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121109T083140Z">
+        <seg>Абраць новую крыніцу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#20151</prop>
       <tuv lang="en">
         <seg>Cancel shutdown timer</seg>
@@ -937,12 +967,62 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#1028</prop>
+      <tuv lang="en">
+        <seg>Edit %s source</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121109T083203Z">
+        <seg>Рэдагаваць крыніцу %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#1027</prop>
+      <tuv lang="en">
+        <seg>Edit source</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121109T083154Z">
+        <seg>Рэдагаваць крыніцу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#16105</prop>
       <tuv lang="en">
         <seg>Edit title</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121109T081333Z">
         <seg>Рэдагаваць загаловак</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#1022</prop>
+      <tuv lang="en">
+        <seg>Enter a name for this media Source.</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121109T083058Z">
+        <seg>Увядзіце назву крыніцы медыяфайлаў.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#1029</prop>
+      <tuv lang="en">
+        <seg>Enter the new label</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121109T083221Z">
+        <seg>Увесьці новы цэтлік</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#1021</prop>
+      <tuv lang="en">
+        <seg>Enter the paths or browse for the media locations.</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121109T083019Z">
+        <seg>Увядзіце шлях ці абярыце месца медыяфайлаў.</seg>
       </tuv>
     </tu>
     <tu>
