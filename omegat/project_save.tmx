@@ -617,6 +617,16 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
+      <prop type="path">#31301</prop>
+      <tuv lang="en">
+        <seg>Last Updated</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121109T084543Z">
+        <seg>Апошняе абнаўленьне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
       <prop type="path">#31026</prop>
       <tuv lang="en">
         <seg>Misc Options</seg>
@@ -1013,6 +1023,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121109T081918Z">
         <seg>Часе</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#12393</prop>
+      <tuv lang="en">
+        <seg>Days</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121109T084603Z">
+        <seg>Дзён</seg>
       </tuv>
     </tu>
     <tu>
