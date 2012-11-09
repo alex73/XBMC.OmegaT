@@ -566,6 +566,16 @@
     </tu>
 <!-- Alternative translations -->
     <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.plugin-video-youtube/be.po</prop>
+      <prop type="path">#30521</prop>
+      <tuv lang="en">
+        <seg>Play from here</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121109T080851Z">
+        <seg>Прайграць адсюль</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="file">translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
       <prop type="path">#31303</prop>
       <tuv lang="en">
