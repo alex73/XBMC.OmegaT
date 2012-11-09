@@ -696,6 +696,26 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.skin-touched/be.po</prop>
+      <prop type="path">#31040</prop>
+      <tuv lang="en">
+        <seg>Now Playing</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121109T082629Z">
+        <seg>Зараз прайграецца</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#1020</prop>
+      <tuv lang="en">
+        <seg>Add %s source</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121109T082821Z">
+        <seg>Дадаць крыніцу %s</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#999</prop>
       <tuv lang="en">
@@ -997,6 +1017,16 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#21452</prop>
+      <tuv lang="en">
+        <seg>Get More...</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121109T082707Z">
+        <seg>Атрымаць больш...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#13010</prop>
       <tuv lang="en">
         <seg>Hibernate</seg>
@@ -1293,6 +1323,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121106T125723Z">
         <seg>Ліс</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#13350</prop>
+      <tuv lang="en">
+        <seg>Now playing...</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121109T082637Z">
+        <seg>Зараз прайграецца...</seg>
       </tuv>
     </tu>
     <tu>
