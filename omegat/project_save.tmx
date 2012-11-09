@@ -1237,6 +1237,16 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#13347</prop>
+      <tuv lang="en">
+        <seg>Queue item</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121109T080811Z">
+        <seg>У чаргу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#19021</prop>
       <tuv lang="en">
         <seg>Radio</seg>
