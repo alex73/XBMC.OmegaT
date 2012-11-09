@@ -767,6 +767,16 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#537</prop>
+      <tuv lang="en">
+        <seg>Big list</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121109T082043Z">
+        <seg>Вялікі сьпіс</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#298</prop>
       <tuv lang="en">
         <seg>Bookmarks</seg>
@@ -1317,6 +1327,16 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#13412</prop>
+      <tuv lang="en">
+        <seg>Play from here</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121109T082256Z">
+        <seg>Прайграць адсюль</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#13016</prop>
       <tuv lang="en">
         <seg>Power off System</seg>
@@ -1633,6 +1653,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121106T144950Z">
         <seg>Чт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#21371</prop>
+      <tuv lang="en">
+        <seg>Thumbnail</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121109T082148Z">
+        <seg>Мініятуры</seg>
       </tuv>
     </tu>
     <tu>
