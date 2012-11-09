@@ -567,6 +567,16 @@
 <!-- Alternative translations -->
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.plugin-video-youtube/be.po</prop>
+      <prop type="path">#30523</prop>
+      <tuv lang="en">
+        <seg>Now Playing...</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121109T082610Z">
+        <seg>Зараз прайграецца...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.plugin-video-youtube/be.po</prop>
       <prop type="path">#30521</prop>
       <tuv lang="en">
         <seg>Play from here</seg>
@@ -611,8 +621,8 @@
       <tuv lang="en">
         <seg>Now Playing</seg>
       </tuv>
-      <tuv lang="be" changeid="Alex" changedate="20121106T154935Z">
-        <seg>Прайграецца зараз</seg>
+      <tuv lang="be" changeid="Alex" changedate="20121109T082601Z">
+        <seg>Зараз прайграецца</seg>
       </tuv>
     </tu>
     <tu>
@@ -663,6 +673,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121109T081551Z">
         <seg>Адваротнае сартаваньне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
+      <prop type="path">#31006</prop>
+      <tuv lang="en">
+        <seg>View Options</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121109T082446Z">
+        <seg>Налады выгляду</seg>
       </tuv>
     </tu>
     <tu>
