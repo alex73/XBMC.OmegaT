@@ -716,6 +716,16 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
+      <prop type="path">#31400</prop>
+      <tuv lang="en">
+        <seg>[B]CONFIGURE APPEARANCE SETTINGS[/B][CR][CR]Change the skin · Set language and region · Change file listing options[CR]Set up a screensaver</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121109T090403Z">
+        <seg>[B]ЗЬМЯНІЦЬ НАЛАДЫ ВОНКАВАГА ВЫГЛЯДУ[/B][CR][CR]Зьмяніць тэму · Наставіць мову й рэгіён · Зьмяніць налады сьпісу файлаў[CR]Наставіць ахоўнік экрану</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="file">translations/XBMC-Main-Frodo.skin-touched/be.po</prop>
       <prop type="path">#31002</prop>
       <tuv lang="en">
