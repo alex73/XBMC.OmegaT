@@ -927,6 +927,16 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#1442</prop>
+      <tuv lang="en">
+        <seg>Chance</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121109T084921Z">
+        <seg>магчымы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#24054</prop>
       <tuv lang="en">
         <seg>Changelog</seg>
@@ -1203,6 +1213,16 @@
       </tuv>
       <tuv lang="be">
         <seg>Пятніца</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#434</prop>
+      <tuv lang="en">
+        <seg>From %s at %i %s</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121109T084859Z">
+        <seg>%s at %i %s</seg>
       </tuv>
     </tu>
     <tu>
