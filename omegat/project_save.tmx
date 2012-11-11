@@ -1527,6 +1527,16 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#106</prop>
+      <tuv lang="en">
+        <seg>No</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121111T111548Z">
+        <seg>Не</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#231</prop>
       <tuv lang="en">
         <seg>None</seg>
@@ -1563,6 +1573,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121109T082637Z">
         <seg>Зараз прайграецца...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#186</prop>
+      <tuv lang="en">
+        <seg>OK</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121111T111610Z">
+        <seg>Добра</seg>
       </tuv>
     </tu>
     <tu>
@@ -1977,6 +1997,16 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#108</prop>
+      <tuv lang="en">
+        <seg>Slideshow</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121111T111555Z">
+        <seg>Слайдшоў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#375</prop>
       <tuv lang="en">
         <seg>Snow</seg>
@@ -1993,6 +2023,26 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121109T081904Z">
         <seg>Сартаваць па: %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#104</prop>
+      <tuv lang="en">
+        <seg>Sort by: Date</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121111T111436Z">
+        <seg>Сартаваць па: часе</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#103</prop>
+      <tuv lang="en">
+        <seg>Sort by: Name</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121111T111543Z">
+        <seg>Сартаваць па: назьве</seg>
       </tuv>
     </tu>
     <tu>
@@ -2463,6 +2513,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121109T084931Z">
         <seg>ветрана</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#107</prop>
+      <tuv lang="en">
+        <seg>Yes</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121111T111549Z">
+        <seg>Так</seg>
       </tuv>
     </tu>
     <tu>
