@@ -6,6 +6,66 @@
 <!-- Default translations -->
 <!-- Alternative translations -->
     <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.metadata-album-universal/be.po</prop>
+      <prop type="path">#30003</prop>
+      <tuv lang="en">
+        <seg>Preferred Language</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121111T095036Z">
+        <seg>Пераважная мова</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.metadata-artists-universal/be.po</prop>
+      <prop type="path">#30015</prop>
+      <tuv lang="en">
+        <seg>Preferred Language</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121111T095053Z">
+        <seg>Пераважная мова</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.metadata-musicvideos-last-fm/be.po</prop>
+      <prop type="path">Addon Description</prop>
+      <tuv lang="en">
+        <seg>Download Music Video information</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121111T095154Z">
+        <seg>Зладаваць зьвесткі пра музычнае відэа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.metadata-themoviedb-org/be.po</prop>
+      <prop type="path">#30002</prop>
+      <tuv lang="en">
+        <seg>Preferred Language</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121111T095257Z">
+        <seg>Пераважная мова</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.metadata-tvdb-com/be.po</prop>
+      <prop type="path">#30004</prop>
+      <tuv lang="en">
+        <seg>Language</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121111T095310Z">
+        <seg>Мова</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.plugin-video-youtube/be.po</prop>
+      <prop type="path">#30002</prop>
+      <tuv lang="en">
+        <seg>My Favorites</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121111T095545Z">
+        <seg>Мае ўпадабаныя</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="file">translations/XBMC-Main-Frodo.plugin-video-youtube/be.po</prop>
       <prop type="path">#30523</prop>
       <tuv lang="en">
@@ -23,6 +83,156 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121109T080851Z">
         <seg>Прайграць адсюль</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.pvr-fortherecord-argus/be.po</prop>
+      <prop type="path">#30005</prop>
+      <tuv lang="en">
+        <seg>Password</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121111T095602Z">
+        <seg>Пароль</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.pvr-hts/be.po</prop>
+      <prop type="path">#30004</prop>
+      <tuv lang="en">
+        <seg>Password</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121111T095607Z">
+        <seg>Пароль</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.pvr-mediaportal-tvserver/be.po</prop>
+      <prop type="path">#30066</prop>
+      <tuv lang="en">
+        <seg>Unknown channel</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121111T095628Z">
+        <seg>Невядомы канал</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.pvr-mythtv-cmyth/be.po</prop>
+      <prop type="path">#30003</prop>
+      <tuv lang="en">
+        <seg>MythTV Database Password</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121111T095655Z">
+        <seg>Пароль да базы зьвестак MythTV</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.pvr-nextpvr/be.po</prop>
+      <prop type="path">#30040</prop>
+      <tuv lang="en">
+        <seg>Connection</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121111T095704Z">
+        <seg>Злучэньне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.pvr-vdr-vnsi/be.po</prop>
+      <prop type="path">#30040</prop>
+      <tuv lang="en">
+        <seg>Stopped</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121111T095818Z">
+        <seg>Спынены</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.pvr-vuplus/be.po</prop>
+      <prop type="path">#30004</prop>
+      <tuv lang="en">
+        <seg>Password</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121111T095824Z">
+        <seg>Пароль</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.repository-xbmc-org/be.po</prop>
+      <prop type="path">Addon Summary</prop>
+      <tuv lang="en">
+        <seg>Install Add-ons from XBMC.org</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121111T095842Z">
+        <seg>Усталяваць дадатак з XBMC.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.screensaver-rsxs-euphoria/be.po</prop>
+      <prop type="path">Addon Summary</prop>
+      <tuv lang="en">
+        <seg>About as psychedelic as screensavers get</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121111T100815Z">
+        <seg>Падобны на псіхадэлічны ахоўнік экрану</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.screensaver-rsxs-plasma/be.po</prop>
+      <prop type="path">Addon Summary</prop>
+      <tuv lang="en">
+        <seg>Probably the second most psychedelic screensaver ever</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121111T100955Z">
+        <seg>Напэўна, другі найбольш псіхадэлічны ахоўнік экрану</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.screensaver-rsxs-solarwinds/be.po</prop>
+      <prop type="path">Addon Summary</prop>
+      <tuv lang="en">
+        <seg>A mesmerizing particle effects screensaver</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121111T100927Z">
+        <seg>Ахоўнік экрану з зачаравальнымі эфэктамі часьціцаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.screensaver-xbmc-builtin-black/be.po</prop>
+      <prop type="path">Addon Summary</prop>
+      <tuv lang="en">
+        <seg>Screensaver that turns your screen black</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121111T101041Z">
+        <seg>Ахоўнік экрану што робіць экран чорным</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.screensaver-xbmc-builtin-dim/be.po</prop>
+      <prop type="path">Addon Summary</prop>
+      <tuv lang="en">
+        <seg>Screensaver that dims your screen</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121111T101107Z">
+        <seg>Ахоўнік экрану што зацямняе экран</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.screensaver-xbmc-builtin-slideshow/be.po</prop>
+      <prop type="path">Addon Summary</prop>
+      <tuv lang="en">
+        <seg>Screensaver that displays an image slideshow</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121111T101146Z">
+        <seg>Ахоўнік экрану што робіць паказ слайдаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.script-xbmc-subtitles/be.po</prop>
+      <prop type="path">#610</prop>
+      <tuv lang="en">
+        <seg>Search</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121111T101155Z">
+        <seg>Пошук</seg>
       </tuv>
     </tu>
     <tu>
@@ -193,6 +403,106 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121109T082629Z">
         <seg>Зараз прайграецца</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.visualization-dxspectrum/be.po</prop>
+      <prop type="path">#30007</prop>
+      <tuv lang="en">
+        <seg>Big</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121111T101217Z">
+        <seg>Вялікі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.visualization-glspectrum/be.po</prop>
+      <prop type="path">#30007</prop>
+      <tuv lang="en">
+        <seg>Big</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121111T101227Z">
+        <seg>Вялікі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.visualization-itunes/be.po</prop>
+      <prop type="path">Addon Summary</prop>
+      <tuv lang="en">
+        <seg>iTunes Visualization Wrapper</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121111T101252Z">
+        <seg>Абгортка візуалізацыі iTunes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.visualization-milkdrop/be.po</prop>
+      <prop type="path">#30050</prop>
+      <tuv lang="en">
+        <seg>%2.0f secs</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121111T101309Z">
+        <seg>%2.0f сэк.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.visualization-projectm/be.po</prop>
+      <prop type="path">#30000</prop>
+      <tuv lang="en">
+        <seg>Render Quality</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121111T101332Z">
+        <seg>Якасьць рэндэрэнгу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.visualization-waveform/be.po</prop>
+      <prop type="path">Addon Summary</prop>
+      <tuv lang="en">
+        <seg>Visualization showing 2 Waveform Graphs on the screen</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121111T101720Z">
+        <seg>Візуалізацыя што паказвае 2 графікі сыгналу на экране</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.weather-wunderground/be.po</prop>
+      <prop type="path">#30111</prop>
+      <tuv lang="en">
+        <seg>Change location 1</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121111T095928Z">
+        <seg>Зьмяніць месца 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.weather-wunderground/be.po</prop>
+      <prop type="path">#30112</prop>
+      <tuv lang="en">
+        <seg>Change location 2</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121111T095934Z">
+        <seg>Зьмяніць месца 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.weather-wunderground/be.po</prop>
+      <prop type="path">#30113</prop>
+      <tuv lang="en">
+        <seg>Change location 3</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121111T095936Z">
+        <seg>Зьмяніць месца 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.webinterface-default/be.po</prop>
+      <prop type="path">Addon Description</prop>
+      <tuv lang="en">
+        <seg>Default web interface for XBMC; Designed for devices of all resolutions</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121111T101530Z">
+        <seg>Стандартны вэб-інтэрфэйс да XBMC; распрацаваны для прыладаў зь любымі разрознасьцямі</seg>
       </tuv>
     </tu>
     <tu>
