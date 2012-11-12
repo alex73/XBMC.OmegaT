@@ -287,6 +287,16 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
+      <prop type="path">#31909</prop>
+      <tuv lang="en">
+        <seg>Fetching forecast info...</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T080310Z">
+        <seg>Атрымоўваем прагноз...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
       <prop type="path">#31033</prop>
       <tuv lang="en">
         <seg>Info</seg>
@@ -1247,6 +1257,16 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#305</prop>
+      <tuv lang="en">
+        <seg>Enabled</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T080132Z">
+        <seg>Уключаны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#1022</prop>
       <tuv lang="en">
         <seg>Enter a name for this media Source.</seg>
@@ -1517,6 +1537,16 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#393</prop>
+      <tuv lang="en">
+        <seg>High</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T080342Z">
+        <seg>Найбольшая</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#406</prop>
       <tuv lang="en">
         <seg>Humidity</seg>
@@ -1733,6 +1763,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121106T125516Z">
         <seg>Тра</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#392</prop>
+      <tuv lang="en">
+        <seg>Medium</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T080347Z">
+        <seg>Сярэдняя</seg>
       </tuv>
     </tu>
     <tu>
