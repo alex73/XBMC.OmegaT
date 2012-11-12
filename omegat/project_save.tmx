@@ -1477,6 +1477,16 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#7</prop>
+      <tuv lang="en">
+        <seg>File manager</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T083248Z">
+        <seg>Кіраўнік файламі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#744</prop>
       <tuv lang="en">
         <seg>Files</seg>
