@@ -451,8 +451,8 @@
       <tuv lang="en">
         <seg>[B]CONFIGURE APPEARANCE SETTINGS[/B][CR][CR]Change the skin · Set language and region · Change file listing options[CR]Set up a screensaver</seg>
       </tuv>
-      <tuv lang="be" changeid="Alex" changedate="20121109T090403Z">
-        <seg>[B]ЗЬМЯНІЦЬ НАЛАДЫ ВОНКАВАГА ВЫГЛЯДУ[/B][CR][CR]Зьмяніць тэму · Наставіць мову й рэгіён · Зьмяніць налады сьпісу файлаў[CR]Наставіць ахоўнік экрану</seg>
+      <tuv lang="be" changeid="Alex" changedate="20121112T085431Z">
+        <seg>[B]ЗЬМЯНІЦЬ НАЛАДЫ ВОНКАВАГА ВЫГЛЯДУ[/B][CR][CR]Зьмяніць аздабленьне · Наставіць мову й рэгіён · Зьмяніць налады сьпісу файлаў[CR]Наставіць ахоўнік экрану</seg>
       </tuv>
     </tu>
     <tu>
@@ -683,6 +683,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121111T101530Z">
         <seg>Стандартны вэб-інтэрфэйс да XBMC; распрацаваны для прыладаў зь любымі разрознасьцямі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#14078</prop>
+      <tuv lang="en">
+        <seg>- Colours</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T085639Z">
+        <seg>- Колеры</seg>
       </tuv>
     </tu>
     <tu>
@@ -2891,8 +2901,18 @@
       <tuv lang="en">
         <seg>Skin</seg>
       </tuv>
-      <tuv lang="be" changeid="Alex" changedate="20121112T084117Z">
-        <seg>Тэма</seg>
+      <tuv lang="be" changeid="Alex" changedate="20121112T085440Z">
+        <seg>Аздабленьне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#24103</prop>
+      <tuv lang="en">
+        <seg>Skin is missing some files</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T085541Z">
+        <seg>Некаторыя файлы адсутнічаюць у аздабленьні</seg>
       </tuv>
     </tu>
     <tu>
@@ -3361,8 +3381,8 @@
       <tuv lang="en">
         <seg>Unable to load skin</seg>
       </tuv>
-      <tuv lang="be" changeid="Alex" changedate="20121112T085049Z">
-        <seg>Немагчыма зладаваць дадатак</seg>
+      <tuv lang="be" changeid="Alex" changedate="20121112T085506Z">
+        <seg>Немагчыма зладаваць аздабленьне</seg>
       </tuv>
     </tu>
     <tu>
