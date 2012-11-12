@@ -556,6 +556,16 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.skin-touched/be.po</prop>
+      <prop type="path">#31390</prop>
+      <tuv lang="en">
+        <seg>Skin default</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T093437Z">
+        <seg>Перадвызначана</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="file">translations/XBMC-Main-Frodo.visualization-dxspectrum/be.po</prop>
       <prop type="path">#30007</prop>
       <tuv lang="en">
@@ -751,8 +761,8 @@
       <tuv lang="en">
         <seg>- Zoom</seg>
       </tuv>
-      <tuv lang="be" changeid="Alex" changedate="20121112T084728Z">
-        <seg>- сумер</seg>
+      <tuv lang="be" changeid="Alex" changedate="20121112T093405Z">
+        <seg>- Сумер</seg>
       </tuv>
     </tu>
     <tu>
@@ -1831,8 +1841,8 @@
       <tuv lang="en">
         <seg>Home window</seg>
       </tuv>
-      <tuv lang="be" changeid="Alex" changedate="20121112T085840Z">
-        <seg>Пачатковы экран</seg>
+      <tuv lang="be" changeid="Alex" changedate="20121112T093453Z">
+        <seg>Галоўны экран</seg>
       </tuv>
     </tu>
     <tu>
@@ -3117,6 +3127,16 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#512</prop>
+      <tuv lang="en">
+        <seg>Startup window</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T093445Z">
+        <seg>Пачатковы экран</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#21874</prop>
       <tuv lang="en">
         <seg>State</seg>
@@ -3292,6 +3312,26 @@
         <seg>TV</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121112T085859Z">
+        <seg>ТВ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#19180</prop>
+      <tuv lang="en">
+        <seg>TV</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T093533Z">
+        <seg>ТВ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#36037</prop>
+      <tuv lang="en">
+        <seg>TV</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T093544Z">
         <seg>ТВ</seg>
       </tuv>
     </tu>
