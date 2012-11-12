@@ -817,6 +817,16 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#24036</prop>
+      <tuv lang="en">
+        <seg>Change log</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T074932Z">
+        <seg>Гісторыя зьменаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#24054</prop>
       <tuv lang="en">
         <seg>Changelog</seg>
@@ -873,6 +883,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121109T085006Z">
         <seg>воблачна</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#24020</prop>
+      <tuv lang="en">
+        <seg>Configure</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T074714Z">
+        <seg>Наладзіць</seg>
       </tuv>
     </tu>
     <tu>
@@ -1073,6 +1093,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121109T081333Z">
         <seg>Рэдагаваць загаловак</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#24022</prop>
+      <tuv lang="en">
+        <seg>Enable</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T074725Z">
+        <seg>Дазволіць</seg>
       </tuv>
     </tu>
     <tu>
@@ -1363,6 +1393,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121106T144644Z">
         <seg>Ігнараваць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#24038</prop>
+      <tuv lang="en">
+        <seg>Install</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T074806Z">
+        <seg>Усталяваць</seg>
       </tuv>
     </tu>
     <tu>
@@ -2097,6 +2137,16 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#24048</prop>
+      <tuv lang="en">
+        <seg>Rollback</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T074907Z">
+        <seg>Да папярэдняй</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#19154</prop>
       <tuv lang="en">
         <seg>Sa</seg>
@@ -2713,6 +2763,26 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121106T160252Z">
         <seg>Тып:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#24037</prop>
+      <tuv lang="en">
+        <seg>Uninstall</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T074820Z">
+        <seg>Высталяваць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#24069</prop>
+      <tuv lang="en">
+        <seg>Update</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T074744Z">
+        <seg>Абнавіць</seg>
       </tuv>
     </tu>
     <tu>
