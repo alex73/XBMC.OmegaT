@@ -577,12 +577,32 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#24064</prop>
+      <tuv lang="en">
+        <seg>Add-on enabled</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T075407Z">
+        <seg>Дадатак ўключаны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#24011</prop>
       <tuv lang="en">
         <seg>Add-on repository</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121106T144807Z">
         <seg>Сховішча дадаткаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#24065</prop>
+      <tuv lang="en">
+        <seg>Add-on updated</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T075416Z">
+        <seg>Дадатак абноўлены</seg>
       </tuv>
     </tu>
     <tu>
@@ -817,6 +837,16 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#24066</prop>
+      <tuv lang="en">
+        <seg>Cancel Add-on download?</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T075433Z">
+        <seg>Скасаваць ладаваньне дадатку?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#20151</prop>
       <tuv lang="en">
         <seg>Cancel shutdown timer</seg>
@@ -987,6 +1017,16 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#24067</prop>
+      <tuv lang="en">
+        <seg>Currently downloading Add-ons</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T075447Z">
+        <seg>Зараз зладоўваюцца дадаткі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#20150</prop>
       <tuv lang="en">
         <seg>Custom shutdown timer</seg>
@@ -1073,6 +1113,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121106T155546Z">
         <seg>Пункт расы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#24021</prop>
+      <tuv lang="en">
+        <seg>Disable</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T075545Z">
+        <seg>Забараніць</seg>
       </tuv>
     </tu>
     <tu>
@@ -2803,6 +2853,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121112T074744Z">
         <seg>Абнавіць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#24068</prop>
+      <tuv lang="en">
+        <seg>Update available</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T075510Z">
+        <seg>Ёсьць абнаўленьне</seg>
       </tuv>
     </tu>
     <tu>
