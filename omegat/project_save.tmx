@@ -2347,6 +2347,16 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#19240</prop>
+      <tuv lang="en">
+        <seg>No PVR add-on enabled</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T090045Z">
+        <seg>Няма ўключаных дадаткаў PVR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#19271</prop>
       <tuv lang="en">
         <seg>No PVR add-ons could be found</seg>
@@ -2533,6 +2543,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121109T082256Z">
         <seg>Прайграць адсюль</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#19274</prop>
+      <tuv lang="en">
+        <seg>Please visit xbmc.org/pvr to learn more.</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T090242Z">
+        <seg>Падрабязнасьці вы знойдзеце на xbmc.org/pvr.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3737,6 +3757,16 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#19272</prop>
+      <tuv lang="en">
+        <seg>You need a tuner, backend software, and an</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T090157Z">
+        <seg>Вам патрэбны прыймач, апраграмаваньне да яго,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#19087</prop>
       <tuv lang="en">
         <seg>__-Tu-__-__-__-__-__</seg>
@@ -3803,6 +3833,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121106T145029Z">
         <seg>__-__-__-__-__-__-Нд</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#19273</prop>
+      <tuv lang="en">
+        <seg>add-on for the backend to be able to use PVR.</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T090221Z">
+        <seg>і дадатак які можа выкарыстоўваць ваш PVR.</seg>
       </tuv>
     </tu>
   </body>
