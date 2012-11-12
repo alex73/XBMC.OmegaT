@@ -2307,6 +2307,16 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#15108</prop>
+      <tuv lang="en">
+        <seg>Navigation sounds</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T094854Z">
+        <seg>Гук навігацыі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#20158</prop>
       <tuv lang="en">
         <seg>Network information</seg>
@@ -2757,6 +2767,16 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#20026</prop>
+      <tuv lang="en">
+        <seg>Region</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T095119Z">
+        <seg>Рэгіён</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#14077</prop>
       <tuv lang="en">
         <seg>Remove from favourites</seg>
@@ -2943,6 +2963,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121109T084933Z">
         <seg>неглыбокі туман</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#13305</prop>
+      <tuv lang="en">
+        <seg>Show RSS news feeds</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T095006Z">
+        <seg>Паказваць стужкі навінаў RSS</seg>
       </tuv>
     </tu>
     <tu>
@@ -3491,8 +3521,8 @@
       <tuv lang="en">
         <seg>To use this feature you must download an Add-on:</seg>
       </tuv>
-      <tuv lang="be" changeid="Alex" changedate="20121112T085018Z">
-        <seg>Каб скарыстацца гэтай магчымасьцю, трэба зладаваць дадатак:</seg>
+      <tuv lang="be" changeid="Alex" changedate="20121112T095054Z">
+        <seg>Каб гэтым карыстацца, трэба зладаваць дадатак:</seg>
       </tuv>
     </tu>
     <tu>
