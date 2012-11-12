@@ -687,6 +687,16 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#13303</prop>
+      <tuv lang="en">
+        <seg>- Fonts</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T084704Z">
+        <seg>- Шрыфты</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#21417</prop>
       <tuv lang="en">
         <seg>- Settings</seg>
@@ -703,6 +713,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121112T084508Z">
         <seg>- Тэма</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#20109</prop>
+      <tuv lang="en">
+        <seg>- Zoom</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T084728Z">
+        <seg>- сумер</seg>
       </tuv>
     </tu>
     <tu>
