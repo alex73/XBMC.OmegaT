@@ -897,6 +897,16 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#14071</prop>
+      <tuv lang="en">
+        <seg>Allow file renaming and deletion</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T095803Z">
+        <seg>Дазволіць пераназываньне й выдаленьне файлаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#34122</prop>
       <tuv lang="en">
         <seg>Always</seg>
@@ -2937,6 +2947,26 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#356</prop>
+      <tuv lang="en">
+        <seg>Screensaver mode</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T095948Z">
+        <seg>Рэжым ахоўніка экрану</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#355</prop>
+      <tuv lang="en">
+        <seg>Screensaver time</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T095935Z">
+        <seg>Час да старту ахоўніка экрану</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#194</prop>
       <tuv lang="en">
         <seg>Searching...</seg>
@@ -3007,6 +3037,16 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#21382</prop>
+      <tuv lang="en">
+        <seg>Show "Add source" buttons in file lists</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T095839Z">
+        <seg>Паказваць кнопку "Дадаць крыніцу" ў сьпісе файлаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#13305</prop>
       <tuv lang="en">
         <seg>Show RSS news feeds</seg>
@@ -3023,6 +3063,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121112T095633Z">
         <seg>Паказваць пашырэньні файлаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#21330</prop>
+      <tuv lang="en">
+        <seg>Show hidden files and directories</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T095905Z">
+        <seg>Паказваць схаваныя файлы й каталёгі</seg>
       </tuv>
     </tu>
     <tu>
