@@ -477,6 +477,26 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
+      <prop type="path">#31406</prop>
+      <tuv lang="en">
+        <seg>[B]CONFIGURE SYSTEM SETTINGS[/B][CR][CR]Setup and calibrate displays · Configure audio output · Setup remote controls[CR]Set power saving options · Enable debugging · Setup master lock</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T083007Z">
+        <seg>[B]ЗЬМЯНІЦЬ НАЛАДЫ СЫСТЭМЫ[/B][CR][CR]Наладзіць і калібраваць адлюстраваньне · Наставіць аўдыё вывад · Наладзіць адлеглае кіраваньне[CR]Наставіць захоўваньне энэргіі · Дазволіць дэбаг · Наставіць агульны замок</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
+      <prop type="path">#31409</prop>
+      <tuv lang="en">
+        <seg>[B]CONFIGURE TV SETTINGS[/B][CR][CR]Change fullscreen info · Manage EPG data settings</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T083203Z">
+        <seg>[B]ЗЬМЯНІЦЬ НАЛАДЫ ТВ[/B][CR][CR]Зьмяніць зьвесткі ва ўвесь экран · Кіраваць наладамі EPG зьвестак</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
       <prop type="path">#31401</prop>
       <tuv lang="en">
         <seg>[B]CONFIGURE VIDEO SETTINGS[/B][CR][CR]Manage your video library · Set video playback options · Change video listing options[CR]Set subtitle fonts</seg>
