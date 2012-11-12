@@ -477,6 +477,46 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.visualization-projectm/be.po</prop>
+      <prop type="path">#30003</prop>
+      <tuv lang="en">
+        <seg>High</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T075927Z">
+        <seg>Найбольшая</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.visualization-projectm/be.po</prop>
+      <prop type="path">#30001</prop>
+      <tuv lang="en">
+        <seg>Low</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T075935Z">
+        <seg>Найменшая</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.visualization-projectm/be.po</prop>
+      <prop type="path">#30004</prop>
+      <tuv lang="en">
+        <seg>Maximum</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T075954Z">
+        <seg>Максымальная</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.visualization-projectm/be.po</prop>
+      <prop type="path">#30002</prop>
+      <tuv lang="en">
+        <seg>Medium</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T075939Z">
+        <seg>Сярэдняя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.visualization-projectm/be.po</prop>
       <prop type="path">#30000</prop>
       <tuv lang="en">
         <seg>Render Quality</seg>
@@ -1297,6 +1337,16 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#394</prop>
+      <tuv lang="en">
+        <seg>Fog</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T080020Z">
+        <seg>Туман</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#1416</prop>
       <tuv lang="en">
         <seg>Foggy</seg>
@@ -1423,6 +1473,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121112T074344Z">
         <seg>Зьвесткі пра абсталяваньне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#395</prop>
+      <tuv lang="en">
+        <seg>Haze</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T080027Z">
+        <seg>Імгла</seg>
       </tuv>
     </tu>
     <tu>
@@ -2123,6 +2183,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121106T160444Z">
         <seg>Профілі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#1043</prop>
+      <tuv lang="en">
+        <seg>Program Add-ons</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T075901Z">
+        <seg>Праграмы-дадаткі</seg>
       </tuv>
     </tu>
     <tu>
