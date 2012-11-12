@@ -687,6 +687,16 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#21450</prop>
+      <tuv lang="en">
+        <seg>- Edit</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T084835Z">
+        <seg>- Рэдагаваць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#13303</prop>
       <tuv lang="en">
         <seg>- Fonts</seg>
@@ -763,6 +773,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121109T081226Z">
         <seg>Дадаць ў упадабаныя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#24076</prop>
+      <tuv lang="en">
+        <seg>Add-on Required</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T084857Z">
+        <seg>Патрабуецца дадатак</seg>
       </tuv>
     </tu>
     <tu>
@@ -3267,6 +3287,16 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#24100</prop>
+      <tuv lang="en">
+        <seg>To use this feature you must download an Add-on:</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T085018Z">
+        <seg>Каб скарыстацца гэтай магчымасьцю, трэба зладаваць дадатак:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#19150</prop>
       <tuv lang="en">
         <seg>Tu</seg>
@@ -3323,6 +3353,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121112T080823Z">
         <seg>Сонечная акт.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#24102</prop>
+      <tuv lang="en">
+        <seg>Unable to load skin</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T085049Z">
+        <seg>Немагчыма зладаваць дадатак</seg>
       </tuv>
     </tu>
     <tu>
@@ -3603,6 +3643,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121109T084931Z">
         <seg>ветрана</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#24101</prop>
+      <tuv lang="en">
+        <seg>Would you like to download this Add-on?</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T085040Z">
+        <seg>Ці жадаеце зладаваць гэты дадатак ?</seg>
       </tuv>
     </tu>
     <tu>
