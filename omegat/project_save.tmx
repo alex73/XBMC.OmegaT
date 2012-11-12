@@ -331,8 +331,8 @@
       <tuv lang="en">
         <seg>Items</seg>
       </tuv>
-      <tuv lang="be" changeid="Alex" changedate="20121108T161703Z">
-        <seg>элемэнтаў</seg>
+      <tuv lang="be" changeid="Alex" changedate="20121112T095440Z">
+        <seg>складнікаў</seg>
       </tuv>
     </tu>
     <tu>
@@ -2537,6 +2537,16 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#308</prop>
+      <tuv lang="en">
+        <seg>Original stream's language</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T095336Z">
+        <seg>Мова зыходнай плыні</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#1424</prop>
       <tuv lang="en">
         <seg>Overcast</seg>
@@ -2633,6 +2643,26 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121106T155753Z">
         <seg>Выключыць кампутар</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#285</prop>
+      <tuv lang="en">
+        <seg>Preferred audio language</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T095152Z">
+        <seg>Пераважная мова аўдыё</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#286</prop>
+      <tuv lang="en">
+        <seg>Preferred subtitle language</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T095158Z">
+        <seg>Пераважная мова субтытраў</seg>
       </tuv>
     </tu>
     <tu>
@@ -3633,6 +3663,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121109T081400Z">
         <seg>Абнавіць бібліятэку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#309</prop>
+      <tuv lang="en">
+        <seg>User Interface language</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T095347Z">
+        <seg>Мова карыстальніцкага інтэрфэйсу</seg>
       </tuv>
     </tu>
     <tu>
