@@ -57,6 +57,16 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.plugin-video-youtube/be.po</prop>
+      <prop type="path">#30624</prop>
+      <tuv lang="en">
+        <seg>Downloading</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T075102Z">
+        <seg>Зладоўваецца</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.plugin-video-youtube/be.po</prop>
       <prop type="path">#30002</prop>
       <tuv lang="en">
         <seg>My Favorites</seg>
@@ -223,6 +233,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121111T101146Z">
         <seg>Ахоўнік экрану што робіць паказ слайдаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.script-xbmc-subtitles/be.po</prop>
+      <prop type="path">#649</prop>
+      <tuv lang="en">
+        <seg>Downloading subtitles...</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T075124Z">
+        <seg>Зладоўваюцца субтытры...</seg>
       </tuv>
     </tu>
     <tu>
