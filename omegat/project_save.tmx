@@ -1207,6 +1207,16 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#20177</prop>
+      <tuv lang="en">
+        <seg>Done</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T080943Z">
+        <seg>Зроблена</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#1415</prop>
       <tuv lang="en">
         <seg>Drizzle</seg>
@@ -1293,6 +1303,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121109T083019Z">
         <seg>Увядзіце шлях ці абярыце месца медыяфайлаў.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#16028</prop>
+      <tuv lang="en">
+        <seg>Enter value</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T080924Z">
+        <seg>Увядзіце значэньне</seg>
       </tuv>
     </tu>
     <tu>
@@ -1563,6 +1583,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121106T155555Z">
         <seg>Вільготнасьць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#1006</prop>
+      <tuv lang="en">
+        <seg>IP address</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T081038Z">
+        <seg>Адрас IP</seg>
       </tuv>
     </tu>
     <tu>
@@ -2677,6 +2707,16 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#20182</prop>
+      <tuv lang="en">
+        <seg>Space</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T081011Z">
+        <seg>Прагал</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#399</prop>
       <tuv lang="en">
         <seg>Speed units</seg>
@@ -2803,6 +2843,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121106T155848Z">
         <seg>Прыпыніць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#20180</prop>
+      <tuv lang="en">
+        <seg>Symbols</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T080959Z">
+        <seg>Сымбалі</seg>
       </tuv>
     </tu>
     <tu>
@@ -3011,8 +3061,8 @@
       <tuv lang="en">
         <seg>UV index</seg>
       </tuv>
-      <tuv lang="be" changeid="Alex" changedate="20121112T080743Z">
-        <seg>Сонечная актыўнасьць</seg>
+      <tuv lang="be" changeid="Alex" changedate="20121112T080823Z">
+        <seg>Сонечная акт.</seg>
       </tuv>
     </tu>
     <tu>
