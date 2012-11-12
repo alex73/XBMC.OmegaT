@@ -337,6 +337,16 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
+      <prop type="path">#31027</prop>
+      <tuv lang="en">
+        <seg>Location</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T081932Z">
+        <seg>Месца</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
       <prop type="path">#31026</prop>
       <tuv lang="en">
         <seg>Misc Options</seg>
@@ -453,6 +463,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121109T090558Z">
         <seg>[B]ЗЬМЯНІЦЬ НАЛАДЫ ВІДЭА[/B][CR][CR]Кіраваць бібліятэкай відэа · Наставіць налады прайграваньня відэа · Зьмяніць налады сьпісу відэа[CR]Наставіць шрыфт субтытраў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
+      <prop type="path">#31404</prop>
+      <tuv lang="en">
+        <seg>[B]CONFIGURE WEATHER SETTINGS[/B][CR][CR]Set three cities to collect weather information</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T081712Z">
+        <seg>[B]ЗЬМЯНІЦЬ НАЛАДЫ НАДВОР'Я[/B][CR][CR]Вызначыць тры гарады каб зьбіраць зьвесткі пра надвор'е</seg>
       </tuv>
     </tu>
     <tu>
@@ -1243,6 +1263,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121112T080943Z">
         <seg>Зроблена</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#24042</prop>
+      <tuv lang="en">
+        <seg>Downloading %i%%</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T081801Z">
+        <seg>Зладоўваецца %i%%</seg>
       </tuv>
     </tu>
     <tu>
@@ -2433,6 +2463,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121106T155830Z">
         <seg>Перастартаваць кампутар</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#184</prop>
+      <tuv lang="en">
+        <seg>Refresh</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T081907Z">
+        <seg>Абнавіць</seg>
       </tuv>
     </tu>
     <tu>
