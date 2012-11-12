@@ -687,6 +687,26 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#21417</prop>
+      <tuv lang="en">
+        <seg>- Settings</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T084502Z">
+        <seg>- Налады</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#15111</prop>
+      <tuv lang="en">
+        <seg>- Theme</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T084508Z">
+        <seg>- Тэма</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#1020</prop>
       <tuv lang="en">
         <seg>Add %s source</seg>
@@ -1053,6 +1073,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121109T083644Z">
         <seg>Гісторыя зьменаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#14091</prop>
+      <tuv lang="en">
+        <seg>Character set</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T084322Z">
+        <seg>Знаказбор</seg>
       </tuv>
     </tu>
     <tu>
@@ -1487,6 +1517,16 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#14081</prop>
+      <tuv lang="en">
+        <seg>File lists</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T084346Z">
+        <seg>Сьпісы файлаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#7</prop>
       <tuv lang="en">
         <seg>File manager</seg>
@@ -1773,6 +1813,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121112T074806Z">
         <seg>Усталяваць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#14090</prop>
+      <tuv lang="en">
+        <seg>International</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T084258Z">
+        <seg>Мова</seg>
       </tuv>
     </tu>
     <tu>
@@ -2643,6 +2693,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121109T090855Z">
         <seg>Разрознасьць экрану:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#360</prop>
+      <tuv lang="en">
+        <seg>Screensaver</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T084408Z">
+        <seg>Ахоўнік экрану</seg>
       </tuv>
     </tu>
     <tu>
