@@ -1547,6 +1547,16 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#419</prop>
+      <tuv lang="en">
+        <seg>High</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T080519Z">
+        <seg>Найбольшая</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#406</prop>
       <tuv lang="en">
         <seg>Humidity</seg>
@@ -1712,6 +1722,16 @@
         <seg>Low</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121112T080400Z">
+        <seg>Найменшая</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#418</prop>
+      <tuv lang="en">
+        <seg>Low</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T080523Z">
         <seg>Найменшая</seg>
       </tuv>
     </tu>
