@@ -447,6 +447,16 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
+      <prop type="path">#31403</prop>
+      <tuv lang="en">
+        <seg>[B]CONFIGURE PICTURE SETTINGS[/B][CR][CR]Set picture listing options · Configure slideshows</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T082106Z">
+        <seg>[B]ЗЬМЯНІЦЬ НАЛАДЫ МАЛЮНКАЎ[/B][CR][CR]Наставіць налады сьпісу відарысаў · Наладзіць слайдшоў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
       <prop type="path">#31410</prop>
       <tuv lang="en">
         <seg>[B]CONFIGURE SERVICE SETTINGS[/B][CR][CR]Setup control of XBMC via UPnP and HTTP · Configure file sharing[CR]Enable Zeroconf · Configure AirPlay</seg>
@@ -2301,8 +2311,8 @@
       <tuv lang="en">
         <seg>Picture Add-ons</seg>
       </tuv>
-      <tuv lang="be" changeid="Alex" changedate="20121109T083438Z">
-        <seg>Дадаткі малюнкаў</seg>
+      <tuv lang="be" changeid="Alex" changedate="20121112T082132Z">
+        <seg>Дадаткі відарысаў</seg>
       </tuv>
     </tu>
     <tu>
@@ -2311,8 +2321,8 @@
       <tuv lang="en">
         <seg>Pictures</seg>
       </tuv>
-      <tuv lang="be">
-        <seg>Малюнкі</seg>
+      <tuv lang="be" changeid="Alex" changedate="20121112T082120Z">
+        <seg>Відарысы</seg>
       </tuv>
     </tu>
     <tu>
