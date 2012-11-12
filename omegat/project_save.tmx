@@ -577,6 +577,16 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#24023</prop>
+      <tuv lang="en">
+        <seg>Add-on disabled</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T075612Z">
+        <seg>Дадатак выключаны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#24064</prop>
       <tuv lang="en">
         <seg>Add-on enabled</seg>
@@ -837,6 +847,16 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#222</prop>
+      <tuv lang="en">
+        <seg>Cancel</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T075645Z">
+        <seg>Скасаваць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#24066</prop>
       <tuv lang="en">
         <seg>Cancel Add-on download?</seg>
@@ -1087,6 +1107,16 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#409</prop>
+      <tuv lang="en">
+        <seg>Defaults</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T075717Z">
+        <seg>Стандартныя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#117</prop>
       <tuv lang="en">
         <seg>Delete</seg>
@@ -1121,8 +1151,8 @@
       <tuv lang="en">
         <seg>Disable</seg>
       </tuv>
-      <tuv lang="be" changeid="Alex" changedate="20121112T075545Z">
-        <seg>Забараніць</seg>
+      <tuv lang="be" changeid="Alex" changedate="20121112T075559Z">
+        <seg>Выключыць</seg>
       </tuv>
     </tu>
     <tu>
@@ -1171,8 +1201,8 @@
       <tuv lang="en">
         <seg>Enable</seg>
       </tuv>
-      <tuv lang="be" changeid="Alex" changedate="20121112T074725Z">
-        <seg>Дазволіць</seg>
+      <tuv lang="be" changeid="Alex" changedate="20121112T075555Z">
+        <seg>Уключыць</seg>
       </tuv>
     </tu>
     <tu>
