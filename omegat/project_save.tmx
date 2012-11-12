@@ -2557,6 +2557,16 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#169</prop>
+      <tuv lang="en">
+        <seg>Resolution</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T084130Z">
+        <seg>Разрознасьць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#24048</prop>
       <tuv lang="en">
         <seg>Rollback</seg>
@@ -2773,6 +2783,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121109T081921Z">
         <seg>Памеру</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#166</prop>
+      <tuv lang="en">
+        <seg>Skin</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T084117Z">
+        <seg>Тэма</seg>
       </tuv>
     </tu>
     <tu>
