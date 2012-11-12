@@ -957,6 +957,16 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#20157</prop>
+      <tuv lang="en">
+        <seg>DVD-ROM information</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T074317Z">
+        <seg>Зьвесткі пра DVD-ROM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#552</prop>
       <tuv lang="en">
         <seg>Date</seg>
@@ -1257,12 +1267,42 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#20156</prop>
+      <tuv lang="en">
+        <seg>Hard disk information</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T074310Z">
+        <seg>Зьвесткі пра цьвёрды дыск</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#20160</prop>
+      <tuv lang="en">
+        <seg>Hardware information</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T074344Z">
+        <seg>Зьвесткі пра абсталяваньне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#13010</prop>
       <tuv lang="en">
         <seg>Hibernate</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121106T155854Z">
         <seg>Гібернацыя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#25001</prop>
+      <tuv lang="en">
+        <seg>Hide foreign</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T074145Z">
+        <seg>Схаваць зьнешнія</seg>
       </tuv>
     </tu>
     <tu>
@@ -1653,6 +1693,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121109T081906Z">
         <seg>Назьве</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#20158</prop>
+      <tuv lang="en">
+        <seg>Network information</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T074325Z">
+        <seg>Зьвесткі пра сетку</seg>
       </tuv>
     </tu>
     <tu>
@@ -2347,6 +2397,16 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#20155</prop>
+      <tuv lang="en">
+        <seg>Storage information</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T074300Z">
+        <seg>Зьвесткі пра сховішча</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#19155</prop>
       <tuv lang="en">
         <seg>Su</seg>
@@ -2383,6 +2443,26 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121111T111650Z">
         <seg>Субтытры</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#20037</prop>
+      <tuv lang="en">
+        <seg>Summary</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T074234Z">
+        <seg>Падсумоўваньне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#20154</prop>
+      <tuv lang="en">
+        <seg>Summary information</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T074248Z">
+        <seg>Падсумаваныя зьвесткі</seg>
       </tuv>
     </tu>
     <tu>
@@ -2683,6 +2763,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121109T083422Z">
         <seg>Дадаткі відэа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#20159</prop>
+      <tuv lang="en">
+        <seg>Video information</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T074331Z">
+        <seg>Зьвесткі пра відэа</seg>
       </tuv>
     </tu>
     <tu>
