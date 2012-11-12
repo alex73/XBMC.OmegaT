@@ -256,6 +256,16 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.script-xbmc-subtitles/be.po</prop>
+      <prop type="path">#30103</prop>
+      <tuv lang="en">
+        <seg>Services</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T081214Z">
+        <seg>Сэрвісы</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="file">translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
       <prop type="path">#31000</prop>
       <tuv lang="en">
@@ -407,12 +417,32 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
+      <prop type="path">#31408</prop>
+      <tuv lang="en">
+        <seg>[B]CONFIGURE ADD-ONS[/B][CR][CR]Manage your installed Add-ons · Browse for and install Add-ons from xbmc.org[CR]Modify Add-on settings</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T081613Z">
+        <seg>[B]ЗЬМЯНІЦЬ НАЛАДЫ ДАДАТКАЎ[/B][CR][CR]Кіраваць усталяванымі дадаткамі · Абраць і ўсталяваць дадаткі з xbmc.org[CR]Зьмяніць налады дадаткаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
       <prop type="path">#31400</prop>
       <tuv lang="en">
         <seg>[B]CONFIGURE APPEARANCE SETTINGS[/B][CR][CR]Change the skin · Set language and region · Change file listing options[CR]Set up a screensaver</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121109T090403Z">
         <seg>[B]ЗЬМЯНІЦЬ НАЛАДЫ ВОНКАВАГА ВЫГЛЯДУ[/B][CR][CR]Зьмяніць тэму · Наставіць мову й рэгіён · Зьмяніць налады сьпісу файлаў[CR]Наставіць ахоўнік экрану</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
+      <prop type="path">#31410</prop>
+      <tuv lang="en">
+        <seg>[B]CONFIGURE SERVICE SETTINGS[/B][CR][CR]Setup control of XBMC via UPnP and HTTP · Configure file sharing[CR]Enable Zeroconf · Configure AirPlay</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T081447Z">
+        <seg>[B]ЗЬМЯНІЦЬ НАЛАДЫ СЭРВІСАЎ[/B][CR][CR]Наставіць кіраваньне XBMC праз UPnP ды HTTP · Наладзіць даступнасьць файлаў[CR]Дазволіць Zeroconf · Наставіць AirPlay</seg>
       </tuv>
     </tu>
     <tu>
@@ -1283,6 +1313,26 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121109T083058Z">
         <seg>Увядзіце назву крыніцы медыяфайлаў.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#16017</prop>
+      <tuv lang="en">
+        <seg>Enter search string</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T081137Z">
+        <seg>Увядзіце тэкст для пошуку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#14068</prop>
+      <tuv lang="en">
+        <seg>Enter the IP address</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T081107Z">
+        <seg>Увядзіце IP-адрас</seg>
       </tuv>
     </tu>
     <tu>
