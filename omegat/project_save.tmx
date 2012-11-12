@@ -1487,6 +1487,16 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#12340</prop>
+      <tuv lang="en">
+        <seg>Enter new password</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T090522Z">
+        <seg>Увядзіце новы пароль</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#16017</prop>
       <tuv lang="en">
         <seg>Enter search string</seg>
@@ -2497,6 +2507,16 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#12358</prop>
+      <tuv lang="en">
+        <seg>Password entry was blank. Try again.</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T090434Z">
+        <seg>Пароль быў пусты. Паспрабуйце зноў.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#1039</prop>
       <tuv lang="en">
         <seg>Picture Add-ons</seg>
@@ -2663,6 +2683,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121109T083650Z">
         <seg>Рэйтынг</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#12341</prop>
+      <tuv lang="en">
+        <seg>Re-Enter new password</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T090518Z">
+        <seg>Увядзіце новы пароль яшчэ раз</seg>
       </tuv>
     </tu>
     <tu>
@@ -3053,6 +3083,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121111T111735Z">
         <seg>Сартаваць па: годзе</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#12357</prop>
+      <tuv lang="en">
+        <seg>Source lock</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T090445Z">
+        <seg>Замок крыніцы</seg>
       </tuv>
     </tu>
     <tu>
