@@ -2407,12 +2407,12 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
-      <prop type="path">#231</prop>
+      <prop type="path">#19045</prop>
       <tuv lang="en">
-        <seg>None</seg>
+        <seg>No PVR clients have been started yet. Wait for the PVR clients to start up or check the log for details.</seg>
       </tuv>
-      <tuv lang="be" changeid="Alex" changedate="20121109T083305Z">
-        <seg>Няма</seg>
+      <tuv lang="be" changeid="Alex" changedate="20121112T094726Z">
+        <seg>Кліент PVR не стартаваны. Пачакайце старту кліенту PVR ці паглядзіце хронікі каб даведацца падрабязнасьці.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2497,62 +2497,12 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
-      <prop type="path">#13551</prop>
-      <tuv lang="en">
-        <seg>Off</seg>
-      </tuv>
-      <tuv lang="be" changeid="Alex" changedate="20121112T094153Z">
-        <seg>Няма2</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
-      <prop type="path">#16039</prop>
-      <tuv lang="en">
-        <seg>Off</seg>
-      </tuv>
-      <tuv lang="be" changeid="Alex" changedate="20121112T094145Z">
-        <seg>Няма1</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
-      <prop type="path">#351</prop>
-      <tuv lang="en">
-        <seg>Off</seg>
-      </tuv>
-      <tuv lang="be" changeid="Alex" changedate="20121112T094534Z">
-        <seg>Няма6</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#474</prop>
       <tuv lang="en">
         <seg>Off</seg>
       </tuv>
-      <tuv lang="be" changeid="Alex" changedate="20121112T094529Z">
-        <seg>Няма5</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
-      <prop type="path">#591</prop>
-      <tuv lang="en">
-        <seg>Off</seg>
-      </tuv>
-      <tuv lang="be" changeid="Alex" changedate="20121112T094523Z">
-        <seg>Няма4</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
-      <prop type="path">#594</prop>
-      <tuv lang="en">
-        <seg>Off</seg>
-      </tuv>
-      <tuv lang="be" changeid="Alex" changedate="20121112T094158Z">
-        <seg>Няма3</seg>
+      <tuv lang="be" changeid="Alex" changedate="20121112T094817Z">
+        <seg>Няма</seg>
       </tuv>
     </tu>
     <tu>
