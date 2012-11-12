@@ -267,6 +267,16 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
+      <prop type="path">#31392</prop>
+      <tuv lang="en">
+        <seg>Arial based</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T093931Z">
+        <seg>Падобны на Arial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
       <prop type="path">#31000</prop>
       <tuv lang="en">
         <seg>Change Your</seg>
@@ -413,6 +423,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121112T085759Z">
         <seg>Перадвызначана</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
+      <prop type="path">#31391</prop>
+      <tuv lang="en">
+        <seg>Skin default with no Caps</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T093741Z">
+        <seg>Перадвызначаны аздабленьнем без вялікіх літараў</seg>
       </tuv>
     </tu>
     <tu>
