@@ -267,6 +267,16 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
+      <prop type="path">#31033</prop>
+      <tuv lang="en">
+        <seg>Info</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T073852Z">
+        <seg>Зьвесткі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
       <prop type="path">#31025</prop>
       <tuv lang="en">
         <seg>Items</seg>
@@ -683,6 +693,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121109T083551Z">
         <seg>Аўтар</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#24063</prop>
+      <tuv lang="en">
+        <seg>Auto update</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T073938Z">
+        <seg>Аўтаматычныя абнаўленьні</seg>
       </tuv>
     </tu>
     <tu>
@@ -1723,6 +1743,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121111T112045Z">
         <seg>Звычайны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#25000</prop>
+      <tuv lang="en">
+        <seg>Notifications</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T074026Z">
+        <seg>Апавяшчэньні</seg>
       </tuv>
     </tu>
     <tu>
