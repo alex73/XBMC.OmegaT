@@ -407,6 +407,16 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
+      <prop type="path">#31390</prop>
+      <tuv lang="en">
+        <seg>Skin default</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T085759Z">
+        <seg>Перадвызначана</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
       <prop type="path">#31050</prop>
       <tuv lang="en">
         <seg>Sort: Ascending</seg>
@@ -1807,6 +1817,16 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#513</prop>
+      <tuv lang="en">
+        <seg>Home window</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T085840Z">
+        <seg>Пачатковы экран</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#406</prop>
       <tuv lang="en">
         <seg>Humidity</seg>
@@ -2323,6 +2343,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121111T111548Z">
         <seg>Не</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#19271</prop>
+      <tuv lang="en">
+        <seg>No PVR add-ons could be found</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T090012Z">
+        <seg>Ня знойдзены дадаткі PVR</seg>
       </tuv>
     </tu>
     <tu>
@@ -3193,6 +3223,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121109T091030Z">
         <seg>Час працы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#19020</prop>
+      <tuv lang="en">
+        <seg>TV</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T085859Z">
+        <seg>ТВ</seg>
       </tuv>
     </tu>
     <tu>
