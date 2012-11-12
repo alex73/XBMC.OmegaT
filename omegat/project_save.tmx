@@ -447,6 +447,16 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
+      <prop type="path">#31402</prop>
+      <tuv lang="en">
+        <seg>[B]CONFIGURE MUSIC SETTINGS[/B][CR][CR]Manage your music library · Set music playback options · Change music listing options[CR]Setup song submission · Set karaoke options</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121112T082449Z">
+        <seg>[B]ЗЬМЯНІЦЬ НАЛАДЫ МУЗЫКІ[/B][CR][CR]Кіраваць бібліятэкай музыкі · Наставіць налады прайграваньня музыкі · Зьмяніць налады сьпісу музыкі[CR]Наладзіць перадачу музыкі · Наставіць налады караоке</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
       <prop type="path">#31403</prop>
       <tuv lang="en">
         <seg>[B]CONFIGURE PICTURE SETTINGS[/B][CR][CR]Set picture listing options · Configure slideshows</seg>
