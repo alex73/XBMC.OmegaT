@@ -797,6 +797,16 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#13500</prop>
+      <tuv lang="en">
+        <seg>A/V sync method</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121119T150440Z">
+        <seg>Мэтад сынхранізаваньня A/V</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#1020</prop>
       <tuv lang="en">
         <seg>Add %s source</seg>
@@ -893,6 +903,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121106T154243Z">
         <seg>Дадаткі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#170</prop>
+      <tuv lang="en">
+        <seg>Adjust display refresh rate to match video</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121119T150347Z">
+        <seg>Дапасоўваць частату абнаўленьня экрану да відэа</seg>
       </tuv>
     </tu>
     <tu>
@@ -2787,6 +2807,16 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#13550</prop>
+      <tuv lang="en">
+        <seg>Pause during refresh rate change</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121119T150338Z">
+        <seg>Прыпыніць падчас зьмены частаты абнаўленьня экрану</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#1039</prop>
       <tuv lang="en">
         <seg>Picture Add-ons</seg>
@@ -3713,6 +3743,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121112T080959Z">
         <seg>Сымбалі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#13510</prop>
+      <tuv lang="en">
+        <seg>Sync playback to display</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121119T150417Z">
+        <seg>Сынхранізаваць прайграваньне з экранам</seg>
       </tuv>
     </tu>
     <tu>
