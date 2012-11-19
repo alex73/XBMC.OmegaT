@@ -1217,6 +1217,16 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#334</prop>
+      <tuv lang="en">
+        <seg>Clean library...</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121119T145652Z">
+        <seg>Выцерці бібліятэку...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#386</prop>
       <tuv lang="en">
         <seg>Clear</seg>
@@ -1627,6 +1637,26 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#647</prop>
+      <tuv lang="en">
+        <seg>Export video library</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121119T145723Z">
+        <seg>Экспартаваць бібліятэку відэа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#650</prop>
+      <tuv lang="en">
+        <seg>Exporting</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121119T145754Z">
+        <seg>Экспартаваньне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#1036</prop>
       <tuv lang="en">
         <seg>Favourites</seg>
@@ -2013,6 +2043,26 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121112T095732Z">
         <seg>Ігнараваць артыклі(накшталт "the") падчас сартаваньня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#648</prop>
+      <tuv lang="en">
+        <seg>Import video library</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121119T145728Z">
+        <seg>Імпартаваць бібліятэку відэа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#649</prop>
+      <tuv lang="en">
+        <seg>Importing</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121119T145738Z">
+        <seg>Імпартаваньне</seg>
       </tuv>
     </tu>
     <tu>
@@ -2753,6 +2803,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121109T082256Z">
         <seg>Прайграць адсюль</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#13433</prop>
+      <tuv lang="en">
+        <seg>Play the next video automatically</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121119T145843Z">
+        <seg>Прайграваць наступнае відэа аўтаматычна</seg>
       </tuv>
     </tu>
     <tu>
