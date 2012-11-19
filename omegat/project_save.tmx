@@ -917,6 +917,16 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#20422</prop>
+      <tuv lang="en">
+        <seg>Always</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121119T145030Z">
+        <seg>Заўсёды</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#34122</prop>
       <tuv lang="en">
         <seg>Always</seg>
@@ -1697,6 +1707,16 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#20412</prop>
+      <tuv lang="en">
+        <seg>Flatten TV shows</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121119T144959Z">
+        <seg>ТВ-шоў - цалкам</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#394</prop>
       <tuv lang="en">
         <seg>Fog</seg>
@@ -1803,6 +1823,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121109T084937Z">
         <seg>зярністы снег</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#20458</prop>
+      <tuv lang="en">
+        <seg>Group movies in sets</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121119T145201Z">
+        <seg>Групаваць фільмы</seg>
       </tuv>
     </tu>
     <tu>
@@ -1943,6 +1973,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121109T082036Z">
         <seg>Значкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#20421</prop>
+      <tuv lang="en">
+        <seg>If only one season</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121119T145023Z">
+        <seg>Толькі калі адзін сэзон</seg>
       </tuv>
     </tu>
     <tu>
@@ -2412,6 +2452,16 @@
         <seg>Never</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121106T160522Z">
+        <seg>Ніколі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#20420</prop>
+      <tuv lang="en">
+        <seg>Never</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121119T145025Z">
         <seg>Ніколі</seg>
       </tuv>
     </tu>
