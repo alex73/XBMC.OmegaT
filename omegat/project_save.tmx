@@ -1467,6 +1467,16 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#20402</prop>
+      <tuv lang="en">
+        <seg>Download actor thumbnails when adding to library</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121119T144751Z">
+        <seg>Зладоўваць мініятуры актораў падчас дадаваньня ў бібліятэку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#24042</prop>
       <tuv lang="en">
         <seg>Downloading %i%%</seg>
@@ -3133,6 +3143,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121112T095524Z">
         <seg>Паказваць складнікі бацькоўскага каталёгу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#20369</prop>
+      <tuv lang="en">
+        <seg>Show plot for unwatched items</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121119T144702Z">
+        <seg>Паказваць непраглежданые</seg>
       </tuv>
     </tu>
     <tu>
