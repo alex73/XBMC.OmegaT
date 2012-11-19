@@ -1897,6 +1897,16 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#22001</prop>
+      <tuv lang="en">
+        <seg>Hide progress of library updates</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121119T145402Z">
+        <seg>Схаваць працэс абнаўленьня бібліятэкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#20367</prop>
       <tuv lang="en">
         <seg>Hide watched</seg>
@@ -3873,6 +3883,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121109T081400Z">
         <seg>Абнавіць бібліятэку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#22000</prop>
+      <tuv lang="en">
+        <seg>Update library on startup</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121119T145342Z">
+        <seg>Абнаўляць бібліятэку падчас старту</seg>
       </tuv>
     </tu>
     <tu>
