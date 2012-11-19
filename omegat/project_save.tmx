@@ -757,6 +757,16 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#1000</prop>
+      <tuv lang="en">
+        <seg>- Preview</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121119T144013Z">
+        <seg>- Папярэдні прагляд</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#21417</prop>
       <tuv lang="en">
         <seg>- Settings</seg>
@@ -3753,6 +3763,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121109T081400Z">
         <seg>Абнавіць бібліятэку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#13392</prop>
+      <tuv lang="en">
+        <seg>Use visualization if playing audio</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121119T144101Z">
+        <seg>Візуалізаваць калі прайграецца аўдыё</seg>
       </tuv>
     </tu>
     <tu>
