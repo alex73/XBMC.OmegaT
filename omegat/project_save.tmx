@@ -671,8 +671,8 @@
       <tuv lang="en">
         <seg>Render Quality</seg>
       </tuv>
-      <tuv lang="be" changeid="alex" changedate="20121111T101332Z">
-        <seg>Якасьць рэндэрэнгу</seg>
+      <tuv lang="be" changeid="Alex" changedate="20121119T150002Z">
+        <seg>Якасьць рэндэрынгу</seg>
       </tuv>
     </tu>
     <tu>
@@ -897,6 +897,16 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#13418</prop>
+      <tuv lang="en">
+        <seg>Advanced shaders (GLSL)</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121119T150156Z">
+        <seg>Адмысловыя шэйдэры (GLSL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#566</prop>
       <tuv lang="en">
         <seg>Album artist</seg>
@@ -1037,12 +1047,32 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#13416</prop>
+      <tuv lang="en">
+        <seg>Auto detect</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121119T150125Z">
+        <seg>Аўтавызначэньне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#24063</prop>
       <tuv lang="en">
         <seg>Auto update</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121112T073938Z">
         <seg>Аўтаматычныя абнаўленьні</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#13417</prop>
+      <tuv lang="en">
+        <seg>Basic shaders (ARB)</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121119T150140Z">
+        <seg>Базавыя шэйдэры (ARB)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2807,6 +2837,16 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#489</prop>
+      <tuv lang="en">
+        <seg>Play the next song automatically</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121119T145857Z">
+        <seg>Прайграваць наступную кампазіцыю аўтаматычна</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#13433</prop>
       <tuv lang="en">
         <seg>Play the next video automatically</seg>
@@ -3023,6 +3063,26 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121112T073524Z">
         <seg>Пераназваць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#13354</prop>
+      <tuv lang="en">
+        <seg>Render method</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121119T145954Z">
+        <seg>Мэтад рэндэрынгу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#13415</prop>
+      <tuv lang="en">
+        <seg>Render method</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121119T145940Z">
+        <seg>Мэтад рэндэрынгу</seg>
       </tuv>
     </tu>
     <tu>
@@ -3393,6 +3453,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121109T085004Z">
         <seg>сьнег</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#13419</prop>
+      <tuv lang="en">
+        <seg>Software</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121119T150047Z">
+        <seg>Праграмна</seg>
       </tuv>
     </tu>
     <tu>
