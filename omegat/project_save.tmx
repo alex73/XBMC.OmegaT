@@ -1357,6 +1357,16 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#14087</prop>
+      <tuv lang="en">
+        <seg>DVDs</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121119T144326Z">
+        <seg>DVD-ы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#552</prop>
       <tuv lang="en">
         <seg>Date</seg>
@@ -2057,6 +2067,26 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#14022</prop>
+      <tuv lang="en">
+        <seg>Library</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121119T144228Z">
+        <seg>Бібліятэка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#15100</prop>
+      <tuv lang="en">
+        <seg>Library</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121119T144236Z">
+        <seg>Бібліятэка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#24053</prop>
       <tuv lang="en">
         <seg>License:</seg>
@@ -2653,6 +2683,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121109T082256Z">
         <seg>Прайграць адсюль</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#14086</prop>
+      <tuv lang="en">
+        <seg>Playback</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121119T144305Z">
+        <seg>Прайграваньне</seg>
       </tuv>
     </tu>
     <tu>
@@ -3763,6 +3803,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121109T081400Z">
         <seg>Абнавіць бібліятэку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#22014</prop>
+      <tuv lang="en">
+        <seg>Use dim if paused during video playback</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121119T144150Z">
+        <seg>Зацямняць экран падчас паўзы прайграваньня відэа</seg>
       </tuv>
     </tu>
     <tu>
