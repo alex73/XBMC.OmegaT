@@ -1027,6 +1027,16 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#13501</prop>
+      <tuv lang="en">
+        <seg>Audio clock</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121119T150600Z">
+        <seg>Па аўдыё</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#460</prop>
       <tuv lang="en">
         <seg>Audio stream</seg>
@@ -1997,6 +2007,16 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#13508</prop>
+      <tuv lang="en">
+        <seg>High</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121119T150703Z">
+        <seg>Высокая</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#393</prop>
       <tuv lang="en">
         <seg>High</seg>
@@ -2287,6 +2307,16 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#13506</prop>
+      <tuv lang="en">
+        <seg>Low(fast)</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121119T150653Z">
+        <seg>Нізкая(хутка)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#53</prop>
       <tuv lang="en">
         <seg>Mar</seg>
@@ -2327,6 +2357,16 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#13504</prop>
+      <tuv lang="en">
+        <seg>Maximum resample amount (%)</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121119T150631Z">
+        <seg>Максымальная зьмена (%)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#25</prop>
       <tuv lang="en">
         <seg>May</seg>
@@ -2343,6 +2383,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121106T125516Z">
         <seg>Тра</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#13507</prop>
+      <tuv lang="en">
+        <seg>Medium</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121119T150657Z">
+        <seg>Сярэдняя</seg>
       </tuv>
     </tu>
     <tu>
@@ -3047,6 +3097,16 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#13509</prop>
+      <tuv lang="en">
+        <seg>Really high(slow!)</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121119T150720Z">
+        <seg>Вельмі высокая(марудна!)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#13013</prop>
       <tuv lang="en">
         <seg>Reboot</seg>
@@ -3113,6 +3173,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121119T145940Z">
         <seg>Мэтад рэндэрынгу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#13505</prop>
+      <tuv lang="en">
+        <seg>Resample quality</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121119T150641Z">
+        <seg>Якасьць зьмены</seg>
       </tuv>
     </tu>
     <tu>
@@ -4153,6 +4223,26 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121109T083422Z">
         <seg>Дадаткі відэа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#13502</prop>
+      <tuv lang="en">
+        <seg>Video clock (Drop/Dupe audio)</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121119T150603Z">
+        <seg>Па відэа (прапускаць/падвойваць аўдыё)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#13503</prop>
+      <tuv lang="en">
+        <seg>Video clock (Resample audio)</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121119T150605Z">
+        <seg>Па відэа (зьмяняць аўдыё)</seg>
       </tuv>
     </tu>
     <tu>
