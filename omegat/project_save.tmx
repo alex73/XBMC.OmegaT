@@ -807,6 +807,16 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#23050</prop>
+      <tuv lang="en">
+        <seg>Activate Teletext</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121119T151330Z">
+        <seg>Актываваць тэлетэкст</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#1020</prop>
       <tuv lang="en">
         <seg>Add %s source</seg>
@@ -2847,6 +2857,16 @@
     </tu>
     <tu>
       <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#635</prop>
+      <tuv lang="en">
+        <seg>Original Size</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121119T151218Z">
+        <seg>Зыходны памер</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#308</prop>
       <tuv lang="en">
         <seg>Original stream's language</seg>
@@ -3273,6 +3293,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121111T111618Z">
         <seg>Захаваць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="path">#23055</prop>
+      <tuv lang="en">
+        <seg>Scale Teletext to 4:3</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121119T151421Z">
+        <seg>Маштабаваць тэлетэкст да 4:3</seg>
       </tuv>
     </tu>
     <tu>
