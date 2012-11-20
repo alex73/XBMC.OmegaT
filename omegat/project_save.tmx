@@ -5187,6 +5187,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#21882</prop>
+      <tuv lang="en">
+        <seg>Attempt to skip introduction before DVD menu</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121120T085621Z">
+        <seg>Спрабаваць прапусьціць уводзіны перад мэню DVD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#21463</prop>
       <tuv lang="en">
         <seg>Below video</seg>
