@@ -1,0 +1,111 @@
+[main]
+host = https://www.transifex.com
+
+[xbmc-addons.plugin-image-iphoto]
+file_filter = translations/xbmc-addons.plugin-image-iphoto/<lang>.po
+source_lang = en
+
+[xbmc-addons.plugin-video-sagetv]
+file_filter = translations/xbmc-addons.plugin-video-sagetv/<lang>.po
+source_lang = en
+
+[xbmc-addons.script-xbmcbackup]
+file_filter = translations/xbmc-addons.script-xbmcbackup/<lang>.po
+source_lang = en
+
+[xbmc-addons.service-libraryautoupdate]
+file_filter = translations/xbmc-addons.service-libraryautoupdate/<lang>.po
+source_lang = en
+
+[xbmc-addons.script-cu-lyrics]
+file_filter = translations/xbmc-addons.script-cu-lyrics/<lang>.po
+source_lang = en
+
+[xbmc-addons.webinterface-awx]
+file_filter = translations/xbmc-addons.webinterface-awx/<lang>.po
+source_lang = en
+
+[xbmc-addons.plugin-audio-radio_de]
+file_filter = translations/xbmc-addons.plugin-audio-radio_de/<lang>.po
+source_lang = en
+
+[xbmc-addons.plugin-audio-shoutcast]
+file_filter = translations/xbmc-addons.plugin-audio-shoutcast/<lang>.po
+source_lang = en
+
+[xbmc-addons.plugin-image-cheezburger_network]
+file_filter = translations/xbmc-addons.plugin-image-cheezburger_network/<lang>.po
+source_lang = en
+
+[xbmc-addons.plugin-video-4players]
+file_filter = translations/xbmc-addons.plugin-video-4players/<lang>.po
+source_lang = en
+
+[xbmc-addons.plugin-video-collegehumor]
+file_filter = translations/xbmc-addons.plugin-video-collegehumor/<lang>.po
+source_lang = en
+
+[xbmc-addons.plugin-video-dump]
+file_filter = translations/xbmc-addons.plugin-video-dump/<lang>.po
+source_lang = en
+
+[xbmc-addons.plugin-video-hollywoodreporter]
+file_filter = translations/xbmc-addons.plugin-video-hollywoodreporter/<lang>.po
+source_lang = en
+
+[xbmc-addons.plugin-video-hwclips]
+file_filter = translations/xbmc-addons.plugin-video-hwclips/<lang>.po
+source_lang = en
+
+[xbmc-addons.plugin-video-itunes_podcasts]
+file_filter = translations/xbmc-addons.plugin-video-itunes_podcasts/<lang>.po
+source_lang = en
+
+[xbmc-addons.plugin-video-myvideo_de]
+file_filter = translations/xbmc-addons.plugin-video-myvideo_de/<lang>.po
+source_lang = en
+
+[xbmc-addons.plugin-video-nasa]
+file_filter = translations/xbmc-addons.plugin-video-nasa/<lang>.po
+source_lang = en
+
+[xbmc-addons.plugin-video-netzkino_de]
+file_filter = translations/xbmc-addons.plugin-video-netzkino_de/<lang>.po
+source_lang = en
+
+[xbmc-addons.plugin-video-rofl_to]
+file_filter = translations/xbmc-addons.plugin-video-rofl_to/<lang>.po
+source_lang = en
+
+[xbmc-addons.plugin-video-wimp]
+file_filter = translations/xbmc-addons.plugin-video-wimp/<lang>.po
+source_lang = en
+
+[xbmc-addons.script-game-whatthemovie]
+file_filter = translations/xbmc-addons.script-game-whatthemovie/<lang>.po
+source_lang = en
+
+[xbmc-addons.script-image-bigpictures]
+file_filter = translations/xbmc-addons.script-image-bigpictures/<lang>.po
+source_lang = en
+
+[xbmc-addons.script-xbmc-debug-log]
+file_filter = translations/xbmc-addons.script-xbmc-debug-log/<lang>.po
+source_lang = en
+
+[xbmc-addons.plugin-video-tv3play-dk]
+file_filter = translations/xbmc-addons.plugin-video-tv3play-dk/<lang>.po
+source_lang = en
+
+[xbmc-addons.script-module-buggalo]
+file_filter = translations/xbmc-addons.script-module-buggalo/<lang>.po
+source_lang = en
+
+[xbmc-addons.plugin-video-pakee]
+file_filter = translations/xbmc-addons.plugin-video-pakee/<lang>.po
+source_lang = en
+
+[xbmc-addons.metadata-filmaffinity-com]
+file_filter = translations/xbmc-addons.metadata-filmaffinity-com/<lang>.po
+source_lang = en
+

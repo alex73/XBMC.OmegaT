@@ -1,0 +1,19 @@
+[main]
+host = https://www.transifex.com
+
+[xbmc-skins.skin-essence]
+file_filter = translations/xbmc-skins.skin-essence/<lang>.po
+source_lang = en
+
+[xbmc-skins.skin-aeon-nox]
+file_filter = translations/xbmc-skins.skin-aeon-nox/<lang>.po
+source_lang = en
+
+[xbmc-skins.skin-transparency]
+file_filter = translations/xbmc-skins.skin-transparency/<lang>.po
+source_lang = en
+
+[xbmc-skins.skin-hybrid]
+file_filter = translations/xbmc-skins.skin-hybrid/<lang>.po
+source_lang = en
+

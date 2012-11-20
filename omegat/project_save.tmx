@@ -6,7 +6,7 @@
 <!-- Default translations -->
 <!-- Alternative translations -->
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.metadata-album-universal/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.metadata-album-universal/be.po</prop>
       <prop type="path">#30003</prop>
       <tuv lang="en">
         <seg>Preferred Language</seg>
@@ -16,7 +16,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.metadata-artists-universal/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.metadata-artists-universal/be.po</prop>
       <prop type="path">#30015</prop>
       <tuv lang="en">
         <seg>Preferred Language</seg>
@@ -26,7 +26,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.metadata-musicvideos-last-fm/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.metadata-musicvideos-last-fm/be.po</prop>
       <prop type="path">Addon Description</prop>
       <tuv lang="en">
         <seg>Download Music Video information</seg>
@@ -36,7 +36,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.metadata-themoviedb-org/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.metadata-themoviedb-org/be.po</prop>
       <prop type="path">#30002</prop>
       <tuv lang="en">
         <seg>Preferred Language</seg>
@@ -46,7 +46,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.metadata-tvdb-com/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.metadata-tvdb-com/be.po</prop>
       <prop type="path">#30004</prop>
       <tuv lang="en">
         <seg>Language</seg>
@@ -56,7 +56,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.plugin-video-youtube/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.plugin-video-youtube/be.po</prop>
       <prop type="path">#30624</prop>
       <tuv lang="en">
         <seg>Downloading</seg>
@@ -66,7 +66,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.plugin-video-youtube/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.plugin-video-youtube/be.po</prop>
       <prop type="path">#30002</prop>
       <tuv lang="en">
         <seg>My Favorites</seg>
@@ -76,7 +76,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.plugin-video-youtube/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.plugin-video-youtube/be.po</prop>
       <prop type="path">#30523</prop>
       <tuv lang="en">
         <seg>Now Playing...</seg>
@@ -86,7 +86,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.plugin-video-youtube/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.plugin-video-youtube/be.po</prop>
       <prop type="path">#30521</prop>
       <tuv lang="en">
         <seg>Play from here</seg>
@@ -96,7 +96,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.pvr-fortherecord-argus/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.pvr-fortherecord-argus/be.po</prop>
       <prop type="path">#30005</prop>
       <tuv lang="en">
         <seg>Password</seg>
@@ -106,7 +106,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.pvr-hts/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.pvr-hts/be.po</prop>
       <prop type="path">#30004</prop>
       <tuv lang="en">
         <seg>Password</seg>
@@ -116,7 +116,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.pvr-mediaportal-tvserver/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.pvr-mediaportal-tvserver/be.po</prop>
       <prop type="path">#30066</prop>
       <tuv lang="en">
         <seg>Unknown channel</seg>
@@ -126,7 +126,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.pvr-mythtv-cmyth/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.pvr-mythtv-cmyth/be.po</prop>
       <prop type="path">#30003</prop>
       <tuv lang="en">
         <seg>MythTV Database Password</seg>
@@ -136,7 +136,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.pvr-nextpvr/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.pvr-nextpvr/be.po</prop>
       <prop type="path">#30040</prop>
       <tuv lang="en">
         <seg>Connection</seg>
@@ -146,7 +146,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.pvr-vdr-vnsi/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.pvr-vdr-vnsi/be.po</prop>
       <prop type="path">#30040</prop>
       <tuv lang="en">
         <seg>Stopped</seg>
@@ -156,7 +156,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.pvr-vuplus/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.pvr-vuplus/be.po</prop>
       <prop type="path">#30004</prop>
       <tuv lang="en">
         <seg>Password</seg>
@@ -166,7 +166,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.repository-xbmc-org/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.repository-xbmc-org/be.po</prop>
       <prop type="path">Addon Summary</prop>
       <tuv lang="en">
         <seg>Install Add-ons from XBMC.org</seg>
@@ -176,7 +176,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.screensaver-rsxs-euphoria/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.screensaver-rsxs-euphoria/be.po</prop>
       <prop type="path">Addon Summary</prop>
       <tuv lang="en">
         <seg>About as psychedelic as screensavers get</seg>
@@ -186,7 +186,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.screensaver-rsxs-plasma/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.screensaver-rsxs-plasma/be.po</prop>
       <prop type="path">Addon Summary</prop>
       <tuv lang="en">
         <seg>Probably the second most psychedelic screensaver ever</seg>
@@ -196,7 +196,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.screensaver-rsxs-solarwinds/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.screensaver-rsxs-solarwinds/be.po</prop>
       <prop type="path">Addon Summary</prop>
       <tuv lang="en">
         <seg>A mesmerizing particle effects screensaver</seg>
@@ -206,7 +206,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.screensaver-xbmc-builtin-black/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.screensaver-xbmc-builtin-black/be.po</prop>
       <prop type="path">Addon Summary</prop>
       <tuv lang="en">
         <seg>Screensaver that turns your screen black</seg>
@@ -216,7 +216,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.screensaver-xbmc-builtin-dim/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.screensaver-xbmc-builtin-dim/be.po</prop>
       <prop type="path">Addon Summary</prop>
       <tuv lang="en">
         <seg>Screensaver that dims your screen</seg>
@@ -226,7 +226,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.screensaver-xbmc-builtin-slideshow/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.screensaver-xbmc-builtin-slideshow/be.po</prop>
       <prop type="path">Addon Summary</prop>
       <tuv lang="en">
         <seg>Screensaver that displays an image slideshow</seg>
@@ -236,7 +236,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.script-xbmc-subtitles/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.script-xbmc-subtitles/be.po</prop>
       <prop type="path">#649</prop>
       <tuv lang="en">
         <seg>Downloading subtitles...</seg>
@@ -246,7 +246,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.script-xbmc-subtitles/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.script-xbmc-subtitles/be.po</prop>
       <prop type="path">#610</prop>
       <tuv lang="en">
         <seg>Search</seg>
@@ -256,7 +256,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.script-xbmc-subtitles/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.script-xbmc-subtitles/be.po</prop>
       <prop type="path">#30103</prop>
       <tuv lang="en">
         <seg>Services</seg>
@@ -266,7 +266,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
       <prop type="path">#31392</prop>
       <tuv lang="en">
         <seg>Arial based</seg>
@@ -276,7 +276,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
       <prop type="path">#31000</prop>
       <tuv lang="en">
         <seg>Change Your</seg>
@@ -286,7 +286,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
       <prop type="path">#31300</prop>
       <tuv lang="en">
         <seg>Current Temp</seg>
@@ -296,7 +296,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
       <prop type="path">#31303</prop>
       <tuv lang="en">
         <seg>Data provider</seg>
@@ -306,7 +306,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
       <prop type="path">#31909</prop>
       <tuv lang="en">
         <seg>Fetching forecast info...</seg>
@@ -316,7 +316,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
       <prop type="path">#31033</prop>
       <tuv lang="en">
         <seg>Info</seg>
@@ -326,7 +326,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
       <prop type="path">#31025</prop>
       <tuv lang="en">
         <seg>Items</seg>
@@ -336,7 +336,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
       <prop type="path">#31301</prop>
       <tuv lang="en">
         <seg>Last Updated</seg>
@@ -346,7 +346,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
       <prop type="path">#31502</prop>
       <tuv lang="en">
         <seg>Live TV</seg>
@@ -356,7 +356,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
       <prop type="path">#31027</prop>
       <tuv lang="en">
         <seg>Location</seg>
@@ -366,7 +366,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
       <prop type="path">#31026</prop>
       <tuv lang="en">
         <seg>Misc Options</seg>
@@ -376,7 +376,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
       <prop type="path">#31040</prop>
       <tuv lang="en">
         <seg>Now Playing</seg>
@@ -386,7 +386,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
       <prop type="path">#31043</prop>
       <tuv lang="en">
         <seg>PAUSED</seg>
@@ -396,7 +396,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
       <prop type="path">#31042</prop>
       <tuv lang="en">
         <seg>PLAYING</seg>
@@ -406,7 +406,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
       <prop type="path">#31024</prop>
       <tuv lang="en">
         <seg>Page</seg>
@@ -416,7 +416,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
       <prop type="path">#31390</prop>
       <tuv lang="en">
         <seg>Skin default</seg>
@@ -426,7 +426,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
       <prop type="path">#31391</prop>
       <tuv lang="en">
         <seg>Skin default with no Caps</seg>
@@ -436,7 +436,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
       <prop type="path">#31050</prop>
       <tuv lang="en">
         <seg>Sort: Ascending</seg>
@@ -446,7 +446,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
       <prop type="path">#31051</prop>
       <tuv lang="en">
         <seg>Sort: Descending</seg>
@@ -456,7 +456,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
       <prop type="path">#31006</prop>
       <tuv lang="en">
         <seg>View Options</seg>
@@ -466,7 +466,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
       <prop type="path">#31408</prop>
       <tuv lang="en">
         <seg>[B]CONFIGURE ADD-ONS[/B][CR][CR]Manage your installed Add-ons · Browse for and install Add-ons from xbmc.org[CR]Modify Add-on settings</seg>
@@ -476,7 +476,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
       <prop type="path">#31400</prop>
       <tuv lang="en">
         <seg>[B]CONFIGURE APPEARANCE SETTINGS[/B][CR][CR]Change the skin · Set language and region · Change file listing options[CR]Set up a screensaver</seg>
@@ -486,7 +486,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
       <prop type="path">#31402</prop>
       <tuv lang="en">
         <seg>[B]CONFIGURE MUSIC SETTINGS[/B][CR][CR]Manage your music library · Set music playback options · Change music listing options[CR]Setup song submission · Set karaoke options</seg>
@@ -496,7 +496,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
       <prop type="path">#31403</prop>
       <tuv lang="en">
         <seg>[B]CONFIGURE PICTURE SETTINGS[/B][CR][CR]Set picture listing options · Configure slideshows</seg>
@@ -506,7 +506,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
       <prop type="path">#31410</prop>
       <tuv lang="en">
         <seg>[B]CONFIGURE SERVICE SETTINGS[/B][CR][CR]Setup control of XBMC via UPnP and HTTP · Configure file sharing[CR]Enable Zeroconf · Configure AirPlay</seg>
@@ -516,7 +516,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
       <prop type="path">#31406</prop>
       <tuv lang="en">
         <seg>[B]CONFIGURE SYSTEM SETTINGS[/B][CR][CR]Setup and calibrate displays · Configure audio output · Setup remote controls[CR]Set power saving options · Enable debugging · Setup master lock</seg>
@@ -526,7 +526,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
       <prop type="path">#31409</prop>
       <tuv lang="en">
         <seg>[B]CONFIGURE TV SETTINGS[/B][CR][CR]Change fullscreen info · Manage EPG data settings</seg>
@@ -536,7 +536,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
       <prop type="path">#31401</prop>
       <tuv lang="en">
         <seg>[B]CONFIGURE VIDEO SETTINGS[/B][CR][CR]Manage your video library · Set video playback options · Change video listing options[CR]Set subtitle fonts</seg>
@@ -546,7 +546,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
       <prop type="path">#31404</prop>
       <tuv lang="en">
         <seg>[B]CONFIGURE WEATHER SETTINGS[/B][CR][CR]Set three cities to collect weather information</seg>
@@ -556,7 +556,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.skin-touched/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.skin-touched/be.po</prop>
       <prop type="path">#31002</prop>
       <tuv lang="en">
         <seg>Audio Settings</seg>
@@ -566,7 +566,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.skin-touched/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.skin-touched/be.po</prop>
       <prop type="path">#31040</prop>
       <tuv lang="en">
         <seg>Now Playing</seg>
@@ -576,7 +576,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.skin-touched/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.skin-touched/be.po</prop>
       <prop type="path">#31390</prop>
       <tuv lang="en">
         <seg>Skin default</seg>
@@ -586,7 +586,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.visualization-dxspectrum/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.visualization-dxspectrum/be.po</prop>
       <prop type="path">#30007</prop>
       <tuv lang="en">
         <seg>Big</seg>
@@ -596,7 +596,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.visualization-glspectrum/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.visualization-glspectrum/be.po</prop>
       <prop type="path">#30007</prop>
       <tuv lang="en">
         <seg>Big</seg>
@@ -606,7 +606,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.visualization-itunes/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.visualization-itunes/be.po</prop>
       <prop type="path">Addon Summary</prop>
       <tuv lang="en">
         <seg>iTunes Visualization Wrapper</seg>
@@ -616,7 +616,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.visualization-milkdrop/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.visualization-milkdrop/be.po</prop>
       <prop type="path">#30050</prop>
       <tuv lang="en">
         <seg>%2.0f secs</seg>
@@ -626,7 +626,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.visualization-projectm/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.visualization-projectm/be.po</prop>
       <prop type="path">#30003</prop>
       <tuv lang="en">
         <seg>High</seg>
@@ -636,7 +636,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.visualization-projectm/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.visualization-projectm/be.po</prop>
       <prop type="path">#30001</prop>
       <tuv lang="en">
         <seg>Low</seg>
@@ -646,7 +646,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.visualization-projectm/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.visualization-projectm/be.po</prop>
       <prop type="path">#30004</prop>
       <tuv lang="en">
         <seg>Maximum</seg>
@@ -656,7 +656,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.visualization-projectm/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.visualization-projectm/be.po</prop>
       <prop type="path">#30002</prop>
       <tuv lang="en">
         <seg>Medium</seg>
@@ -666,7 +666,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.visualization-projectm/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.visualization-projectm/be.po</prop>
       <prop type="path">#30000</prop>
       <tuv lang="en">
         <seg>Render Quality</seg>
@@ -676,7 +676,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.visualization-waveform/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.visualization-waveform/be.po</prop>
       <prop type="path">Addon Summary</prop>
       <tuv lang="en">
         <seg>Visualization showing 2 Waveform Graphs on the screen</seg>
@@ -686,7 +686,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.weather-wunderground/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.weather-wunderground/be.po</prop>
       <prop type="path">#30111</prop>
       <tuv lang="en">
         <seg>Change location 1</seg>
@@ -696,7 +696,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.weather-wunderground/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.weather-wunderground/be.po</prop>
       <prop type="path">#30112</prop>
       <tuv lang="en">
         <seg>Change location 2</seg>
@@ -706,7 +706,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.weather-wunderground/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.weather-wunderground/be.po</prop>
       <prop type="path">#30113</prop>
       <tuv lang="en">
         <seg>Change location 3</seg>
@@ -716,7 +716,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.webinterface-default/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.webinterface-default/be.po</prop>
       <prop type="path">Addon Description</prop>
       <tuv lang="en">
         <seg>Default web interface for XBMC; Designed for devices of all resolutions</seg>
@@ -726,7 +726,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#14078</prop>
       <tuv lang="en">
         <seg>- Colours</seg>
@@ -736,7 +736,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#21450</prop>
       <tuv lang="en">
         <seg>- Edit</seg>
@@ -746,7 +746,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#13303</prop>
       <tuv lang="en">
         <seg>- Fonts</seg>
@@ -756,7 +756,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#1000</prop>
       <tuv lang="en">
         <seg>- Preview</seg>
@@ -766,7 +766,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#21417</prop>
       <tuv lang="en">
         <seg>- Settings</seg>
@@ -776,7 +776,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#15111</prop>
       <tuv lang="en">
         <seg>- Theme</seg>
@@ -786,7 +786,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#20109</prop>
       <tuv lang="en">
         <seg>- Zoom</seg>
@@ -796,7 +796,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#13500</prop>
       <tuv lang="en">
         <seg>A/V sync method</seg>
@@ -806,7 +806,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#23050</prop>
       <tuv lang="en">
         <seg>Activate Teletext</seg>
@@ -816,7 +816,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#1020</prop>
       <tuv lang="en">
         <seg>Add %s source</seg>
@@ -826,7 +826,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#999</prop>
       <tuv lang="en">
         <seg>Add Videos...</seg>
@@ -836,7 +836,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#1026</prop>
       <tuv lang="en">
         <seg>Add source</seg>
@@ -846,7 +846,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#14076</prop>
       <tuv lang="en">
         <seg>Add to favourites</seg>
@@ -856,7 +856,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#24076</prop>
       <tuv lang="en">
         <seg>Add-on Required</seg>
@@ -866,7 +866,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#24023</prop>
       <tuv lang="en">
         <seg>Add-on disabled</seg>
@@ -876,7 +876,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#24064</prop>
       <tuv lang="en">
         <seg>Add-on enabled</seg>
@@ -886,7 +886,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#24011</prop>
       <tuv lang="en">
         <seg>Add-on repository</seg>
@@ -896,7 +896,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#24065</prop>
       <tuv lang="en">
         <seg>Add-on updated</seg>
@@ -906,7 +906,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#24001</prop>
       <tuv lang="en">
         <seg>Add-ons</seg>
@@ -916,7 +916,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#170</prop>
       <tuv lang="en">
         <seg>Adjust display refresh rate to match video</seg>
@@ -926,7 +926,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#13418</prop>
       <tuv lang="en">
         <seg>Advanced shaders (GLSL)</seg>
@@ -936,7 +936,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#566</prop>
       <tuv lang="en">
         <seg>Album artist</seg>
@@ -946,7 +946,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#14071</prop>
       <tuv lang="en">
         <seg>Allow file renaming and deletion</seg>
@@ -956,7 +956,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#22021</prop>
       <tuv lang="en">
         <seg>Allowed error in aspect ratio to minimize black bars</seg>
@@ -966,7 +966,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#20422</prop>
       <tuv lang="en">
         <seg>Always</seg>
@@ -976,7 +976,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#34122</prop>
       <tuv lang="en">
         <seg>Always</seg>
@@ -986,7 +986,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#36035</prop>
       <tuv lang="en">
         <seg>Always</seg>
@@ -996,7 +996,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#480</prop>
       <tuv lang="en">
         <seg>Appearance</seg>
@@ -1006,7 +1006,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#54</prop>
       <tuv lang="en">
         <seg>Apr</seg>
@@ -1016,7 +1016,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#24</prop>
       <tuv lang="en">
         <seg>April</seg>
@@ -1026,7 +1026,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#557</prop>
       <tuv lang="en">
         <seg>Artist</seg>
@@ -1036,7 +1036,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#292</prop>
       <tuv lang="en">
         <seg>Audio</seg>
@@ -1046,7 +1046,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#13501</prop>
       <tuv lang="en">
         <seg>Audio clock</seg>
@@ -1056,7 +1056,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#460</prop>
       <tuv lang="en">
         <seg>Audio stream</seg>
@@ -1066,7 +1066,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#58</prop>
       <tuv lang="en">
         <seg>Aug</seg>
@@ -1076,7 +1076,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#28</prop>
       <tuv lang="en">
         <seg>August</seg>
@@ -1086,7 +1086,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#21863</prop>
       <tuv lang="en">
         <seg>Author</seg>
@@ -1096,7 +1096,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#13416</prop>
       <tuv lang="en">
         <seg>Auto detect</seg>
@@ -1106,7 +1106,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#24063</prop>
       <tuv lang="en">
         <seg>Auto update</seg>
@@ -1116,7 +1116,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#13417</prop>
       <tuv lang="en">
         <seg>Basic shaders (ARB)</seg>
@@ -1126,7 +1126,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#537</prop>
       <tuv lang="en">
         <seg>Big list</seg>
@@ -1136,7 +1136,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#739</prop>
       <tuv lang="en">
         <seg>Bold</seg>
@@ -1146,7 +1146,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#741</prop>
       <tuv lang="en">
         <seg>Bold italics</seg>
@@ -1156,7 +1156,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#298</prop>
       <tuv lang="en">
         <seg>Bookmarks</seg>
@@ -1166,7 +1166,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#464</prop>
       <tuv lang="en">
         <seg>Brightness</seg>
@@ -1176,7 +1176,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#24098</prop>
       <tuv lang="en">
         <seg>Broken</seg>
@@ -1186,7 +1186,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#1024</prop>
       <tuv lang="en">
         <seg>Browse</seg>
@@ -1196,7 +1196,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#1033</prop>
       <tuv lang="en">
         <seg>Browse for file</seg>
@@ -1206,7 +1206,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#1023</prop>
       <tuv lang="en">
         <seg>Browse for new share</seg>
@@ -1216,7 +1216,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#222</prop>
       <tuv lang="en">
         <seg>Cancel</seg>
@@ -1226,7 +1226,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#24066</prop>
       <tuv lang="en">
         <seg>Cancel Add-on download?</seg>
@@ -1236,7 +1236,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#20151</prop>
       <tuv lang="en">
         <seg>Cancel shutdown timer</seg>
@@ -1246,7 +1246,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#1442</prop>
       <tuv lang="en">
         <seg>Chance</seg>
@@ -1256,7 +1256,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#24036</prop>
       <tuv lang="en">
         <seg>Change log</seg>
@@ -1266,7 +1266,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#24054</prop>
       <tuv lang="en">
         <seg>Changelog</seg>
@@ -1276,7 +1276,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#14091</prop>
       <tuv lang="en">
         <seg>Character set</seg>
@@ -1286,7 +1286,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#21873</prop>
       <tuv lang="en">
         <seg>City</seg>
@@ -1296,7 +1296,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#334</prop>
       <tuv lang="en">
         <seg>Clean library...</seg>
@@ -1306,7 +1306,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#386</prop>
       <tuv lang="en">
         <seg>Clear</seg>
@@ -1316,7 +1316,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#296</prop>
       <tuv lang="en">
         <seg>Clear bookmarks</seg>
@@ -1326,7 +1326,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#387</prop>
       <tuv lang="en">
         <seg>Clouds</seg>
@@ -1336,7 +1336,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#374</prop>
       <tuv lang="en">
         <seg>Cloudy</seg>
@@ -1346,7 +1346,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#24020</prop>
       <tuv lang="en">
         <seg>Configure</seg>
@@ -1356,7 +1356,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#465</prop>
       <tuv lang="en">
         <seg>Contrast</seg>
@@ -1366,7 +1366,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#115</prop>
       <tuv lang="en">
         <seg>Copy</seg>
@@ -1376,7 +1376,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#21875</prop>
       <tuv lang="en">
         <seg>Country</seg>
@@ -1386,7 +1386,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#574</prop>
       <tuv lang="en">
         <seg>Country</seg>
@@ -1396,7 +1396,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#294</prop>
       <tuv lang="en">
         <seg>Create bookmark</seg>
@@ -1406,7 +1406,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#110</prop>
       <tuv lang="en">
         <seg>Create thumbnails</seg>
@@ -1416,7 +1416,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#109</prop>
       <tuv lang="en">
         <seg>Create thumbs</seg>
@@ -1426,7 +1426,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#24067</prop>
       <tuv lang="en">
         <seg>Currently downloading Add-ons</seg>
@@ -1436,7 +1436,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#20150</prop>
       <tuv lang="en">
         <seg>Custom shutdown timer</seg>
@@ -1446,7 +1446,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#20157</prop>
       <tuv lang="en">
         <seg>DVD-ROM information</seg>
@@ -1456,7 +1456,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#14087</prop>
       <tuv lang="en">
         <seg>DVDs</seg>
@@ -1466,7 +1466,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#552</prop>
       <tuv lang="en">
         <seg>Date</seg>
@@ -1476,7 +1476,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#12393</prop>
       <tuv lang="en">
         <seg>Days</seg>
@@ -1486,7 +1486,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#62</prop>
       <tuv lang="en">
         <seg>Dec</seg>
@@ -1496,7 +1496,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#32</prop>
       <tuv lang="en">
         <seg>December</seg>
@@ -1506,7 +1506,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#409</prop>
       <tuv lang="en">
         <seg>Defaults</seg>
@@ -1516,7 +1516,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#117</prop>
       <tuv lang="en">
         <seg>Delete</seg>
@@ -1526,7 +1526,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#21821</prop>
       <tuv lang="en">
         <seg>Description</seg>
@@ -1536,7 +1536,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#405</prop>
       <tuv lang="en">
         <seg>Dew point</seg>
@@ -1546,7 +1546,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#24021</prop>
       <tuv lang="en">
         <seg>Disable</seg>
@@ -1556,7 +1556,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#173</prop>
       <tuv lang="en">
         <seg>Display 4:3 videos as</seg>
@@ -1566,7 +1566,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#20177</prop>
       <tuv lang="en">
         <seg>Done</seg>
@@ -1576,7 +1576,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#20402</prop>
       <tuv lang="en">
         <seg>Download actor thumbnails when adding to library</seg>
@@ -1586,7 +1586,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#24042</prop>
       <tuv lang="en">
         <seg>Downloading %i%%</seg>
@@ -1596,7 +1596,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#1415</prop>
       <tuv lang="en">
         <seg>Drizzle</seg>
@@ -1606,7 +1606,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#1028</prop>
       <tuv lang="en">
         <seg>Edit %s source</seg>
@@ -1616,7 +1616,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#1027</prop>
       <tuv lang="en">
         <seg>Edit source</seg>
@@ -1626,7 +1626,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#16105</prop>
       <tuv lang="en">
         <seg>Edit title</seg>
@@ -1636,7 +1636,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#24022</prop>
       <tuv lang="en">
         <seg>Enable</seg>
@@ -1646,7 +1646,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#305</prop>
       <tuv lang="en">
         <seg>Enabled</seg>
@@ -1656,7 +1656,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#1022</prop>
       <tuv lang="en">
         <seg>Enter a name for this media Source.</seg>
@@ -1666,7 +1666,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#12340</prop>
       <tuv lang="en">
         <seg>Enter new password</seg>
@@ -1676,7 +1676,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#16017</prop>
       <tuv lang="en">
         <seg>Enter search string</seg>
@@ -1686,7 +1686,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#14068</prop>
       <tuv lang="en">
         <seg>Enter the IP address</seg>
@@ -1696,7 +1696,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#1029</prop>
       <tuv lang="en">
         <seg>Enter the new label</seg>
@@ -1706,7 +1706,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#1021</prop>
       <tuv lang="en">
         <seg>Enter the paths or browse for the media locations.</seg>
@@ -1716,7 +1716,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#16028</prop>
       <tuv lang="en">
         <seg>Enter value</seg>
@@ -1726,7 +1726,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#647</prop>
       <tuv lang="en">
         <seg>Export video library</seg>
@@ -1736,7 +1736,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#650</prop>
       <tuv lang="en">
         <seg>Exporting</seg>
@@ -1746,7 +1746,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#1036</prop>
       <tuv lang="en">
         <seg>Favourites</seg>
@@ -1756,7 +1756,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#52</prop>
       <tuv lang="en">
         <seg>Feb</seg>
@@ -1766,7 +1766,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#22</prop>
       <tuv lang="en">
         <seg>February</seg>
@@ -1776,7 +1776,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#402</prop>
       <tuv lang="en">
         <seg>Feels like</seg>
@@ -1786,7 +1786,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#14081</prop>
       <tuv lang="en">
         <seg>File lists</seg>
@@ -1796,7 +1796,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#7</prop>
       <tuv lang="en">
         <seg>File manager</seg>
@@ -1806,7 +1806,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#744</prop>
       <tuv lang="en">
         <seg>Files</seg>
@@ -1816,7 +1816,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#587</prop>
       <tuv lang="en">
         <seg>Filter</seg>
@@ -1826,7 +1826,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#20412</prop>
       <tuv lang="en">
         <seg>Flatten TV shows</seg>
@@ -1836,7 +1836,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#394</prop>
       <tuv lang="en">
         <seg>Fog</seg>
@@ -1846,7 +1846,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#1416</prop>
       <tuv lang="en">
         <seg>Foggy</seg>
@@ -1856,7 +1856,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#288</prop>
       <tuv lang="en">
         <seg>Font</seg>
@@ -1866,7 +1866,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#19153</prop>
       <tuv lang="en">
         <seg>Fr</seg>
@@ -1876,7 +1876,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#158</prop>
       <tuv lang="en">
         <seg>Free memory</seg>
@@ -1886,7 +1886,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#45</prop>
       <tuv lang="en">
         <seg>Fri</seg>
@@ -1896,7 +1896,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#15</prop>
       <tuv lang="en">
         <seg>Friday</seg>
@@ -1906,7 +1906,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#434</prop>
       <tuv lang="en">
         <seg>From %s at %i %s</seg>
@@ -1916,7 +1916,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#515</prop>
       <tuv lang="en">
         <seg>Genre</seg>
@@ -1926,7 +1926,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#21452</prop>
       <tuv lang="en">
         <seg>Get More...</seg>
@@ -1936,7 +1936,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#1417</prop>
       <tuv lang="en">
         <seg>Grains</seg>
@@ -1946,7 +1946,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#20458</prop>
       <tuv lang="en">
         <seg>Group movies in sets</seg>
@@ -1956,7 +1956,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#713</prop>
       <tuv lang="en">
         <seg>HTTP proxy</seg>
@@ -1966,7 +1966,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#20156</prop>
       <tuv lang="en">
         <seg>Hard disk information</seg>
@@ -1976,7 +1976,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#20160</prop>
       <tuv lang="en">
         <seg>Hardware information</seg>
@@ -1986,7 +1986,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#395</prop>
       <tuv lang="en">
         <seg>Haze</seg>
@@ -1996,7 +1996,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#13010</prop>
       <tuv lang="en">
         <seg>Hibernate</seg>
@@ -2006,7 +2006,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#25001</prop>
       <tuv lang="en">
         <seg>Hide foreign</seg>
@@ -2016,7 +2016,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#22001</prop>
       <tuv lang="en">
         <seg>Hide progress of library updates</seg>
@@ -2026,7 +2026,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#20367</prop>
       <tuv lang="en">
         <seg>Hide watched</seg>
@@ -2036,7 +2036,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#13508</prop>
       <tuv lang="en">
         <seg>High</seg>
@@ -2046,7 +2046,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#393</prop>
       <tuv lang="en">
         <seg>High</seg>
@@ -2056,7 +2056,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#419</prop>
       <tuv lang="en">
         <seg>High</seg>
@@ -2066,7 +2066,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#513</prop>
       <tuv lang="en">
         <seg>Home window</seg>
@@ -2076,7 +2076,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#406</prop>
       <tuv lang="en">
         <seg>Humidity</seg>
@@ -2086,7 +2086,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#1006</prop>
       <tuv lang="en">
         <seg>IP address</seg>
@@ -2096,7 +2096,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#150</prop>
       <tuv lang="en">
         <seg>IP address</seg>
@@ -2106,7 +2106,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#536</prop>
       <tuv lang="en">
         <seg>Icons</seg>
@@ -2116,7 +2116,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#20421</prop>
       <tuv lang="en">
         <seg>If only one season</seg>
@@ -2126,7 +2126,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#36028</prop>
       <tuv lang="en">
         <seg>Ignore</seg>
@@ -2136,7 +2136,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#13399</prop>
       <tuv lang="en">
         <seg>Ignore articles when sorting (e.g. "the")</seg>
@@ -2146,7 +2146,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#648</prop>
       <tuv lang="en">
         <seg>Import video library</seg>
@@ -2156,7 +2156,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#649</prop>
       <tuv lang="en">
         <seg>Importing</seg>
@@ -2166,7 +2166,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#24038</prop>
       <tuv lang="en">
         <seg>Install</seg>
@@ -2176,7 +2176,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#14090</prop>
       <tuv lang="en">
         <seg>International</seg>
@@ -2186,7 +2186,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#740</prop>
       <tuv lang="en">
         <seg>Italics</seg>
@@ -2196,7 +2196,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#51</prop>
       <tuv lang="en">
         <seg>Jan</seg>
@@ -2206,7 +2206,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#21</prop>
       <tuv lang="en">
         <seg>January</seg>
@@ -2216,7 +2216,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#57</prop>
       <tuv lang="en">
         <seg>Jul</seg>
@@ -2226,7 +2226,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#27</prop>
       <tuv lang="en">
         <seg>July</seg>
@@ -2236,7 +2236,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#56</prop>
       <tuv lang="en">
         <seg>Jun</seg>
@@ -2246,7 +2246,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#26</prop>
       <tuv lang="en">
         <seg>June</seg>
@@ -2256,7 +2256,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#248</prop>
       <tuv lang="en">
         <seg>Language</seg>
@@ -2266,7 +2266,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#304</prop>
       <tuv lang="en">
         <seg>Language</seg>
@@ -2276,7 +2276,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#14022</prop>
       <tuv lang="en">
         <seg>Library</seg>
@@ -2286,7 +2286,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#15100</prop>
       <tuv lang="en">
         <seg>Library</seg>
@@ -2296,7 +2296,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#24053</prop>
       <tuv lang="en">
         <seg>License:</seg>
@@ -2306,7 +2306,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#535</prop>
       <tuv lang="en">
         <seg>List</seg>
@@ -2316,7 +2316,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#391</prop>
       <tuv lang="en">
         <seg>Low</seg>
@@ -2326,7 +2326,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#418</prop>
       <tuv lang="en">
         <seg>Low</seg>
@@ -2336,7 +2336,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#13506</prop>
       <tuv lang="en">
         <seg>Low(fast)</seg>
@@ -2346,7 +2346,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#53</prop>
       <tuv lang="en">
         <seg>Mar</seg>
@@ -2356,7 +2356,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#23</prop>
       <tuv lang="en">
         <seg>March</seg>
@@ -2366,7 +2366,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#16104</prop>
       <tuv lang="en">
         <seg>Mark as unwatched</seg>
@@ -2376,7 +2376,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#16103</prop>
       <tuv lang="en">
         <seg>Mark as watched</seg>
@@ -2386,7 +2386,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#13504</prop>
       <tuv lang="en">
         <seg>Maximum resample amount (%)</seg>
@@ -2396,7 +2396,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#25</prop>
       <tuv lang="en">
         <seg>May</seg>
@@ -2406,7 +2406,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#55</prop>
       <tuv lang="en">
         <seg>May</seg>
@@ -2416,7 +2416,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#13507</prop>
       <tuv lang="en">
         <seg>Medium</seg>
@@ -2426,7 +2426,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#392</prop>
       <tuv lang="en">
         <seg>Medium</seg>
@@ -2436,7 +2436,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#33061</prop>
       <tuv lang="en">
         <seg>Menu</seg>
@@ -2446,7 +2446,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#1423</prop>
       <tuv lang="en">
         <seg>Mist</seg>
@@ -2456,7 +2456,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#19149</prop>
       <tuv lang="en">
         <seg>Mo</seg>
@@ -2466,7 +2466,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#19095</prop>
       <tuv lang="en">
         <seg>Mo-Tu-We-Th-Fr-Sa-Su</seg>
@@ -2476,7 +2476,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#19094</prop>
       <tuv lang="en">
         <seg>Mo-Tu-We-Th-Fr-Sa-__</seg>
@@ -2486,7 +2486,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#19093</prop>
       <tuv lang="en">
         <seg>Mo-Tu-We-Th-Fr-__-__</seg>
@@ -2496,7 +2496,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#19086</prop>
       <tuv lang="en">
         <seg>Mo-__-__-__-__-__-__</seg>
@@ -2506,7 +2506,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#41</prop>
       <tuv lang="en">
         <seg>Mon</seg>
@@ -2516,7 +2516,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#11</prop>
       <tuv lang="en">
         <seg>Monday</seg>
@@ -2526,7 +2526,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#372</prop>
       <tuv lang="en">
         <seg>Mostly</seg>
@@ -2536,7 +2536,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#116</prop>
       <tuv lang="en">
         <seg>Move</seg>
@@ -2546,7 +2546,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#10005</prop>
       <tuv lang="en">
         <seg>Music</seg>
@@ -2556,7 +2556,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#1211</prop>
       <tuv lang="en">
         <seg>Music</seg>
@@ -2566,7 +2566,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#2</prop>
       <tuv lang="en">
         <seg>Music</seg>
@@ -2576,7 +2576,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#249</prop>
       <tuv lang="en">
         <seg>Music</seg>
@@ -2586,7 +2586,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#1038</prop>
       <tuv lang="en">
         <seg>Music Add-ons</seg>
@@ -2596,7 +2596,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#551</prop>
       <tuv lang="en">
         <seg>Name</seg>
@@ -2606,7 +2606,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#15108</prop>
       <tuv lang="en">
         <seg>Navigation sounds</seg>
@@ -2616,7 +2616,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#20158</prop>
       <tuv lang="en">
         <seg>Network information</seg>
@@ -2626,7 +2626,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#145</prop>
       <tuv lang="en">
         <seg>Network:</seg>
@@ -2636,7 +2636,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#13170</prop>
       <tuv lang="en">
         <seg>Never</seg>
@@ -2646,7 +2646,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#20420</prop>
       <tuv lang="en">
         <seg>Never</seg>
@@ -2656,7 +2656,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#34123</prop>
       <tuv lang="en">
         <seg>Never</seg>
@@ -2666,7 +2666,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#119</prop>
       <tuv lang="en">
         <seg>New folder</seg>
@@ -2676,7 +2676,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#531</prop>
       <tuv lang="en">
         <seg>New genre</seg>
@@ -2686,7 +2686,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#33078</prop>
       <tuv lang="en">
         <seg>Next page</seg>
@@ -2696,7 +2696,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#106</prop>
       <tuv lang="en">
         <seg>No</seg>
@@ -2706,7 +2706,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#19240</prop>
       <tuv lang="en">
         <seg>No PVR add-on enabled</seg>
@@ -2716,7 +2716,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#19271</prop>
       <tuv lang="en">
         <seg>No PVR add-ons could be found</seg>
@@ -2726,7 +2726,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#19045</prop>
       <tuv lang="en">
         <seg>No PVR clients have been started yet. Wait for the PVR clients to start up or check the log for details.</seg>
@@ -2736,7 +2736,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#630</prop>
       <tuv lang="en">
         <seg>Normal</seg>
@@ -2746,7 +2746,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#738</prop>
       <tuv lang="en">
         <seg>Normal</seg>
@@ -2756,7 +2756,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#25000</prop>
       <tuv lang="en">
         <seg>Notifications</seg>
@@ -2766,7 +2766,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#61</prop>
       <tuv lang="en">
         <seg>Nov</seg>
@@ -2776,7 +2776,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#31</prop>
       <tuv lang="en">
         <seg>November</seg>
@@ -2786,7 +2786,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#13350</prop>
       <tuv lang="en">
         <seg>Now playing...</seg>
@@ -2796,7 +2796,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#186</prop>
       <tuv lang="en">
         <seg>OK</seg>
@@ -2806,7 +2806,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#60</prop>
       <tuv lang="en">
         <seg>Oct</seg>
@@ -2816,7 +2816,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#30</prop>
       <tuv lang="en">
         <seg>October</seg>
@@ -2826,7 +2826,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#474</prop>
       <tuv lang="en">
         <seg>Off</seg>
@@ -2836,7 +2836,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#13283</prop>
       <tuv lang="en">
         <seg>Operating system:</seg>
@@ -2846,7 +2846,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#33063</prop>
       <tuv lang="en">
         <seg>Options</seg>
@@ -2856,7 +2856,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#635</prop>
       <tuv lang="en">
         <seg>Original Size</seg>
@@ -2866,7 +2866,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#308</prop>
       <tuv lang="en">
         <seg>Original stream's language</seg>
@@ -2876,7 +2876,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#1424</prop>
       <tuv lang="en">
         <seg>Overcast</seg>
@@ -2886,7 +2886,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#371</prop>
       <tuv lang="en">
         <seg>Partly</seg>
@@ -2896,7 +2896,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#12358</prop>
       <tuv lang="en">
         <seg>Password entry was blank. Try again.</seg>
@@ -2906,7 +2906,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#13550</prop>
       <tuv lang="en">
         <seg>Pause during refresh rate change</seg>
@@ -2916,7 +2916,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#1039</prop>
       <tuv lang="en">
         <seg>Picture Add-ons</seg>
@@ -2926,7 +2926,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#1</prop>
       <tuv lang="en">
         <seg>Pictures</seg>
@@ -2936,7 +2936,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#10002</prop>
       <tuv lang="en">
         <seg>Pictures</seg>
@@ -2946,7 +2946,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#1213</prop>
       <tuv lang="en">
         <seg>Pictures</seg>
@@ -2956,7 +2956,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#13412</prop>
       <tuv lang="en">
         <seg>Play from here</seg>
@@ -2966,7 +2966,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#489</prop>
       <tuv lang="en">
         <seg>Play the next song automatically</seg>
@@ -2976,7 +2976,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#13433</prop>
       <tuv lang="en">
         <seg>Play the next video automatically</seg>
@@ -2986,7 +2986,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#14086</prop>
       <tuv lang="en">
         <seg>Playback</seg>
@@ -2996,7 +2996,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#19274</prop>
       <tuv lang="en">
         <seg>Please visit xbmc.org/pvr to learn more.</seg>
@@ -3006,7 +3006,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#13016</prop>
       <tuv lang="en">
         <seg>Power off System</seg>
@@ -3016,7 +3016,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#285</prop>
       <tuv lang="en">
         <seg>Preferred audio language</seg>
@@ -3026,7 +3026,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#286</prop>
       <tuv lang="en">
         <seg>Preferred subtitle language</seg>
@@ -3036,7 +3036,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#13200</prop>
       <tuv lang="en">
         <seg>Profiles</seg>
@@ -3046,7 +3046,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#1043</prop>
       <tuv lang="en">
         <seg>Program Add-ons</seg>
@@ -3056,7 +3056,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#0</prop>
       <tuv lang="en">
         <seg>Programs</seg>
@@ -3066,7 +3066,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#10001</prop>
       <tuv lang="en">
         <seg>Programs</seg>
@@ -3076,7 +3076,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#10506</prop>
       <tuv lang="en">
         <seg>Programs</seg>
@@ -3086,7 +3086,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#350</prop>
       <tuv lang="en">
         <seg>Programs</seg>
@@ -3096,7 +3096,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#13347</prop>
       <tuv lang="en">
         <seg>Queue item</seg>
@@ -3106,7 +3106,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#19021</prop>
       <tuv lang="en">
         <seg>Radio</seg>
@@ -3116,7 +3116,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#376</prop>
       <tuv lang="en">
         <seg>Rain</seg>
@@ -3126,7 +3126,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#563</prop>
       <tuv lang="en">
         <seg>Rating</seg>
@@ -3136,7 +3136,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#12341</prop>
       <tuv lang="en">
         <seg>Re-Enter new password</seg>
@@ -3146,7 +3146,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#13509</prop>
       <tuv lang="en">
         <seg>Really high(slow!)</seg>
@@ -3156,7 +3156,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#13013</prop>
       <tuv lang="en">
         <seg>Reboot</seg>
@@ -3166,7 +3166,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#184</prop>
       <tuv lang="en">
         <seg>Refresh</seg>
@@ -3176,7 +3176,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#20026</prop>
       <tuv lang="en">
         <seg>Region</seg>
@@ -3186,7 +3186,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#14077</prop>
       <tuv lang="en">
         <seg>Remove from favourites</seg>
@@ -3196,7 +3196,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#118</prop>
       <tuv lang="en">
         <seg>Rename</seg>
@@ -3206,7 +3206,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#13354</prop>
       <tuv lang="en">
         <seg>Render method</seg>
@@ -3216,7 +3216,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#13415</prop>
       <tuv lang="en">
         <seg>Render method</seg>
@@ -3226,7 +3226,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#13505</prop>
       <tuv lang="en">
         <seg>Resample quality</seg>
@@ -3236,7 +3236,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#169</prop>
       <tuv lang="en">
         <seg>Resolution</seg>
@@ -3246,7 +3246,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#24048</prop>
       <tuv lang="en">
         <seg>Rollback</seg>
@@ -3256,7 +3256,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#19154</prop>
       <tuv lang="en">
         <seg>Sa</seg>
@@ -3266,7 +3266,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#46</prop>
       <tuv lang="en">
         <seg>Sat</seg>
@@ -3276,7 +3276,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#16</prop>
       <tuv lang="en">
         <seg>Saturday</seg>
@@ -3286,7 +3286,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#190</prop>
       <tuv lang="en">
         <seg>Save</seg>
@@ -3296,7 +3296,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#23055</prop>
       <tuv lang="en">
         <seg>Scale Teletext to 4:3</seg>
@@ -3306,7 +3306,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#193</prop>
       <tuv lang="en">
         <seg>Scan</seg>
@@ -3316,7 +3316,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#382</prop>
       <tuv lang="en">
         <seg>Scattered</seg>
@@ -3326,7 +3326,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#13287</prop>
       <tuv lang="en">
         <seg>Screen resolution:</seg>
@@ -3336,7 +3336,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#360</prop>
       <tuv lang="en">
         <seg>Screensaver</seg>
@@ -3346,7 +3346,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#356</prop>
       <tuv lang="en">
         <seg>Screensaver mode</seg>
@@ -3356,7 +3356,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#355</prop>
       <tuv lang="en">
         <seg>Screensaver time</seg>
@@ -3366,7 +3366,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#194</prop>
       <tuv lang="en">
         <seg>Searching...</seg>
@@ -3376,7 +3376,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#396</prop>
       <tuv lang="en">
         <seg>Select location</seg>
@@ -3386,7 +3386,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#59</prop>
       <tuv lang="en">
         <seg>Sep</seg>
@@ -3396,7 +3396,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#29</prop>
       <tuv lang="en">
         <seg>September</seg>
@@ -3406,7 +3406,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#14036</prop>
       <tuv lang="en">
         <seg>Services</seg>
@@ -3416,7 +3416,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#5</prop>
       <tuv lang="en">
         <seg>Settings</seg>
@@ -3426,7 +3426,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#1419</prop>
       <tuv lang="en">
         <seg>Shallow</seg>
@@ -3436,7 +3436,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#21382</prop>
       <tuv lang="en">
         <seg>Show "Add source" buttons in file lists</seg>
@@ -3446,7 +3446,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#13305</prop>
       <tuv lang="en">
         <seg>Show RSS news feeds</seg>
@@ -3456,7 +3456,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#497</prop>
       <tuv lang="en">
         <seg>Show file extensions</seg>
@@ -3466,7 +3466,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#21330</prop>
       <tuv lang="en">
         <seg>Show hidden files and directories</seg>
@@ -3476,7 +3476,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#13306</prop>
       <tuv lang="en">
         <seg>Show parent folder items</seg>
@@ -3486,7 +3486,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#20369</prop>
       <tuv lang="en">
         <seg>Show plot for unwatched items</seg>
@@ -3496,7 +3496,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#389</prop>
       <tuv lang="en">
         <seg>Shower</seg>
@@ -3506,7 +3506,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#380</prop>
       <tuv lang="en">
         <seg>Showers</seg>
@@ -3516,7 +3516,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#20149</prop>
       <tuv lang="en">
         <seg>Shutdown in 120 minutes</seg>
@@ -3526,7 +3526,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#20147</prop>
       <tuv lang="en">
         <seg>Shutdown in 30 minutes</seg>
@@ -3536,7 +3536,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#20148</prop>
       <tuv lang="en">
         <seg>Shutdown in 60 minutes</seg>
@@ -3546,7 +3546,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#20144</prop>
       <tuv lang="en">
         <seg>Shutdown timer</seg>
@@ -3556,7 +3556,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#553</prop>
       <tuv lang="en">
         <seg>Size</seg>
@@ -3566,7 +3566,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#166</prop>
       <tuv lang="en">
         <seg>Skin</seg>
@@ -3576,7 +3576,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#15109</prop>
       <tuv lang="en">
         <seg>Skin default</seg>
@@ -3586,7 +3586,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#24103</prop>
       <tuv lang="en">
         <seg>Skin is missing some files</seg>
@@ -3596,7 +3596,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#108</prop>
       <tuv lang="en">
         <seg>Slideshow</seg>
@@ -3606,7 +3606,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#375</prop>
       <tuv lang="en">
         <seg>Snow</seg>
@@ -3616,7 +3616,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#13419</prop>
       <tuv lang="en">
         <seg>Software</seg>
@@ -3626,7 +3626,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#550</prop>
       <tuv lang="en">
         <seg>Sort by: %s</seg>
@@ -3636,7 +3636,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#104</prop>
       <tuv lang="en">
         <seg>Sort by: Date</seg>
@@ -3646,7 +3646,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#103</prop>
       <tuv lang="en">
         <seg>Sort by: Name</seg>
@@ -3656,7 +3656,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#365</prop>
       <tuv lang="en">
         <seg>Sort by: Name</seg>
@@ -3666,7 +3666,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#367</prop>
       <tuv lang="en">
         <seg>Sort by: Rating</seg>
@@ -3676,7 +3676,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#105</prop>
       <tuv lang="en">
         <seg>Sort by: Size</seg>
@@ -3686,7 +3686,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#498</prop>
       <tuv lang="en">
         <seg>Sort by: Type</seg>
@@ -3696,7 +3696,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#366</prop>
       <tuv lang="en">
         <seg>Sort by: Year</seg>
@@ -3706,7 +3706,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#12357</prop>
       <tuv lang="en">
         <seg>Source lock</seg>
@@ -3716,7 +3716,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#20182</prop>
       <tuv lang="en">
         <seg>Space</seg>
@@ -3726,7 +3726,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#399</prop>
       <tuv lang="en">
         <seg>Speed units</seg>
@@ -3736,7 +3736,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#512</prop>
       <tuv lang="en">
         <seg>Startup window</seg>
@@ -3746,7 +3746,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#21874</prop>
       <tuv lang="en">
         <seg>State</seg>
@@ -3756,7 +3756,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#20155</prop>
       <tuv lang="en">
         <seg>Storage information</seg>
@@ -3766,7 +3766,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#634</prop>
       <tuv lang="en">
         <seg>Stretch 16:9</seg>
@@ -3776,7 +3776,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#632</prop>
       <tuv lang="en">
         <seg>Stretch 4:3</seg>
@@ -3786,7 +3786,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#19155</prop>
       <tuv lang="en">
         <seg>Su</seg>
@@ -3796,7 +3796,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#462</prop>
       <tuv lang="en">
         <seg>Subtitle</seg>
@@ -3806,7 +3806,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#24012</prop>
       <tuv lang="en">
         <seg>Subtitles</seg>
@@ -3816,7 +3816,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#287</prop>
       <tuv lang="en">
         <seg>Subtitles</seg>
@@ -3826,7 +3826,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#20037</prop>
       <tuv lang="en">
         <seg>Summary</seg>
@@ -3836,7 +3836,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#20154</prop>
       <tuv lang="en">
         <seg>Summary information</seg>
@@ -3846,7 +3846,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#47</prop>
       <tuv lang="en">
         <seg>Sun</seg>
@@ -3856,7 +3856,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#17</prop>
       <tuv lang="en">
         <seg>Sunday</seg>
@@ -3866,7 +3866,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#373</prop>
       <tuv lang="en">
         <seg>Sunny</seg>
@@ -3876,7 +3876,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#13011</prop>
       <tuv lang="en">
         <seg>Suspend</seg>
@@ -3886,7 +3886,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#20180</prop>
       <tuv lang="en">
         <seg>Symbols</seg>
@@ -3896,7 +3896,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#13510</prop>
       <tuv lang="en">
         <seg>Sync playback to display</seg>
@@ -3906,7 +3906,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#13000</prop>
       <tuv lang="en">
         <seg>System</seg>
@@ -3916,7 +3916,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#138</prop>
       <tuv lang="en">
         <seg>System Information</seg>
@@ -3926,7 +3926,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#130</prop>
       <tuv lang="en">
         <seg>System info</seg>
@@ -3936,7 +3936,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#12390</prop>
       <tuv lang="en">
         <seg>System uptime</seg>
@@ -3946,7 +3946,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#19020</prop>
       <tuv lang="en">
         <seg>TV</seg>
@@ -3956,7 +3956,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#19180</prop>
       <tuv lang="en">
         <seg>TV</seg>
@@ -3966,7 +3966,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#36037</prop>
       <tuv lang="en">
         <seg>TV</seg>
@@ -3976,7 +3976,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#398</prop>
       <tuv lang="en">
         <seg>Temperature units</seg>
@@ -3986,7 +3986,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#139</prop>
       <tuv lang="en">
         <seg>Temperatures:</seg>
@@ -3996,7 +3996,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#19152</prop>
       <tuv lang="en">
         <seg>Th</seg>
@@ -4006,7 +4006,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#44</prop>
       <tuv lang="en">
         <seg>Thu</seg>
@@ -4016,7 +4016,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#21371</prop>
       <tuv lang="en">
         <seg>Thumbnail</seg>
@@ -4026,7 +4026,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#1414</prop>
       <tuv lang="en">
         <seg>Thunderstorm</seg>
@@ -4036,7 +4036,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#1418</prop>
       <tuv lang="en">
         <seg>Thunderstorms</seg>
@@ -4046,7 +4046,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#370</prop>
       <tuv lang="en">
         <seg>Thunderstorms</seg>
@@ -4056,7 +4056,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#14</prop>
       <tuv lang="en">
         <seg>Thursday</seg>
@@ -4066,7 +4066,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#142</prop>
       <tuv lang="en">
         <seg>Time:</seg>
@@ -4076,7 +4076,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#556</prop>
       <tuv lang="en">
         <seg>Title</seg>
@@ -4086,7 +4086,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#24100</prop>
       <tuv lang="en">
         <seg>To use this feature you must download an Add-on:</seg>
@@ -4096,7 +4096,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#19150</prop>
       <tuv lang="en">
         <seg>Tu</seg>
@@ -4106,7 +4106,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#42</prop>
       <tuv lang="en">
         <seg>Tue</seg>
@@ -4116,7 +4116,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#12</prop>
       <tuv lang="en">
         <seg>Tuesday</seg>
@@ -4126,7 +4126,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#564</prop>
       <tuv lang="en">
         <seg>Type</seg>
@@ -4136,7 +4136,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#146</prop>
       <tuv lang="en">
         <seg>Type:</seg>
@@ -4146,7 +4146,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#403</prop>
       <tuv lang="en">
         <seg>UV index</seg>
@@ -4156,7 +4156,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#24102</prop>
       <tuv lang="en">
         <seg>Unable to load skin</seg>
@@ -4166,7 +4166,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#24037</prop>
       <tuv lang="en">
         <seg>Uninstall</seg>
@@ -4176,7 +4176,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#24069</prop>
       <tuv lang="en">
         <seg>Update</seg>
@@ -4186,7 +4186,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#24068</prop>
       <tuv lang="en">
         <seg>Update available</seg>
@@ -4196,7 +4196,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#653</prop>
       <tuv lang="en">
         <seg>Update library</seg>
@@ -4206,7 +4206,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#22000</prop>
       <tuv lang="en">
         <seg>Update library on startup</seg>
@@ -4216,7 +4216,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#22014</prop>
       <tuv lang="en">
         <seg>Use dim if paused during video playback</seg>
@@ -4226,7 +4226,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#13392</prop>
       <tuv lang="en">
         <seg>Use visualization if playing audio</seg>
@@ -4236,7 +4236,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#309</prop>
       <tuv lang="en">
         <seg>User Interface language</seg>
@@ -4246,7 +4246,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#1014</prop>
       <tuv lang="en">
         <seg>Username</seg>
@@ -4256,7 +4256,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#20142</prop>
       <tuv lang="en">
         <seg>Username</seg>
@@ -4266,7 +4266,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#24051</prop>
       <tuv lang="en">
         <seg>Version:</seg>
@@ -4276,7 +4276,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#157</prop>
       <tuv lang="en">
         <seg>Video</seg>
@@ -4286,7 +4286,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#291</prop>
       <tuv lang="en">
         <seg>Video</seg>
@@ -4296,7 +4296,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#1037</prop>
       <tuv lang="en">
         <seg>Video Add-ons</seg>
@@ -4306,7 +4306,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#13502</prop>
       <tuv lang="en">
         <seg>Video clock (Drop/Dupe audio)</seg>
@@ -4316,7 +4316,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#13503</prop>
       <tuv lang="en">
         <seg>Video clock (Resample audio)</seg>
@@ -4326,7 +4326,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#20159</prop>
       <tuv lang="en">
         <seg>Video information</seg>
@@ -4336,7 +4336,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#21443</prop>
       <tuv lang="en">
         <seg>Video resolution</seg>
@@ -4346,7 +4346,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#3</prop>
       <tuv lang="en">
         <seg>Videos</seg>
@@ -4356,7 +4356,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#14018</prop>
       <tuv lang="en">
         <seg>View options</seg>
@@ -4366,7 +4366,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#534</prop>
       <tuv lang="en">
         <seg>View: %s</seg>
@@ -4376,7 +4376,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#13376</prop>
       <tuv lang="en">
         <seg>Volume</seg>
@@ -4386,7 +4386,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#19151</prop>
       <tuv lang="en">
         <seg>We</seg>
@@ -4396,7 +4396,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#12600</prop>
       <tuv lang="en">
         <seg>Weather</seg>
@@ -4406,7 +4406,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#24027</prop>
       <tuv lang="en">
         <seg>Weather</seg>
@@ -4416,7 +4416,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#400</prop>
       <tuv lang="en">
         <seg>Weather</seg>
@@ -4426,7 +4426,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#8</prop>
       <tuv lang="en">
         <seg>Weather</seg>
@@ -4436,7 +4436,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#10508</prop>
       <tuv lang="en">
         <seg>Weather forecast</seg>
@@ -4446,7 +4446,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#43</prop>
       <tuv lang="en">
         <seg>Wed</seg>
@@ -4456,7 +4456,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#13</prop>
       <tuv lang="en">
         <seg>Wednesday</seg>
@@ -4466,7 +4466,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#742</prop>
       <tuv lang="en">
         <seg>White</seg>
@@ -4476,7 +4476,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#633</prop>
       <tuv lang="en">
         <seg>Wide Zoom</seg>
@@ -4486,7 +4486,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#383</prop>
       <tuv lang="en">
         <seg>Wind</seg>
@@ -4496,7 +4496,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#404</prop>
       <tuv lang="en">
         <seg>Wind</seg>
@@ -4506,7 +4506,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#1422</prop>
       <tuv lang="en">
         <seg>Windy</seg>
@@ -4516,7 +4516,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#24101</prop>
       <tuv lang="en">
         <seg>Would you like to download this Add-on?</seg>
@@ -4526,7 +4526,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#743</prop>
       <tuv lang="en">
         <seg>Yellow</seg>
@@ -4536,7 +4536,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#107</prop>
       <tuv lang="en">
         <seg>Yes</seg>
@@ -4546,7 +4546,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#19272</prop>
       <tuv lang="en">
         <seg>You need a tuner, backend software, and an</seg>
@@ -4556,7 +4556,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#631</prop>
       <tuv lang="en">
         <seg>Zoom</seg>
@@ -4566,7 +4566,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#19087</prop>
       <tuv lang="en">
         <seg>__-Tu-__-__-__-__-__</seg>
@@ -4576,7 +4576,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#19088</prop>
       <tuv lang="en">
         <seg>__-__-We-__-__-__-__</seg>
@@ -4586,7 +4586,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#19089</prop>
       <tuv lang="en">
         <seg>__-__-__-Th-__-__-__</seg>
@@ -4596,7 +4596,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#19090</prop>
       <tuv lang="en">
         <seg>__-__-__-__-Fr-__-__</seg>
@@ -4606,7 +4606,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#19096</prop>
       <tuv lang="en">
         <seg>__-__-__-__-__-Sa-Su</seg>
@@ -4616,7 +4616,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#19091</prop>
       <tuv lang="en">
         <seg>__-__-__-__-__-Sa-__</seg>
@@ -4626,7 +4626,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#19092</prop>
       <tuv lang="en">
         <seg>__-__-__-__-__-__-Su</seg>
@@ -4636,7 +4636,7 @@
       </tuv>
     </tu>
     <tu>
-      <prop type="file">translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/be.po</prop>
       <prop type="path">#19273</prop>
       <tuv lang="en">
         <seg>add-on for the backend to be able to use PVR.</seg>
