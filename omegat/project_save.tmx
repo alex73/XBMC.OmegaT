@@ -1737,6 +1737,26 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#24050</prop>
+      <tuv lang="en">
+        <seg>Available Add-ons</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121120T155508Z">
+        <seg>Даступныя дадаткі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#24043</prop>
+      <tuv lang="en">
+        <seg>Available Updates</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121120T155552Z">
+        <seg>Ёсьць абнаўленьні</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#13417</prop>
       <tuv lang="en">
         <seg>Basic shaders (ARB)</seg>
@@ -2313,6 +2333,26 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121112T075559Z">
         <seg>Выключыць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#24039</prop>
+      <tuv lang="en">
+        <seg>Disabled Add-ons</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121120T155520Z">
+        <seg>Выключаныя дадаткі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#24052</prop>
+      <tuv lang="en">
+        <seg>Disclaimer</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121120T155502Z">
+        <seg>Папярэджаньні</seg>
       </tuv>
     </tu>
     <tu>
@@ -3053,6 +3093,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121112T074806Z">
         <seg>Усталяваць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#24041</prop>
+      <tuv lang="en">
+        <seg>Install from zip file</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121120T155533Z">
+        <seg>Усталяваць з zip-файлу</seg>
       </tuv>
     </tu>
     <tu>
