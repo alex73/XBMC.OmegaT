@@ -4645,5 +4645,65 @@
         <seg>і дадатак які можа выкарыстоўваць ваш PVR.</seg>
       </tuv>
     </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#13428</prop>
+      <tuv lang="en">
+        <seg>Allow hardware acceleration (CrystalHD)</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121120T083057Z">
+        <seg>Дазволіць паскарэньне абсталяваньня (CrystalHD)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#13427</prop>
+      <tuv lang="en">
+        <seg>Allow hardware acceleration (DXVA2)</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121120T083054Z">
+        <seg>Дазволіць паскарэньне абсталяваньня (DXVA2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#13430</prop>
+      <tuv lang="en">
+        <seg>Allow hardware acceleration (OpenMax)</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121120T083103Z">
+        <seg>Дазволіць паскарэньне абсталяваньня (OpenMax)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#13426</prop>
+      <tuv lang="en">
+        <seg>Allow hardware acceleration (VAAPI)</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121120T083051Z">
+        <seg>Дазволіць паскарэньне абсталяваньня (VAAPI)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#13429</prop>
+      <tuv lang="en">
+        <seg>Allow hardware acceleration (VDADecoder)</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121120T083100Z">
+        <seg>Дазволіць паскарэньне абсталяваньня (VDADecoder)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#13425</prop>
+      <tuv lang="en">
+        <seg>Allow hardware acceleration (VDPAU)</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121120T083048Z">
+        <seg>Дазволіць паскарэньне абсталяваньня (VDPAU)</seg>
+      </tuv>
+    </tu>
   </body>
 </tmx>
