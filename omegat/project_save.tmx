@@ -4705,5 +4705,35 @@
         <seg>Дазволіць паскарэньне абсталяваньня (VDPAU)</seg>
       </tuv>
     </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#22079</prop>
+      <tuv lang="en">
+        <seg>Default select action</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121120T083219Z">
+        <seg>Звычайнае дзеяньне выбару</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#208</prop>
+      <tuv lang="en">
+        <seg>Play</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121120T083316Z">
+        <seg>Прайграваньне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#13404</prop>
+      <tuv lang="en">
+        <seg>Resume</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121120T083244Z">
+        <seg>Працягнуць</seg>
+      </tuv>
+    </tu>
   </body>
 </tmx>
