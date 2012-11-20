@@ -1437,6 +1437,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19217</prop>
+      <tuv lang="en">
+        <seg>All TV channels</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121120T092418Z">
+        <seg>Усе ТВ каналы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#14071</prop>
       <tuv lang="en">
         <seg>Allow file renaming and deletion</seg>
@@ -1683,6 +1693,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121112T073938Z">
         <seg>Аўтаматычныя абнаўленьні</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19179</prop>
+      <tuv lang="en">
+        <seg>Automatically hide channel information</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121120T092635Z">
+        <seg>Аўтаматычна хаваць зьвесткі каналу</seg>
       </tuv>
     </tu>
     <tu>
@@ -1943,6 +1963,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121108T162125Z">
         <seg>Прыбраць закладкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19232</prop>
+      <tuv lang="en">
+        <seg>Clear search results</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121120T092612Z">
+        <seg>Выдаліць вынікі пошуку</seg>
       </tuv>
     </tu>
     <tu>
@@ -3977,6 +4007,56 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19224</prop>
+      <tuv lang="en">
+        <seg>Recording aborted</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121120T092455Z">
+        <seg>Запіс перапынены</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19227</prop>
+      <tuv lang="en">
+        <seg>Recording completed</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121120T092552Z">
+        <seg>Запіс скончаны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19228</prop>
+      <tuv lang="en">
+        <seg>Recording deleted</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121120T092556Z">
+        <seg>Запіс выдалены</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19225</prop>
+      <tuv lang="en">
+        <seg>Recording scheduled</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121120T092543Z">
+        <seg>Запіс заплянаваны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19226</prop>
+      <tuv lang="en">
+        <seg>Recording started</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121120T092548Z">
+        <seg>Запіс пачаты</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#184</prop>
       <tuv lang="en">
         <seg>Refresh</seg>
@@ -4797,6 +4877,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19221</prop>
+      <tuv lang="en">
+        <seg>Synchronise channel groups with backends</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121120T092354Z">
+        <seg>Сынхранізаваць групы каналаў з прыймачом</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#13000</prop>
       <tuv lang="en">
         <seg>System</seg>
@@ -5063,6 +5153,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121112T085506Z">
         <seg>Немагчыма зладаваць аздабленьне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19219</prop>
+      <tuv lang="en">
+        <seg>Ungrouped channels</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121120T092438Z">
+        <seg>Незгрупаваныя каналы</seg>
       </tuv>
     </tu>
     <tu>
