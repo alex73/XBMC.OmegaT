@@ -397,6 +397,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.script-xbmc-subtitles/en.po</prop>
+      <prop type="path">#30247</prop>
+      <tuv lang="en">
+        <seg>Farsi</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121120T085328Z">
+        <seg>Фарсі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.script-xbmc-subtitles/en.po</prop>
       <prop type="path">#30214</prop>
       <tuv lang="en">
         <seg>Finnish</seg>
@@ -603,6 +613,96 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121120T085207Z">
         <seg>Расейская</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.script-xbmc-subtitles/en.po</prop>
+      <prop type="path">#30237</prop>
+      <tuv lang="en">
+        <seg>SerbianLatin</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121120T085223Z">
+        <seg>Сэрбская (лацінка)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.script-xbmc-subtitles/en.po</prop>
+      <prop type="path">#30238</prop>
+      <tuv lang="en">
+        <seg>Slovak</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121120T085225Z">
+        <seg>Славацкая</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.script-xbmc-subtitles/en.po</prop>
+      <prop type="path">#30239</prop>
+      <tuv lang="en">
+        <seg>Slovenian</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121120T085227Z">
+        <seg>Славенская</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.script-xbmc-subtitles/en.po</prop>
+      <prop type="path">#30240</prop>
+      <tuv lang="en">
+        <seg>Spanish</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121120T085245Z">
+        <seg>Гішпанская</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.script-xbmc-subtitles/en.po</prop>
+      <prop type="path">#30242</prop>
+      <tuv lang="en">
+        <seg>Swedish</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121120T085309Z">
+        <seg>Швэдзкая</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.script-xbmc-subtitles/en.po</prop>
+      <prop type="path">#30243</prop>
+      <tuv lang="en">
+        <seg>Thai</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121120T085311Z">
+        <seg>Тайская</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.script-xbmc-subtitles/en.po</prop>
+      <prop type="path">#30244</prop>
+      <tuv lang="en">
+        <seg>Turkish</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121120T085313Z">
+        <seg>Турэцкая</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.script-xbmc-subtitles/en.po</prop>
+      <prop type="path">#30245</prop>
+      <tuv lang="en">
+        <seg>Ukrainian</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121120T085315Z">
+        <seg>Украінская</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.script-xbmc-subtitles/en.po</prop>
+      <prop type="path">#30246</prop>
+      <tuv lang="en">
+        <seg>Vietnamese</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121120T085325Z">
+        <seg>Віетнамская</seg>
       </tuv>
     </tu>
     <tu>
@@ -5207,6 +5307,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#21372</prop>
+      <tuv lang="en">
+        <seg>Forced DVD player region</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121120T085512Z">
+        <seg>Прымусовы рэгіён прайгравальніка DVD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#767</prop>
       <tuv lang="en">
         <seg>Grey</seg>
@@ -5263,6 +5373,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121120T083316Z">
         <seg>Прайграваньне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#14088</prop>
+      <tuv lang="en">
+        <seg>Play DVDs automatically</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121120T085415Z">
+        <seg>Прайграваць DVDы аўтаматычна</seg>
       </tuv>
     </tu>
     <tu>
