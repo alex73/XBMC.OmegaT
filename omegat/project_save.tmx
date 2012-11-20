@@ -1361,8 +1361,8 @@
       <tuv lang="en">
         <seg>Add-on enabled</seg>
       </tuv>
-      <tuv lang="be" changeid="Alex" changedate="20121112T075407Z">
-        <seg>Дадатак ўключаны</seg>
+      <tuv lang="be" changeid="Alex" changedate="20121120T155319Z">
+        <seg>Дадатак уключаны</seg>
       </tuv>
     </tu>
     <tu>
@@ -1373,6 +1373,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121106T144807Z">
         <seg>Сховішча дадаткаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#24061</prop>
+      <tuv lang="en">
+        <seg>Add-on update available!</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121120T155247Z">
+        <seg>Ёсьць абнаўленьне дадатку!</seg>
       </tuv>
     </tu>
     <tu>
@@ -2413,6 +2423,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121112T080132Z">
         <seg>Уключаны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#24062</prop>
+      <tuv lang="en">
+        <seg>Enabled Add-ons</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121120T155255Z">
+        <seg>Дазволеныя дадаткі</seg>
       </tuv>
     </tu>
     <tu>
@@ -5737,12 +5757,32 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#24060</prop>
+      <tuv lang="en">
+        <seg>Would you like to disable this Add-on?</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121120T155412Z">
+        <seg>Ці вы жадаеце выключыць гэты дадатак ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#24101</prop>
       <tuv lang="en">
         <seg>Would you like to download this Add-on?</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121112T085040Z">
         <seg>Ці жадаеце зладаваць гэты дадатак ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#24059</prop>
+      <tuv lang="en">
+        <seg>Would you like to enable this Add-on?</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121120T155431Z">
+        <seg>Ці вы жадаеце ўключыць гэты дадатак ?</seg>
       </tuv>
     </tu>
     <tu>
