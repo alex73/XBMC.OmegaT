@@ -4647,6 +4647,36 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#735</prop>
+      <tuv lang="en">
+        <seg>- Character set</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121120T083926Z">
+        <seg>- Знаказбор</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#737</prop>
+      <tuv lang="en">
+        <seg>- Colour</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121120T083928Z">
+        <seg>- Колер</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#736</prop>
+      <tuv lang="en">
+        <seg>- Style</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121120T083921Z">
+        <seg>- Стыль</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#13428</prop>
       <tuv lang="en">
         <seg>Allow hardware acceleration (CrystalHD)</seg>
@@ -4737,12 +4767,42 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#14089</prop>
+      <tuv lang="en">
+        <seg>Font to use for text subtitles</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121120T083836Z">
+        <seg>Шрыфт каб паказваць тэкставыя субтытры</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#21368</prop>
+      <tuv lang="en">
+        <seg>Override ASS/SSA subtitles fonts</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121120T084102Z">
+        <seg>Перарабіць шрыфт субтытраў ASS/SSA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#208</prop>
       <tuv lang="en">
         <seg>Play</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121120T083316Z">
         <seg>Прайграваньне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#20419</prop>
+      <tuv lang="en">
+        <seg>Replace file names with library titles</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121120T083803Z">
+        <seg>Зьмяніць назвы файлаў на загалоўкі бібліятэкі</seg>
       </tuv>
     </tu>
     <tu>
