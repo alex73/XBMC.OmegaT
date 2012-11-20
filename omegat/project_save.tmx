@@ -4707,12 +4707,32 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#22080</prop>
+      <tuv lang="en">
+        <seg>Choose</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121120T083458Z">
+        <seg>Абраць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#22079</prop>
       <tuv lang="en">
         <seg>Default select action</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121120T083219Z">
         <seg>Звычайнае дзеяньне выбару</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#20433</prop>
+      <tuv lang="en">
+        <seg>Extract thumbnails and video information</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121120T083718Z">
+        <seg>Выняць мініятуры й зьвесткі відэа</seg>
       </tuv>
     </tu>
     <tu>
@@ -4733,6 +4753,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121120T083244Z">
         <seg>Працягнуць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#22081</prop>
+      <tuv lang="en">
+        <seg>Show Information</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121120T083504Z">
+        <seg>Паказаць зьвесткі</seg>
       </tuv>
     </tu>
   </body>
