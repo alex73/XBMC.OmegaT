@@ -4767,6 +4767,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#762</prop>
+      <tuv lang="en">
+        <seg>Blue</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121120T084435Z">
+        <seg>Блакітны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#739</prop>
       <tuv lang="en">
         <seg>Bold</seg>
@@ -4793,6 +4803,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121120T084246Z">
         <seg>Унізе відэа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#763</prop>
+      <tuv lang="en">
+        <seg>Bright green</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121120T084501Z">
+        <seg>Ярка-зялёны</seg>
       </tuv>
     </tu>
     <tu>
@@ -4963,6 +4983,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121120T084346Z">
         <seg>Жоўты</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#764</prop>
+      <tuv lang="en">
+        <seg>Yellow green</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121120T084517Z">
+        <seg>Жоўта-зялёны</seg>
       </tuv>
     </tu>
   </body>
