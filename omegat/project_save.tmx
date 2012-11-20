@@ -267,6 +267,26 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.script-xbmc-subtitles/en.po</prop>
+      <prop type="path">#30202</prop>
+      <tuv lang="en">
+        <seg>Arabic</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121120T084850Z">
+        <seg>Арабская</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.script-xbmc-subtitles/en.po</prop>
+      <prop type="path">#30203</prop>
+      <tuv lang="en">
+        <seg>Belarusian</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121120T084852Z">
+        <seg>Беларуская</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.script-xbmc-subtitles/en.po</prop>
       <prop type="path">#766</prop>
       <tuv lang="en">
         <seg>Choose Subtitle folder</seg>
@@ -4827,6 +4847,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#765</prop>
+      <tuv lang="en">
+        <seg>Cyan</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121120T084809Z">
+        <seg>Марской хвалі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#22079</prop>
       <tuv lang="en">
         <seg>Default select action</seg>
@@ -4867,12 +4897,32 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#767</prop>
+      <tuv lang="en">
+        <seg>Grey</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121120T084821Z">
+        <seg>Шэры</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#740</prop>
       <tuv lang="en">
         <seg>Italics</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121120T084408Z">
         <seg>Курсіў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#766</prop>
+      <tuv lang="en">
+        <seg>Light grey</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121120T084818Z">
+        <seg>Сьветла-шэры</seg>
       </tuv>
     </tu>
     <tu>
