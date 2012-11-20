@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <filters>
     <filter enabled="true" className="org.omegat.filters2.po.PoFilter">
-        <files targetEncoding="UTF-8" sourceEncoding="UTF-8" targetFilenamePattern="${filename}" sourceFilenameMask="*.po"/>
-        <files targetEncoding="UTF-8" sourceEncoding="UTF-8" targetFilenamePattern="${filename}" sourceFilenameMask="*.pot"/>
+        <files targetEncoding="UTF-8" sourceEncoding="UTF-8" targetFilenamePattern="be.po" sourceFilenameMask="*.po"/>
+        <files targetEncoding="UTF-8" sourceEncoding="UTF-8" targetFilenamePattern="be.po" sourceFilenameMask="*.pot"/>
         <option value="false" name="autoFillInPluralStatement"/>
         <option value="false" name="disallowBlank"/>
         <option value="false" name="skipHeader"/>

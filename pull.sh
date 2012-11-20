@@ -4,7 +4,7 @@ set -x
 g() {
   pushd source/$1 || exit 1
   rm -rf translations
-  tx pull -l be || exit 1
+  tx pull -s || exit 1
   popd
 }
 
