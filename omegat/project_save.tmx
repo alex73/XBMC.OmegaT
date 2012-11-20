@@ -266,6 +266,16 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.script-xbmc-subtitles/en.po</prop>
+      <prop type="path">#766</prop>
+      <tuv lang="en">
+        <seg>Choose Subtitle folder</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121120T084220Z">
+        <seg>Абраць каталёг субтытраў</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.skin-confluence/be.po</prop>
       <prop type="path">#31392</prop>
       <tuv lang="en">
@@ -4677,6 +4687,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#21465</prop>
+      <tuv lang="en">
+        <seg>Above video</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121120T084326Z">
+        <seg>Над відэа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#13428</prop>
       <tuv lang="en">
         <seg>Allow hardware acceleration (CrystalHD)</seg>
@@ -4737,6 +4757,46 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#21463</prop>
+      <tuv lang="en">
+        <seg>Below video</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121120T084312Z">
+        <seg>Пад відэа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#739</prop>
+      <tuv lang="en">
+        <seg>Bold</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121120T084401Z">
+        <seg>Тоўсты</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#741</prop>
+      <tuv lang="en">
+        <seg>Bold italics</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121120T084411Z">
+        <seg>Тоўсты курсіў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#21462</prop>
+      <tuv lang="en">
+        <seg>Bottom of video</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121120T084246Z">
+        <seg>Унізе відэа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#22080</prop>
       <tuv lang="en">
         <seg>Choose</seg>
@@ -4767,12 +4827,42 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#21461</prop>
+      <tuv lang="en">
+        <seg>Fixed</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121120T084254Z">
+        <seg>Фіксаванае</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#14089</prop>
       <tuv lang="en">
         <seg>Font to use for text subtitles</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121120T083836Z">
         <seg>Шрыфт каб паказваць тэкставыя субтытры</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#740</prop>
+      <tuv lang="en">
+        <seg>Italics</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121120T084408Z">
+        <seg>Курсіў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#738</prop>
+      <tuv lang="en">
+        <seg>Normal</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121120T084357Z">
+        <seg>Звычайны</seg>
       </tuv>
     </tu>
     <tu>
@@ -4823,6 +4913,56 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121120T083504Z">
         <seg>Паказаць зьвесткі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#21366</prop>
+      <tuv lang="en">
+        <seg>Subtitle folder</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121120T084203Z">
+        <seg>Каталёг субтытраў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#21460</prop>
+      <tuv lang="en">
+        <seg>Subtitle location</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121120T084137Z">
+        <seg>Месца субтытраў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#21464</prop>
+      <tuv lang="en">
+        <seg>Top of video</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121120T084317Z">
+        <seg>Уверсе відэа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#742</prop>
+      <tuv lang="en">
+        <seg>White</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121120T084344Z">
+        <seg>Белы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#743</prop>
+      <tuv lang="en">
+        <seg>Yellow</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121120T084346Z">
+        <seg>Жоўты</seg>
       </tuv>
     </tu>
   </body>
