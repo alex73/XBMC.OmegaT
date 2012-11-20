@@ -1441,8 +1441,18 @@
       <tuv lang="en">
         <seg>All TV channels</seg>
       </tuv>
-      <tuv lang="be" changeid="Alex" changedate="20121120T092418Z">
-        <seg>Усе ТВ каналы</seg>
+      <tuv lang="be" changeid="Alex" changedate="20121120T092917Z">
+        <seg>Усе каналы ТВ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19216</prop>
+      <tuv lang="en">
+        <seg>All radio channels</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121120T092909Z">
+        <seg>Усе каналы радыё</seg>
       </tuv>
     </tu>
     <tu>
@@ -1701,8 +1711,8 @@
       <tuv lang="en">
         <seg>Automatically hide channel information</seg>
       </tuv>
-      <tuv lang="be" changeid="Alex" changedate="20121120T092635Z">
-        <seg>Аўтаматычна хаваць зьвесткі каналу</seg>
+      <tuv lang="be" changeid="Alex" changedate="20121120T092653Z">
+        <seg>Аўтаматычна хаваць зьвесткі пра канал</seg>
       </tuv>
     </tu>
     <tu>
@@ -1907,6 +1917,36 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19202</prop>
+      <tuv lang="en">
+        <seg>Channel icon:</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121120T092750Z">
+        <seg>Значак каналу:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19199</prop>
+      <tuv lang="en">
+        <seg>Channel manager</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121120T092731Z">
+        <seg>Кіраўнік каналамі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19201</prop>
+      <tuv lang="en">
+        <seg>Channel name:</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121120T092740Z">
+        <seg>Назва каналу:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#14091</prop>
       <tuv lang="en">
         <seg>Character set</seg>
@@ -2003,6 +2043,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121112T074714Z">
         <seg>Наладзіць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19194</prop>
+      <tuv lang="en">
+        <seg>Continue?</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121120T092722Z">
+        <seg>Працягнуць?</seg>
       </tuv>
     </tu>
     <tu>
@@ -2197,6 +2247,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19211</prop>
+      <tuv lang="en">
+        <seg>Delete channel</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121120T092848Z">
+        <seg>Выдаліць канал</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#21821</prop>
       <tuv lang="en">
         <seg>Description</seg>
@@ -2287,6 +2347,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19203</prop>
+      <tuv lang="en">
+        <seg>Edit channel</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121120T092757Z">
+        <seg>Рэдагаваць канал</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#1027</prop>
       <tuv lang="en">
         <seg>Edit source</seg>
@@ -2363,6 +2433,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121112T081107Z">
         <seg>Увядзіце IP-адрас</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19208</prop>
+      <tuv lang="en">
+        <seg>Enter the name of the new channel</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121120T092842Z">
+        <seg>Увядзіце назву новага каналу</seg>
       </tuv>
     </tu>
     <tu>
@@ -2697,6 +2777,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19207</prop>
+      <tuv lang="en">
+        <seg>Group:</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121120T092805Z">
+        <seg>Група:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#713</prop>
       <tuv lang="en">
         <seg>HTTP proxy</seg>
@@ -2903,6 +2993,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121119T145738Z">
         <seg>Імпартаваньне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19264</prop>
+      <tuv lang="en">
+        <seg>Incorrect PIN</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121120T092940Z">
+        <seg>Няправільны PIN</seg>
       </tuv>
     </tu>
     <tu>
@@ -3417,6 +3517,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19204</prop>
+      <tuv lang="en">
+        <seg>New channel</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121120T092802Z">
+        <seg>Новы канал</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#119</prop>
       <tuv lang="en">
         <seg>New folder</seg>
@@ -3822,6 +3932,16 @@
         <seg>Playback</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121119T144305Z">
+        <seg>Прайграваньне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19177</prop>
+      <tuv lang="en">
+        <seg>Playback</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121120T092712Z">
         <seg>Прайграваньне</seg>
       </tuv>
     </tu>
@@ -4297,6 +4417,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19213</prop>
+      <tuv lang="en">
+        <seg>Select backend</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121120T092902Z">
+        <seg>Абраць цюнер</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#396</prop>
       <tuv lang="en">
         <seg>Select location</seg>
@@ -4383,6 +4513,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121112T095006Z">
         <seg>Паказваць стужкі навінаў RSS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19178</prop>
+      <tuv lang="en">
+        <seg>Show channel information when switching channels</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121120T092703Z">
+        <seg>Паказваць зьвесткі пра канал калі пераключаем каналы</seg>
       </tuv>
     </tu>
     <tu>
