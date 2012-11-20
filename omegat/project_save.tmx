@@ -3797,6 +3797,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#136</prop>
+      <tuv lang="en">
+        <seg>Playlists</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121120T092045Z">
+        <seg>Сьпісы прайграваньня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#19274</prop>
       <tuv lang="en">
         <seg>Please visit xbmc.org/pvr to learn more.</seg>
@@ -4183,6 +4193,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121112T095935Z">
         <seg>Час да старту ахоўніка экрану</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#137</prop>
+      <tuv lang="en">
+        <seg>Search</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121120T092047Z">
+        <seg>Пошук</seg>
       </tuv>
     </tu>
     <tu>
