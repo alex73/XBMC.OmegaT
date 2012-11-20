@@ -1567,6 +1567,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19231</prop>
+      <tuv lang="en">
+        <seg>Always use the channel order from the backend(s)</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121120T093157Z">
+        <seg>Заўсёды карыстацца парадкам каналаў зь цюнера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#480</prop>
       <tuv lang="en">
         <seg>Appearance</seg>
@@ -1893,6 +1903,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121109T084921Z">
         <seg>магчымы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19261</prop>
+      <tuv lang="en">
+        <seg>Change PIN</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121120T093027Z">
+        <seg>Зьмяніць PIN</seg>
       </tuv>
     </tu>
     <tu>
@@ -3163,6 +3183,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121109T082014Z">
         <seg>Сьпіс</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19257</prop>
+      <tuv lang="en">
+        <seg>Lock channel</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121120T093034Z">
+        <seg>Заблякаваць канал</seg>
       </tuv>
     </tu>
     <tu>
@@ -4827,6 +4857,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19255</prop>
+      <tuv lang="en">
+        <seg>Start recording</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121120T093052Z">
+        <seg>Пачаць запіс</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#512</prop>
       <tuv lang="en">
         <seg>Startup window</seg>
@@ -4843,6 +4883,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121106T144835Z">
         <seg>Штат</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19256</prop>
+      <tuv lang="en">
+        <seg>Stop recording</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121120T093057Z">
+        <seg>Спыніць запіс</seg>
       </tuv>
     </tu>
     <tu>
@@ -5127,6 +5177,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19265</prop>
+      <tuv lang="en">
+        <seg>The entered PIN number was incorrect.</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121120T092959Z">
+        <seg>Уведзены нумар PIN - няправільны.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#44</prop>
       <tuv lang="en">
         <seg>Thu</seg>
@@ -5313,6 +5373,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121112T074820Z">
         <seg>Высталяваць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19258</prop>
+      <tuv lang="en">
+        <seg>Unlock channel</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121120T093042Z">
+        <seg>Разблякаваць канал</seg>
       </tuv>
     </tu>
     <tu>
