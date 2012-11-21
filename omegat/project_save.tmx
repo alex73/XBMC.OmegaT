@@ -6,6 +6,16 @@
 <!-- Default translations -->
 <!-- Alternative translations -->
     <tu>
+      <prop type="file">addons/translations/xbmc-addons.service-libraryautoupdate/en.po</prop>
+      <prop type="path">#30001</prop>
+      <tuv lang="en">
+        <seg>General</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121121T083805Z">
+        <seg>Агульныя</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.metadata-album-universal/en.po</prop>
       <prop type="path">#30003</prop>
       <tuv lang="en">
@@ -63,6 +73,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121112T075102Z">
         <seg>Зладоўваецца</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.plugin-video-youtube/en.po</prop>
+      <prop type="path">#30218</prop>
+      <tuv lang="en">
+        <seg>General</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121121T083751Z">
+        <seg>Агульныя</seg>
       </tuv>
     </tu>
     <tu>
@@ -153,6 +173,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121111T095818Z">
         <seg>Спынены</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.pvr-vuplus/en.po</prop>
+      <prop type="path">#30018</prop>
+      <tuv lang="en">
+        <seg>General</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121121T083744Z">
+        <seg>Агульныя</seg>
       </tuv>
     </tu>
     <tu>
@@ -863,6 +893,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121108T161710Z">
         <seg>Старонка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.skin-confluence/en.po</prop>
+      <prop type="path">#31317</prop>
+      <tuv lang="en">
+        <seg>Set Fanart Path</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121121T083646Z">
+        <seg>Шлях да ФанАрт'у</seg>
       </tuv>
     </tu>
     <tu>
@@ -2807,6 +2847,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#16000</prop>
+      <tuv lang="en">
+        <seg>General</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121121T083737Z">
+        <seg>Агульныя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#515</prop>
       <tuv lang="en">
         <seg>Genre</seg>
@@ -4617,6 +4667,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#24029</prop>
+      <tuv lang="en">
+        <seg>Service for weather information</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121121T083856Z">
+        <seg>Сэрвіс для зьвестак пра надвор'е</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#14036</prop>
       <tuv lang="en">
         <seg>Services</seg>
@@ -6083,6 +6143,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121121T083520Z">
         <seg>Схаваць ФанАрт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">skins/translations/xbmc-skins.skin-essence/en.po</prop>
+      <prop type="path">#31317</prop>
+      <tuv lang="en">
+        <seg>Set Fanart Path</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121121T083638Z">
+        <seg>Шлях да ФанАрт'у</seg>
       </tuv>
     </tu>
     <tu>
