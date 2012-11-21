@@ -2117,6 +2117,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#16019</prop>
+      <tuv lang="en">
+        <seg>Auto select</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121121T095417Z">
+        <seg>Аўтаматычны выбар</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#24063</prop>
       <tuv lang="en">
         <seg>Auto update</seg>
@@ -2193,6 +2203,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121120T084435Z">
         <seg>Блакітны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#16022</prop>
+      <tuv lang="en">
+        <seg>Bob (inverted)</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121121T095435Z">
+        <seg>Bob (інвэртаваны)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2673,6 +2693,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121119T144326Z">
         <seg>DVD-ы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#16321</prop>
+      <tuv lang="en">
+        <seg>DXVA Best</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121121T095507Z">
+        <seg>DXVA лепшы</seg>
       </tuv>
     </tu>
     <tu>
@@ -4217,6 +4247,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#16018</prop>
+      <tuv lang="en">
+        <seg>None</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121121T095440Z">
+        <seg>Няма</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#630</prop>
       <tuv lang="en">
         <seg>Normal</seg>
@@ -5643,6 +5683,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121111T111820Z">
         <seg>Адзінкі хуткасьці</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#16323</prop>
+      <tuv lang="en">
+        <seg>Spline36 optimized</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121121T095512Z">
+        <seg>Spline36 аптымізаваны</seg>
       </tuv>
     </tu>
     <tu>
