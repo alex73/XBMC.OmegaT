@@ -1747,12 +1747,32 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#276</prop>
+      <tuv lang="en">
+        <seg>Adjust the arrow to change the amount of overscan</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121121T093812Z">
+        <seg>Рухайце стрэлку каб зьмяніць колькасьць overscan'у</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#277</prop>
       <tuv lang="en">
         <seg>Adjust the bar to change the subtitles position</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121121T093430Z">
         <seg>Рухайце рысу каб зьмяніць месца субтытраў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#278</prop>
+      <tuv lang="en">
+        <seg>Adjust the rectangle so it is perfectly square</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121121T093704Z">
+        <seg>Настаўце простакутнік каб атрымаўся квадрат як найлепш</seg>
       </tuv>
     </tu>
     <tu>
