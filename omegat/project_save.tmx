@@ -5985,15 +5985,5 @@
         <seg></seg>
       </tuv>
     </tu>
-    <tu>
-      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
-      <prop type="path">#20163</prop>
-      <tuv lang="en">
-        <seg>of</seg>
-      </tuv>
-      <tuv lang="be" changeid="Alex" changedate="20121121T081627Z">
-        <seg> </seg>
-      </tuv>
-    </tu>
   </body>
 </tmx>
