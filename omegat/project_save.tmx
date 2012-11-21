@@ -1336,6 +1336,46 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.weather-wunderground/en.po</prop>
+      <prop type="path">#32125</prop>
+      <tuv lang="en">
+        <seg>Map zoom level</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121121T085513Z">
+        <seg>Узровень маштабаваньня мапы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.weather-wunderground/en.po</prop>
+      <prop type="path">Addon Disclaimer</prop>
+      <tuv lang="en">
+        <seg>Use of this add-on implies that you have agreed to the Terms of Service located at http://www.wunderground.com/weather/api/d/terms.html</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121121T085432Z">
+        <seg>Выкарыстаньне гэтага дадатку пацьвярджае што вы згаджаецеся з Умовамі Выкарыстаньня што знаходзяцца на http://www.wunderground.com/weather/api/d/terms.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.weather-wunderground/en.po</prop>
+      <prop type="path">Addon Summary</prop>
+      <tuv lang="en">
+        <seg>Weather forecast from wunderground.com</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121121T085234Z">
+        <seg>Прагноз надвор'я з wunderground.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.weather-wunderground/en.po</prop>
+      <prop type="path">Addon Description</prop>
+      <tuv lang="en">
+        <seg>Weather forecast provided by Weather Underground (http://www.wunderground.com/)</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121121T085315Z">
+        <seg>Прагноз надвор'я створаны Weather Underground (http://www.wunderground.com/)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.webinterface-default/en.po</prop>
       <prop type="path">Addon Description</prop>
       <tuv lang="en">
