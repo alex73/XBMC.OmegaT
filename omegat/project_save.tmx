@@ -2547,6 +2547,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#636</prop>
+      <tuv lang="en">
+        <seg>Custom</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121121T092428Z">
+        <seg>Дапасаваны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#20150</prop>
       <tuv lang="en">
         <seg>Custom shutdown timer</seg>
@@ -4091,8 +4101,8 @@
       <tuv lang="en">
         <seg>Normal</seg>
       </tuv>
-      <tuv lang="be" changeid="Alex" changedate="20121119T151018Z">
-        <seg>Звычайна</seg>
+      <tuv lang="be" changeid="Alex" changedate="20121121T092418Z">
+        <seg>Як звычайна</seg>
       </tuv>
     </tu>
     <tu>
@@ -6167,6 +6177,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#629</prop>
+      <tuv lang="en">
+        <seg>View mode</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121121T092405Z">
+        <seg>Рэжым прагляду</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#14018</prop>
       <tuv lang="en">
         <seg>View options</seg>
@@ -6443,6 +6463,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121119T151026Z">
         <seg>Павялічанае</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#216</prop>
+      <tuv lang="en">
+        <seg>Zoom amount</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121121T092622Z">
+        <seg>Наколькі павялічваць</seg>
       </tuv>
     </tu>
     <tu>
