@@ -3177,6 +3177,26 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#241</prop>
+      <tuv lang="en">
+        <seg>Full Screen #%d</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121121T093059Z">
+        <seg>Увесь экран #%d</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#244</prop>
+      <tuv lang="en">
+        <seg>Full screen</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121121T093121Z">
+        <seg>Увесь экран</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#128</prop>
       <tuv lang="en">
         <seg>General</seg>
@@ -5607,6 +5627,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#274</prop>
+      <tuv lang="en">
+        <seg>Subtitle positioning</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121121T093232Z">
+        <seg>Пазіцыянаваньне субтытраў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#24012</prop>
       <tuv lang="en">
         <seg>Subtitles</seg>
@@ -6167,6 +6197,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#214</prop>
+      <tuv lang="en">
+        <seg>Video calibration...</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121121T092957Z">
+        <seg>Калібраваньне відэа...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#13502</prop>
       <tuv lang="en">
         <seg>Video clock (Drop/Dupe audio)</seg>
@@ -6413,6 +6453,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121106T155539Z">
         <seg>Вецер</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#242</prop>
+      <tuv lang="en">
+        <seg>Windowed</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121121T093032Z">
+        <seg>У вакне</seg>
       </tuv>
     </tu>
     <tu>
