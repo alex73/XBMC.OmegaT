@@ -1197,6 +1197,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.weather-wunderground/en.po</prop>
+      <prop type="path">#32102</prop>
+      <tuv lang="en">
+        <seg>Advanced options</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121121T084947Z">
+        <seg>Адмысловыя налады</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.weather-wunderground/en.po</prop>
       <prop type="path">#30111</prop>
       <tuv lang="en">
         <seg>Change location 1</seg>
@@ -1223,6 +1233,106 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121111T095936Z">
         <seg>Зьмяніць месца 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.weather-wunderground/en.po</prop>
+      <prop type="path">#32111</prop>
+      <tuv lang="en">
+        <seg>Location 1</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121121T085037Z">
+        <seg>Першае месца</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.weather-wunderground/en.po</prop>
+      <prop type="path">#32114</prop>
+      <tuv lang="en">
+        <seg>Location 1 display name</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121121T085032Z">
+        <seg>Назва першага месца</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.weather-wunderground/en.po</prop>
+      <prop type="path">#32117</prop>
+      <tuv lang="en">
+        <seg>Location 1 id</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121121T085155Z">
+        <seg>Ідэнтыфікатар першага месца</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.weather-wunderground/en.po</prop>
+      <prop type="path">#32112</prop>
+      <tuv lang="en">
+        <seg>Location 2</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121121T085044Z">
+        <seg>Другое месца</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.weather-wunderground/en.po</prop>
+      <prop type="path">#32115</prop>
+      <tuv lang="en">
+        <seg>Location 2 display name</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121121T085101Z">
+        <seg>Назва другога месца</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.weather-wunderground/en.po</prop>
+      <prop type="path">#32118</prop>
+      <tuv lang="en">
+        <seg>Location 2 id</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121121T085203Z">
+        <seg>Ідэнтыфікатар другога месца</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.weather-wunderground/en.po</prop>
+      <prop type="path">#32113</prop>
+      <tuv lang="en">
+        <seg>Location 3</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121121T085050Z">
+        <seg>Трэцяе месца</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.weather-wunderground/en.po</prop>
+      <prop type="path">#32116</prop>
+      <tuv lang="en">
+        <seg>Location 3 display name</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121121T085110Z">
+        <seg>Назва трэцяга месца</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.weather-wunderground/en.po</prop>
+      <prop type="path">#32119</prop>
+      <tuv lang="en">
+        <seg>Location 3 id</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121121T085209Z">
+        <seg>Ідэнтыфікатар трэцяга месца</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.weather-wunderground/en.po</prop>
+      <prop type="path">#32101</prop>
+      <tuv lang="en">
+        <seg>Location setup</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121121T084922Z">
+        <seg>Вызначыць месца</seg>
       </tuv>
     </tu>
     <tu>
