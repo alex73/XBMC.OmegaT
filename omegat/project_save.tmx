@@ -2037,6 +2037,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#16040</prop>
+      <tuv lang="en">
+        <seg>Auto</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121121T092006Z">
+        <seg>Аўтаматычна</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#13416</prop>
       <tuv lang="en">
         <seg>Auto detect</seg>
@@ -2623,6 +2633,26 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121112T075717Z">
         <seg>Стандартныя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#16038</prop>
+      <tuv lang="en">
+        <seg>Deinterlace method</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121121T092000Z">
+        <seg>Мэтад deinterlacе</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#16037</prop>
+      <tuv lang="en">
+        <seg>Deinterlace video</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121121T091951Z">
+        <seg>Рабіць deinterlace</seg>
       </tuv>
     </tu>
     <tu>
