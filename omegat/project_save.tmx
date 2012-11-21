@@ -1947,6 +1947,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#338</prop>
+      <tuv lang="en">
+        <seg>Analog</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121121T094246Z">
+        <seg>Аналягавы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#480</prop>
       <tuv lang="en">
         <seg>Appearance</seg>
@@ -2023,6 +2033,26 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121119T150600Z">
         <seg>Па аўдыё</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#297</prop>
+      <tuv lang="en">
+        <seg>Audio offset</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121121T094042Z">
+        <seg>Зрух аўдыё</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#337</prop>
+      <tuv lang="en">
+        <seg>Audio output</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121121T094239Z">
+        <seg>Вывад аўдыё</seg>
       </tuv>
     </tu>
     <tu>
@@ -4227,6 +4257,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#253</prop>
+      <tuv lang="en">
+        <seg>Number of channels</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121121T094151Z">
+        <seg>Колькасьць каналаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#186</prop>
       <tuv lang="en">
         <seg>OK</seg>
@@ -4337,6 +4377,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#339</prop>
+      <tuv lang="en">
+        <seg>Optical/Coax</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121121T094300Z">
+        <seg>Аптычны/кааксіяльны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#33063</prop>
       <tuv lang="en">
         <seg>Options</seg>
@@ -4363,6 +4413,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121112T095336Z">
         <seg>Мова зыходнай плыні</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#252</prop>
+      <tuv lang="en">
+        <seg>Output stereo to all speakers</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121121T094144Z">
+        <seg>Выводзіць стэрэа ва ўсе дынамікі</seg>
       </tuv>
     </tu>
     <tu>
@@ -6357,12 +6417,32 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#250</prop>
+      <tuv lang="en">
+        <seg>Visualization</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121121T094210Z">
+        <seg>Візуалізацыя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#13376</prop>
       <tuv lang="en">
         <seg>Volume</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121106T154504Z">
         <seg>Гучнасьць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#660</prop>
+      <tuv lang="en">
+        <seg>Volume amplification</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121121T094011Z">
+        <seg>Узмацненьне гуку</seg>
       </tuv>
     </tu>
     <tu>
