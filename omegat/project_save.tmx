@@ -2321,8 +2321,8 @@
       <tuv lang="en">
         <seg>Dew point</seg>
       </tuv>
-      <tuv lang="be" changeid="Alex" changedate="20121106T155546Z">
-        <seg>Пункт расы</seg>
+      <tuv lang="be" changeid="Alex" changedate="20121121T081326Z">
+        <seg>Кропка расы</seg>
       </tuv>
     </tu>
     <tu>
@@ -2691,8 +2691,8 @@
       <tuv lang="en">
         <seg>Fog</seg>
       </tuv>
-      <tuv lang="be" changeid="Alex" changedate="20121112T080020Z">
-        <seg>Туман</seg>
+      <tuv lang="be" changeid="Alex" changedate="20121121T081222Z">
+        <seg>туман</seg>
       </tuv>
     </tu>
     <tu>
@@ -2901,8 +2901,8 @@
       <tuv lang="en">
         <seg>Haze</seg>
       </tuv>
-      <tuv lang="be" changeid="Alex" changedate="20121112T080027Z">
-        <seg>Імгла</seg>
+      <tuv lang="be" changeid="Alex" changedate="20121121T081219Z">
+        <seg>імгла</seg>
       </tuv>
     </tu>
     <tu>
