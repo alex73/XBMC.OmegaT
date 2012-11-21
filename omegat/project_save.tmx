@@ -2527,6 +2527,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#644</prop>
+      <tuv lang="en">
+        <seg>Crop black bars</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121121T092310Z">
+        <seg>Выразаць чорныя палосы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#24067</prop>
       <tuv lang="en">
         <seg>Currently downloading Add-ons</seg>
@@ -4181,8 +4191,8 @@
       <tuv lang="en">
         <seg>Off</seg>
       </tuv>
-      <tuv lang="be" changeid="Alex" changedate="20121120T091901Z">
-        <seg>Няма</seg>
+      <tuv lang="be" changeid="Alex" changedate="20121121T092021Z">
+        <seg>Не</seg>
       </tuv>
     </tu>
     <tu>
@@ -4223,6 +4233,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121120T091913Z">
         <seg>Няма</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#16041</prop>
+      <tuv lang="en">
+        <seg>On</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121121T092019Z">
+        <seg>Так</seg>
       </tuv>
     </tu>
     <tu>
@@ -6123,6 +6143,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121109T090908Z">
         <seg>Разрознасьць відэа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#16300</prop>
+      <tuv lang="en">
+        <seg>Video scaling method</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121121T092226Z">
+        <seg>Мэтад маштабаваньня відэа</seg>
       </tuv>
     </tu>
     <tu>
