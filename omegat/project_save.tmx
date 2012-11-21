@@ -4697,6 +4697,66 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#10015</prop>
+      <tuv lang="en">
+        <seg>Settings - Music</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121121T084117Z">
+        <seg>Налады - Музыка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#10012</prop>
+      <tuv lang="en">
+        <seg>Settings - Pictures</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121121T084159Z">
+        <seg>Налады - Відарысы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#10013</prop>
+      <tuv lang="en">
+        <seg>Settings - Programs</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121121T084128Z">
+        <seg>Налады - Праграмы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#10016</prop>
+      <tuv lang="en">
+        <seg>Settings - System</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121121T084136Z">
+        <seg>Налады - Сыстэма</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#10017</prop>
+      <tuv lang="en">
+        <seg>Settings - Videos</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121121T084145Z">
+        <seg>Налады - Відэа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#10014</prop>
+      <tuv lang="en">
+        <seg>Settings - Weather</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121121T084121Z">
+        <seg>Налады - Надвор'е</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#1419</prop>
       <tuv lang="en">
         <seg>Shallow</seg>
