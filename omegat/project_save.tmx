@@ -257,6 +257,26 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.screensaver-xbmc-builtin-slideshow/en.po</prop>
+      <prop type="path">#30001</prop>
+      <tuv lang="en">
+        <seg>Folder</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121121T084839Z">
+        <seg>Каталёг</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.screensaver-xbmc-builtin-slideshow/en.po</prop>
+      <prop type="path">#30004</prop>
+      <tuv lang="en">
+        <seg>Image Folder</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121121T084833Z">
+        <seg>Каталёг відарысаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.screensaver-xbmc-builtin-slideshow/en.po</prop>
       <prop type="path">Addon Summary</prop>
       <tuv lang="en">
         <seg>Screensaver that displays an image slideshow</seg>
@@ -1933,6 +1953,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121109T083446Z">
         <seg>Абраць файл</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#1031</prop>
+      <tuv lang="en">
+        <seg>Browse for image folder</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121121T084808Z">
+        <seg>Абраць каталёг малюнкаў</seg>
       </tuv>
     </tu>
     <tu>
