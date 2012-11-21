@@ -1747,6 +1747,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#277</prop>
+      <tuv lang="en">
+        <seg>Adjust the bar to change the subtitles position</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121121T093430Z">
+        <seg>Рухайце рысу каб зьмяніць месца субтытраў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#13418</prop>
       <tuv lang="en">
         <seg>Advanced shaders (GLSL)</seg>
@@ -2173,6 +2183,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121120T084246Z">
         <seg>Унізе відэа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#273</prop>
+      <tuv lang="en">
+        <seg>Bottom-Right overscan compensation</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121121T093529Z">
+        <seg>Ніжні правы overscan compensation</seg>
       </tuv>
     </tu>
     <tu>
@@ -4427,6 +4447,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#275</prop>
+      <tuv lang="en">
+        <seg>Pixel ratio adjustment</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121121T093613Z">
+        <seg>Настаўце суадносіны піксэлю</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#208</prop>
       <tuv lang="en">
         <seg>Play</seg>
@@ -5953,6 +5983,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121120T084317Z">
         <seg>Уверсе відэа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#272</prop>
+      <tuv lang="en">
+        <seg>Top-Left overscan compensation</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121121T093518Z">
+        <seg>Верхні левы overscan compensation</seg>
       </tuv>
     </tu>
     <tu>
