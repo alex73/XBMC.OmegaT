@@ -4387,6 +4387,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#78</prop>
+      <tuv lang="en">
+        <seg>SSE</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121121T082728Z">
+        <seg>паўночна-паўночна-ўсходні</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#19154</prop>
       <tuv lang="en">
         <seg>Sa</seg>
