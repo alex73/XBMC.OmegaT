@@ -2347,6 +2347,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#293</prop>
+      <tuv lang="en">
+        <seg>Browse for subtitles</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121121T095859Z">
+        <seg>Абраць субтытры</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#222</prop>
       <tuv lang="en">
         <seg>Cancel</seg>
@@ -5803,6 +5813,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121120T084137Z">
         <seg>Месца субтытраў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#22006</prop>
+      <tuv lang="en">
+        <seg>Subtitle offset</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121121T095827Z">
+        <seg>Зрух субтытраў</seg>
       </tuv>
     </tu>
     <tu>
