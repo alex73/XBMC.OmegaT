@@ -757,6 +757,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.skin-confluence/en.po</prop>
+      <prop type="path">#31307</prop>
+      <tuv lang="en">
+        <seg>Hide Fanart</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121121T083547Z">
+        <seg>Схаваць ФанАрт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.skin-confluence/en.po</prop>
       <prop type="path">#31033</prop>
       <tuv lang="en">
         <seg>Info</seg>
@@ -6053,6 +6063,46 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121121T082551Z">
         <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">skins/translations/xbmc-skins.skin-aeon-nox/en.po</prop>
+      <prop type="path">#31307</prop>
+      <tuv lang="en">
+        <seg>Hide fanart</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121121T083532Z">
+        <seg>Схаваць ФанАрт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">skins/translations/xbmc-skins.skin-essence/en.po</prop>
+      <prop type="path">#31307</prop>
+      <tuv lang="en">
+        <seg>Hide Fanart</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121121T083520Z">
+        <seg>Схаваць ФанАрт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">skins/translations/xbmc-skins.skin-hybrid/en.po</prop>
+      <prop type="path">#31307</prop>
+      <tuv lang="en">
+        <seg>Hide Fanart</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121121T083341Z">
+        <seg>Схаваць ФанАрт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">skins/translations/xbmc-skins.skin-hybrid/en.po</prop>
+      <prop type="path">#31317</prop>
+      <tuv lang="en">
+        <seg>Set Fanart Path</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121121T083629Z">
+        <seg>Шлях да ФанАрт'у</seg>
       </tuv>
     </tu>
   </body>
