@@ -1207,6 +1207,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.weather-wunderground/en.po</prop>
+      <prop type="path">#32126</prop>
+      <tuv lang="en">
+        <seg>Animated map</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121121T085711Z">
+        <seg>Анімаваная мапа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.weather-wunderground/en.po</prop>
       <prop type="path">#30111</prop>
       <tuv lang="en">
         <seg>Change location 1</seg>
@@ -1233,6 +1243,66 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121111T095936Z">
         <seg>Зьмяніць месца 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.weather-wunderground/en.po</prop>
+      <prop type="path">#32120</prop>
+      <tuv lang="en">
+        <seg>Enable logging</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121121T085629Z">
+        <seg>Уключыць часопіс</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.weather-wunderground/en.po</prop>
+      <prop type="path">#32503</prop>
+      <tuv lang="en">
+        <seg>First Quarter</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121121T085732Z">
+        <seg>Першая чвэрць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.weather-wunderground/en.po</prop>
+      <prop type="path">#32515</prop>
+      <tuv lang="en">
+        <seg>Forecast</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121121T085753Z">
+        <seg>Прагноз</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.weather-wunderground/en.po</prop>
+      <prop type="path">#32123</prop>
+      <tuv lang="en">
+        <seg>Friday/Saturday</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121121T085656Z">
+        <seg>Пятніца/Субота</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.weather-wunderground/en.po</prop>
+      <prop type="path">#32505</prop>
+      <tuv lang="en">
+        <seg>Full Moon</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121121T085740Z">
+        <seg>Поўны месяц</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.weather-wunderground/en.po</prop>
+      <prop type="path">#32507</prop>
+      <tuv lang="en">
+        <seg>Last Quarter</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121121T085747Z">
+        <seg>Апошняя чвэрць</seg>
       </tuv>
     </tu>
     <tu>
@@ -1347,6 +1417,36 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.weather-wunderground/en.po</prop>
+      <prop type="path">#32501</prop>
+      <tuv lang="en">
+        <seg>New Moon</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121121T085722Z">
+        <seg>Новы месяц</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.weather-wunderground/en.po</prop>
+      <prop type="path">#32122</prop>
+      <tuv lang="en">
+        <seg>Saturday/Sunday</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121121T085643Z">
+        <seg>Субота/нядзеля</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.weather-wunderground/en.po</prop>
+      <prop type="path">#32124</prop>
+      <tuv lang="en">
+        <seg>Thursday/Friday</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121121T085704Z">
+        <seg>Чацьвер/Пятніца</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.weather-wunderground/en.po</prop>
       <prop type="path">Addon Disclaimer</prop>
       <tuv lang="en">
         <seg>Use of this add-on implies that you have agreed to the Terms of Service located at http://www.wunderground.com/weather/api/d/terms.html</seg>
@@ -1373,6 +1473,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121121T085315Z">
         <seg>Прагноз надвор'я створаны Weather Underground (http://www.wunderground.com/)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.weather-wunderground/en.po</prop>
+      <prop type="path">#32121</prop>
+      <tuv lang="en">
+        <seg>Weekend</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121121T085633Z">
+        <seg>Выходныя</seg>
       </tuv>
     </tu>
     <tu>
