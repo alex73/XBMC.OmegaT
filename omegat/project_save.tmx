@@ -1251,8 +1251,8 @@
       <tuv lang="en">
         <seg>Enable logging</seg>
       </tuv>
-      <tuv lang="be" changeid="Alex" changedate="20121121T085629Z">
-        <seg>Уключыць часопіс</seg>
+      <tuv lang="be" changeid="Alex" changedate="20121121T091135Z">
+        <seg>Уключыць хроніку</seg>
       </tuv>
     </tu>
     <tu>
@@ -1281,8 +1281,8 @@
       <tuv lang="en">
         <seg>Friday/Saturday</seg>
       </tuv>
-      <tuv lang="be" changeid="Alex" changedate="20121121T085656Z">
-        <seg>Пятніца/Субота</seg>
+      <tuv lang="be" changeid="Alex" changedate="20121121T091108Z">
+        <seg>пятніца/субота</seg>
       </tuv>
     </tu>
     <tu>
@@ -1431,8 +1431,8 @@
       <tuv lang="en">
         <seg>Saturday/Sunday</seg>
       </tuv>
-      <tuv lang="be" changeid="Alex" changedate="20121121T085643Z">
-        <seg>Субота/нядзеля</seg>
+      <tuv lang="be" changeid="Alex" changedate="20121121T091104Z">
+        <seg>субота/нядзеля</seg>
       </tuv>
     </tu>
     <tu>
@@ -1441,8 +1441,8 @@
       <tuv lang="en">
         <seg>Thursday/Friday</seg>
       </tuv>
-      <tuv lang="be" changeid="Alex" changedate="20121121T085704Z">
-        <seg>Чацьвер/Пятніца</seg>
+      <tuv lang="be" changeid="Alex" changedate="20121121T091114Z">
+        <seg>чацьвер/пятніца</seg>
       </tuv>
     </tu>
     <tu>
