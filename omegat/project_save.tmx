@@ -4097,6 +4097,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#659</prop>
+      <tuv lang="en">
+        <seg>Non-linear stretch</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121121T092850Z">
+        <seg>Нелінейнае расьцягваньне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#630</prop>
       <tuv lang="en">
         <seg>Normal</seg>
@@ -4387,6 +4397,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#217</prop>
+      <tuv lang="en">
+        <seg>Pixel ratio</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121121T092651Z">
+        <seg>Суадносіны піксэлю</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#208</prop>
       <tuv lang="en">
         <seg>Play</seg>
@@ -4473,6 +4493,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121112T090242Z">
         <seg>Падрабязнасьці вы знойдзеце на xbmc.org/pvr.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#16400</prop>
+      <tuv lang="en">
+        <seg>Post-processing</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121121T092820Z">
+        <seg>Пасьля-апрацоўка</seg>
       </tuv>
     </tu>
     <tu>
@@ -5033,6 +5063,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121112T083529Z">
         <seg>Сэрвісы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#12376</prop>
+      <tuv lang="en">
+        <seg>Set as default for all videos</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121121T092928Z">
+        <seg>Усталяваць як стандартнае для ўсіх відэа</seg>
       </tuv>
     </tu>
     <tu>
@@ -6083,6 +6123,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121109T083619Z">
         <seg>Вэрсія:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#225</prop>
+      <tuv lang="en">
+        <seg>Vertical Shift</seg>
+      </tuv>
+      <tuv lang="be" changeid="Alex" changedate="20121121T092728Z">
+        <seg>Зрух па вэртыкалі</seg>
       </tuv>
     </tu>
     <tu>
