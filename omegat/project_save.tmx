@@ -2447,6 +2447,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#15280</prop>
+      <tuv lang="en">
+        <seg>Can't retrieve list from Last.fm...</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T165731Z">
+        <seg>Немагчыма атрымаць сьпіс з Last.fm...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#222</prop>
       <tuv lang="en">
         <seg>Cancel</seg>
@@ -3617,6 +3627,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#15271</prop>
+      <tuv lang="en">
+        <seg>Friends of user %name%</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T165616Z">
+        <seg>Сябры карыстальніка %name%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#434</prop>
       <tuv lang="en">
         <seg>From %s at %i %s</seg>
@@ -4603,6 +4623,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121112T094854Z">
         <seg>Гук навігацыі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#15272</prop>
+      <tuv lang="en">
+        <seg>Neighbours of user %name%</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T165625Z">
+        <seg>Суседзі карыстальніка %name%</seg>
       </tuv>
     </tu>
     <tu>
@@ -5617,6 +5647,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#15279</prop>
+      <tuv lang="en">
+        <seg>Retrieving list from Last.fm...</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T165710Z">
+        <seg>Атрымоўваньне сьпісу з Last.fm...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#24048</prop>
       <tuv lang="en">
         <seg>Rollback</seg>
@@ -6153,6 +6193,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121106T160109Z">
         <seg>Таймер выключэньня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#15261</prop>
+      <tuv lang="en">
+        <seg>Similar artists as %name%</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T165501Z">
+        <seg>Выканаўцы падобныя на %name%</seg>
       </tuv>
     </tu>
     <tu>
@@ -6907,12 +6957,32 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#15269</prop>
+      <tuv lang="en">
+        <seg>Top albums for user %name%</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T165554Z">
+        <seg>Лепшыя альбомы для карыстальніка %name%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#15257</prop>
       <tuv lang="en">
         <seg>Top artists for tag %name%</seg>
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121208T165152Z">
         <seg>Лепшыя выканаўцы пад цэтлікам %name%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#15268</prop>
+      <tuv lang="en">
+        <seg>Top artists for user %name%</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T165541Z">
+        <seg>Лепшыя выканаўцы для карыстальніка %name%</seg>
       </tuv>
     </tu>
     <tu>
@@ -6933,6 +7003,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121208T165112Z">
         <seg>Лепшыя трэкі пад цэтлікам %name%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#15270</prop>
+      <tuv lang="en">
+        <seg>Top tracks for user %name%</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T165606Z">
+        <seg>Лепшыя трэкі для карыстальніка %name%</seg>
       </tuv>
     </tu>
     <tu>
