@@ -777,6 +777,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.skin-confluence/en.po</prop>
+      <prop type="path">#31901</prop>
+      <tuv lang="en">
+        <seg>36 Hour Forecast</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T201103Z">
+        <seg>Прагноз на 36 гадзінаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.skin-confluence/en.po</prop>
       <prop type="path">#31392</prop>
       <tuv lang="en">
         <seg>Arial based</seg>
@@ -1443,6 +1453,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121121T085722Z">
         <seg>Новы месяц</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.weather-wunderground/en.po</prop>
+      <prop type="path">#32514</prop>
+      <tuv lang="en">
+        <seg>Outlook</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T200840Z">
+        <seg>Чакаецца</seg>
       </tuv>
     </tu>
     <tu>
@@ -5437,6 +5457,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#33030</prop>
+      <tuv lang="en">
+        <seg>Outlook</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T201032Z">
+        <seg>Чакаецца</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#252</prop>
       <tuv lang="en">
         <seg>Output stereo to all speakers</seg>
@@ -7113,6 +7143,26 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121109T085007Z">
         <seg>сонечна</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#33027</prop>
+      <tuv lang="en">
+        <seg>Sunrise</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T200930Z">
+        <seg>Усход</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#33028</prop>
+      <tuv lang="en">
+        <seg>Sunset</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T200932Z">
+        <seg>Захад</seg>
       </tuv>
     </tu>
     <tu>
