@@ -3377,6 +3377,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#91</prop>
+      <tuv lang="en">
+        <seg>East</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T200639Z">
+        <seg>Усходні</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#1028</prop>
       <tuv lang="en">
         <seg>Edit %s source</seg>
@@ -4193,6 +4203,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121208T165843Z">
         <seg>Гадзін</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#33023</prop>
+      <tuv lang="en">
+        <seg>Humid</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T200729Z">
+        <seg>Вільготнасьць</seg>
       </tuv>
     </tu>
     <tu>
@@ -5187,6 +5207,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#89</prop>
+      <tuv lang="en">
+        <seg>North</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T200626Z">
+        <seg>Паўночны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#25000</prop>
       <tuv lang="en">
         <seg>Notifications</seg>
@@ -5703,6 +5733,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121208T164424Z">
         <seg>Праграмы для дашкольнікаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#33022</prop>
+      <tuv lang="en">
+        <seg>Precip</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T200721Z">
+        <seg>Ападкі</seg>
       </tuv>
     </tu>
     <tu>
@@ -6803,6 +6843,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121112T090445Z">
         <seg>Замок крыніцы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#88</prop>
+      <tuv lang="en">
+        <seg>South</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T200622Z">
+        <seg>Паўднёвы</seg>
       </tuv>
     </tu>
     <tu>
@@ -8013,6 +8063,16 @@
       </tuv>
       <tuv lang="be">
         <seg>Серада</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#90</prop>
+      <tuv lang="en">
+        <seg>West</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T200631Z">
+        <seg>Заходні</seg>
       </tuv>
     </tu>
     <tu>
