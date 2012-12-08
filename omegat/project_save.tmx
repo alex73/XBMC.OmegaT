@@ -1797,6 +1797,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19508</prop>
+      <tuv lang="en">
+        <seg>Adult Movie/Drama</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T164924Z">
+        <seg>Фільмы для дарослых / Драмы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#13418</prop>
       <tuv lang="en">
         <seg>Advanced shaders (GLSL)</seg>
@@ -4677,6 +4687,36 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19518</prop>
+      <tuv lang="en">
+        <seg>News Magazine</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T164957Z">
+        <seg>Часопісы навінаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19516</prop>
+      <tuv lang="en">
+        <seg>News/Current Affairs</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T164932Z">
+        <seg>Навіны / Актуальныя падзеі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19517</prop>
+      <tuv lang="en">
+        <seg>News/Weather Report</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T164938Z">
+        <seg>Навіны / Прагнозы надвор'я</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#33078</prop>
       <tuv lang="en">
         <seg>Next page</seg>
@@ -5577,6 +5617,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19506</prop>
+      <tuv lang="en">
+        <seg>Romance</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T164841Z">
+        <seg>Рамантычныя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#79</prop>
       <tuv lang="en">
         <seg>S</seg>
@@ -5823,6 +5873,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121208T164230Z">
         <seg>Сур'ёзная / Клясычная музыка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19507</prop>
+      <tuv lang="en">
+        <seg>Serious/Classical/Religious/Historical Movie/Drama</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T164904Z">
+        <seg>Сур'ёзныя / Клясычныя / Рэлігійныя / Гістарычныя фільмы / драмы</seg>
       </tuv>
     </tu>
     <tu>
@@ -6153,6 +6213,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121109T085004Z">
         <seg>сьнег</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19505</prop>
+      <tuv lang="en">
+        <seg>Soap/Melodrama/Folkloric</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T164834Z">
+        <seg>Мыльныя / Мэлядрамы / Фальклорныя</seg>
       </tuv>
     </tu>
     <tu>
@@ -6817,12 +6887,42 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#15258</prop>
+      <tuv lang="en">
+        <seg>Top albums for tag %name%</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T165100Z">
+        <seg>Лепшыя альбомы пад цэтлікам %name%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#15257</prop>
+      <tuv lang="en">
+        <seg>Top artists for tag %name%</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T165048Z">
+        <seg>Лепшыя артысты пад цэтлікам %name%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#21464</prop>
       <tuv lang="en">
         <seg>Top of video</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121120T084317Z">
         <seg>Уверсе відэа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#15259</prop>
+      <tuv lang="en">
+        <seg>Top tracks for tag %name%</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T165112Z">
+        <seg>Лепшыя трэкі пад цэтлікам %name%</seg>
       </tuv>
     </tu>
     <tu>
