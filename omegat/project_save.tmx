@@ -1597,6 +1597,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#33034</prop>
+      <tuv lang="en">
+        <seg>36 Hour</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T155059Z">
+        <seg>36 гадзінаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#13500</prop>
       <tuv lang="en">
         <seg>A/V sync method</seg>
@@ -1683,6 +1693,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121112T075612Z">
         <seg>Дадатак выключаны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#24045</prop>
+      <tuv lang="en">
+        <seg>Add-on does not have the correct structure</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T155223Z">
+        <seg>Дадатак мае некарэктную структуру</seg>
       </tuv>
     </tu>
     <tu>
@@ -3393,6 +3413,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121121T093121Z">
         <seg>Увесь экран</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#22010</prop>
+      <tuv lang="en">
+        <seg>GPU temperature:</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T155307Z">
+        <seg>Тэмпература GPU:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5357,6 +5387,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#33054</prop>
+      <tuv lang="en">
+        <seg>Seasons</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T155046Z">
+        <seg>Сэзоны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#19213</prop>
       <tuv lang="en">
         <seg>Select backend</seg>
@@ -6333,6 +6373,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121121T093518Z">
         <seg>Верхні левы overscan compensation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#24080</prop>
+      <tuv lang="en">
+        <seg>Try to reconnect?</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T155145Z">
+        <seg>Паспрабаваць злучыцца зноў ?</seg>
       </tuv>
     </tu>
     <tu>
