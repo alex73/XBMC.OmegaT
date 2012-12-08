@@ -1527,6 +1527,26 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#17999</prop>
+      <tuv lang="en">
+        <seg>%i days</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T194426Z">
+        <seg>%i дні</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#17998</prop>
+      <tuv lang="en">
+        <seg>%i hours</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T194437Z">
+        <seg>% гадзінаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#735</prop>
       <tuv lang="en">
         <seg>- Character set</seg>
@@ -2623,6 +2643,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121109T083644Z">
         <seg>Гісторыя зьменаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19029</prop>
+      <tuv lang="en">
+        <seg>Channel</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T194335Z">
+        <seg>Канал</seg>
       </tuv>
     </tu>
     <tu>
@@ -5027,6 +5057,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19031</prop>
+      <tuv lang="en">
+        <seg>Next</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T194343Z">
+        <seg>Далей</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#33078</prop>
       <tuv lang="en">
         <seg>Next page</seg>
@@ -5143,6 +5183,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121111T104726Z">
         <seg>Лістапад</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19030</prop>
+      <tuv lang="en">
+        <seg>Now</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T194337Z">
+        <seg>Зараз</seg>
       </tuv>
     </tu>
     <tu>
@@ -5743,6 +5793,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121106T155830Z">
         <seg>Перастартаваць кампутар</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19043</prop>
+      <tuv lang="en">
+        <seg>Recording</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T194521Z">
+        <seg>Запіс</seg>
       </tuv>
     </tu>
     <tu>
@@ -7213,6 +7273,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121106T160242Z">
         <seg>Час:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19032</prop>
+      <tuv lang="en">
+        <seg>Timeline</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T194330Z">
+        <seg>Часавая шкала</seg>
       </tuv>
     </tu>
     <tu>
