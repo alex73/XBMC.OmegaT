@@ -7337,6 +7337,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19234</prop>
+      <tuv lang="en">
+        <seg>Use backend channels numbers (only works with 1 enabled PVR addon)</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T192933Z">
+        <seg>Нумарамі каналаў прыймача (толькі з 1 дадаткам PVR)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#22014</prop>
       <tuv lang="en">
         <seg>Use dim if paused during video playback</seg>
