@@ -2567,6 +2567,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#36019</prop>
+      <tuv lang="en">
+        <seg>Connected to HDMI device</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T154843Z">
+        <seg>Далучана да HDMI прылады</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#19194</prop>
       <tuv lang="en">
         <seg>Continue?</seg>
@@ -2833,6 +2843,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121112T074636Z">
         <seg>Апісаньне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#35006</prop>
+      <tuv lang="en">
+        <seg>Device removed</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T154924Z">
+        <seg>Прылада выдаленая</seg>
       </tuv>
     </tu>
     <tu>
@@ -3463,6 +3483,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121120T092805Z">
         <seg>Група:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#36015</prop>
+      <tuv lang="en">
+        <seg>HDMI port number</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T154901Z">
+        <seg>Нумар порту HDMI</seg>
       </tuv>
     </tu>
     <tu>
@@ -4277,6 +4307,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#35005</prop>
+      <tuv lang="en">
+        <seg>New device configured</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T154940Z">
+        <seg>Новая прылада сканфігураваная</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#119</prop>
       <tuv lang="en">
         <seg>New folder</seg>
@@ -4643,6 +4683,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121119T150338Z">
         <seg>Прыпыніць падчас зьмены частаты абнаўленьня экрану</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#36033</prop>
+      <tuv lang="en">
+        <seg>Pause playback when switching to another source</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T154746Z">
+        <seg>Прыпыняць прайграваньне падчас пераключэньня на іншую крыніцу</seg>
       </tuv>
     </tu>
     <tu>
@@ -6153,6 +6203,26 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121120T092959Z">
         <seg>Уведзены нумар PIN - няправільны.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#36031</prop>
+      <tuv lang="en">
+        <seg>This user does not have permissions to open the CEC adapter</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T154815Z">
+        <seg>Карыстальнік ня мае дазволу на адчыненьне CEC адаптэра</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#33074</prop>
+      <tuv lang="en">
+        <seg>This version of %s requires an</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T155034Z">
+        <seg>Гэтая вэрсія %s патрабуе</seg>
       </tuv>
     </tu>
     <tu>
