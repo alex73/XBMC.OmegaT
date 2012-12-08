@@ -2917,6 +2917,36 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#75</prop>
+      <tuv lang="en">
+        <seg>E</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T154012Z">
+        <seg>усх</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#74</prop>
+      <tuv lang="en">
+        <seg>ENE</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T154008Z">
+        <seg>усх-паўн-усх</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#76</prop>
+      <tuv lang="en">
+        <seg>ESE</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T154023Z">
+        <seg>усх-паўд-усх</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#1028</prop>
       <tuv lang="en">
         <seg>Edit %s source</seg>
@@ -4093,6 +4123,56 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121109T083433Z">
         <seg>Дадаткі музыкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#71</prop>
+      <tuv lang="en">
+        <seg>N</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T153927Z">
+        <seg>паўн</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#73</prop>
+      <tuv lang="en">
+        <seg>NE</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T153956Z">
+        <seg>паўн-усх</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#72</prop>
+      <tuv lang="en">
+        <seg>NNE</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T153949Z">
+        <seg>паўн-паўн-усх</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#86</prop>
+      <tuv lang="en">
+        <seg>NNW</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T154056Z">
+        <seg>паўн-паўн-зах</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#85</prop>
+      <tuv lang="en">
+        <seg>NW</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T154050Z">
+        <seg>паўн-зах</seg>
       </tuv>
     </tu>
     <tu>
@@ -6543,6 +6623,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121121T083016Z">
         <seg>зах</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#84</prop>
+      <tuv lang="en">
+        <seg>WNW</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T154043Z">
+        <seg>зах-паўн-зах</seg>
       </tuv>
     </tu>
     <tu>
