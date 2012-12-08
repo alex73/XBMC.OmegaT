@@ -2637,6 +2637,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19184</prop>
+      <tuv lang="en">
+        <seg>Channel information duration</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T193650Z">
+        <seg>Паказваць зьвесткі пра канал на працягу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#19199</prop>
       <tuv lang="en">
         <seg>Channel manager</seg>
@@ -3013,6 +3023,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121111T104735Z">
         <seg>Снежань</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19018</prop>
+      <tuv lang="en">
+        <seg>Default folder for PVR thumbnails</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T193900Z">
+        <seg>Стандартны каталёг для мініятур PVR</seg>
       </tuv>
     </tu>
     <tu>
@@ -4013,6 +4033,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121119T145402Z">
         <seg>Схаваць працэс абнаўленьня бібліятэкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19169</prop>
+      <tuv lang="en">
+        <seg>Hide video information box</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T193802Z">
+        <seg>Хаваць акно відэа інфармацыі</seg>
       </tuv>
     </tu>
     <tu>
