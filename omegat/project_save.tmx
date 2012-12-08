@@ -4297,6 +4297,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#12325</prop>
+      <tuv lang="en">
+        <seg>Locked! Enter code...</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T170123Z">
+        <seg>Заблякавана ! Увядзіце код...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#391</prop>
       <tuv lang="en">
         <seg>Low</seg>
@@ -7033,6 +7043,26 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121112T095054Z">
         <seg>Каб гэтым карыстацца, трэба зладаваць дадатак:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#10505</prop>
+      <tuv lang="en">
+        <seg>Top 100 albums</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T170217Z">
+        <seg>Найлепшыя 100 альбомаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#10504</prop>
+      <tuv lang="en">
+        <seg>Top 100 songs</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T170203Z">
+        <seg>Найлепшыя 100 кампазыцый</seg>
       </tuv>
     </tu>
     <tu>
