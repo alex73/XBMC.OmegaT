@@ -1597,6 +1597,26 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#12383</prop>
+      <tuv lang="en">
+        <seg>12 hour clock</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T165812Z">
+        <seg>12-гадзінны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#12384</prop>
+      <tuv lang="en">
+        <seg>24 hour clock</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T165814Z">
+        <seg>24-гадзінны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#33034</prop>
       <tuv lang="en">
         <seg>36 Hour</seg>
@@ -2253,6 +2273,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121119T150140Z">
         <seg>Базавыя шэйдэры (ARB)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#12395</prop>
+      <tuv lang="en">
+        <seg>Battery level</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T165904Z">
+        <seg>Узровень зараду батарэі</seg>
       </tuv>
     </tu>
     <tu>
@@ -3237,12 +3267,32 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#12327</prop>
+      <tuv lang="en">
+        <seg>Enter master code</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T165951Z">
+        <seg>Увядзіце майстар-код</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#12340</prop>
       <tuv lang="en">
         <seg>Enter new password</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121112T090522Z">
         <seg>Увядзіце новы пароль</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#12326</prop>
+      <tuv lang="en">
+        <seg>Enter password</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T165923Z">
+        <seg>Увядзіце пароль</seg>
       </tuv>
     </tu>
     <tu>
@@ -3293,6 +3343,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121109T083019Z">
         <seg>Увядзіце шлях ці абярыце месца медыяфайлаў.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#12328</prop>
+      <tuv lang="en">
+        <seg>Enter unlock code</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T170024Z">
+        <seg>Увядзіце код каб разблякаваць</seg>
       </tuv>
     </tu>
     <tu>
@@ -3907,6 +3967,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#12392</prop>
+      <tuv lang="en">
+        <seg>Hours</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T165843Z">
+        <seg>Гадзін</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#406</prop>
       <tuv lang="en">
         <seg>Humidity</seg>
@@ -4367,6 +4437,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#12391</prop>
+      <tuv lang="en">
+        <seg>Minutes</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T165845Z">
+        <seg>Хвілінаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#1423</prop>
       <tuv lang="en">
         <seg>Mist</seg>
@@ -4443,6 +4523,16 @@
       </tuv>
       <tuv lang="be">
         <seg>Панядзелак</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#12386</prop>
+      <tuv lang="en">
+        <seg>Month/Day</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T165820Z">
+        <seg>Месяц / Дзень</seg>
       </tuv>
     </tu>
     <tu>
@@ -7027,6 +7117,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#12394</prop>
+      <tuv lang="en">
+        <seg>Total uptime</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T165859Z">
+        <seg>Агульны час працы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#24080</prop>
       <tuv lang="en">
         <seg>Try to reconnect?</seg>
@@ -7813,6 +7913,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121121T082551Z">
         <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#12329</prop>
+      <tuv lang="en">
+        <seg>or press C to cancel</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T170040Z">
+        <seg>ці націсьніце C каб скасаваць</seg>
       </tuv>
     </tu>
     <tu>
