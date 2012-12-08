@@ -4177,6 +4177,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#15260</prop>
+      <tuv lang="en">
+        <seg>Listen to tag %name% Last.fm radio</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T165137Z">
+        <seg>Слухаць радыё Last.fm па цэтліку %name%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#19601</prop>
       <tuv lang="en">
         <seg>Literature</seg>
@@ -6901,8 +6911,8 @@
       <tuv lang="en">
         <seg>Top artists for tag %name%</seg>
       </tuv>
-      <tuv lang="be" changeid="alex" changedate="20121208T165048Z">
-        <seg>Лепшыя артысты пад цэтлікам %name%</seg>
+      <tuv lang="be" changeid="alex" changedate="20121208T165152Z">
+        <seg>Лепшыя выканаўцы пад цэтлікам %name%</seg>
       </tuv>
     </tu>
     <tu>
