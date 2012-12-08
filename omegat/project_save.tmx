@@ -3027,6 +3027,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19065</prop>
+      <tuv lang="en">
+        <seg>Default EPG window</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T194150Z">
+        <seg>Стандартнае вакно EPG</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#19018</prop>
       <tuv lang="en">
         <seg>Default folder for PVR thumbnails</seg>
@@ -3207,6 +3217,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19072</prop>
+      <tuv lang="en">
+        <seg>Do not store the EPG in the database</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T194136Z">
+        <seg>Не захоўваць EPG у базу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#19519</prop>
       <tuv lang="en">
         <seg>Documentary</seg>
@@ -3273,6 +3293,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121208T154008Z">
         <seg>усх-паўн-усх</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19071</prop>
+      <tuv lang="en">
+        <seg>EPG update interval</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T194116Z">
+        <seg>Прамежак абнаўленьня EPG</seg>
       </tuv>
     </tu>
     <tu>
@@ -6033,6 +6063,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121109T085132Z">
         <seg>Сканаваць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19167</prop>
+      <tuv lang="en">
+        <seg>Scan for missing icons</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T194003Z">
+        <seg>Сканаваць для адсутных значкаў</seg>
       </tuv>
     </tu>
     <tu>
