@@ -109,3 +109,27 @@ source_lang = en
 file_filter = translations/xbmc-addons.metadata-filmaffinity-com/<lang>.po
 source_lang = en
 
+[xbmc-addons.plugin-video-the-trailers]
+file_filter = translations/xbmc-addons.plugin-video-the-trailers/<lang>.po
+source_lang = en
+
+[xbmc-addons.script-artistslideshow]
+file_filter = translations/xbmc-addons.script-artistslideshow/<lang>.po
+source_lang = en
+
+[xbmc-addons.script-artwork-downloader]
+file_filter = translations/xbmc-addons.script-artwork-downloader/<lang>.po
+source_lang = en
+
+[xbmc-addons.script-moviequiz]
+file_filter = translations/xbmc-addons.script-moviequiz/<lang>.po
+source_lang = en
+
+[xbmc-addons.script-speedfaninfo]
+file_filter = translations/xbmc-addons.script-speedfaninfo/<lang>.po
+source_lang = en
+
+[xbmc-addons.service-skin-widgets]
+file_filter = translations/xbmc-addons.service-skin-widgets/<lang>.po
+source_lang = en
+

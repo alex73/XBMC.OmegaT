@@ -17,3 +17,11 @@ source_lang = en
 file_filter = translations/xbmc-skins.skin-hybrid/<lang>.po
 source_lang = en
 
+[xbmc-skins.skin-metropolis]
+file_filter = translations/xbmc-skins.skin-metropolis/<lang>.po
+source_lang = en
+
+[xbmc-skins.skin-back-row]
+file_filter = translations/xbmc-skins.skin-back-row/<lang>.po
+source_lang = en
+

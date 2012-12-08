@@ -45,10 +45,6 @@ source_lang = en
 file_filter = translations/XBMC-Main-Frodo.visualization-glspectrum/<lang>.po
 source_lang = en
 
-[XBMC-Main-Frodo.visualization-itunes]
-file_filter = translations/XBMC-Main-Frodo.visualization-itunes/<lang>.po
-source_lang = en
-
 [XBMC-Main-Frodo.visualization-milkdrop]
 file_filter = translations/XBMC-Main-Frodo.visualization-milkdrop/<lang>.po
 source_lang = en
@@ -97,10 +93,6 @@ source_lang = en
 file_filter = translations/XBMC-Main-Frodo.plugin-video-youtube/<lang>.po
 source_lang = en
 
-[XBMC-Main-Frodo.pvr-fortherecord-argus]
-file_filter = translations/XBMC-Main-Frodo.pvr-fortherecord-argus/<lang>.po
-source_lang = en
-
 [XBMC-Main-Frodo.pvr-hts]
 file_filter = translations/XBMC-Main-Frodo.pvr-hts/<lang>.po
 source_lang = en
@@ -127,5 +119,49 @@ source_lang = en
 
 [XBMC-Main-Frodo.pvr-mythtv-cmyth]
 file_filter = translations/XBMC-Main-Frodo.pvr-mythtv-cmyth/<lang>.po
+source_lang = en
+
+[XBMC-Main-Frodo.pvr-dvbviewer]
+file_filter = translations/XBMC-Main-Frodo.pvr-dvbviewer/<lang>.po
+source_lang = en
+
+[XBMC-Main-Frodo.metadata-albums-last-fm]
+file_filter = translations/XBMC-Main-Frodo.metadata-albums-last-fm/<lang>.po
+source_lang = en
+
+[XBMC-Main-Frodo.metadata-albums-theaudiodb-com]
+file_filter = translations/XBMC-Main-Frodo.metadata-albums-theaudiodb-com/<lang>.po
+source_lang = en
+
+[XBMC-Main-Frodo.metadata-artists-last-fm]
+file_filter = translations/XBMC-Main-Frodo.metadata-artists-last-fm/<lang>.po
+source_lang = en
+
+[XBMC-Main-Frodo.metadata-artists-theaudiodb-com]
+file_filter = translations/XBMC-Main-Frodo.metadata-artists-theaudiodb-com/<lang>.po
+source_lang = en
+
+[XBMC-Main-Frodo.metadata-imdb-com]
+file_filter = translations/XBMC-Main-Frodo.metadata-imdb-com/<lang>.po
+source_lang = en
+
+[XBMC-Main-Frodo.metadata-musicvideos-theaudiodb-com]
+file_filter = translations/XBMC-Main-Frodo.metadata-musicvideos-theaudiodb-com/<lang>.po
+source_lang = en
+
+[XBMC-Main-Frodo.metadata-rottentomatoes-com]
+file_filter = translations/XBMC-Main-Frodo.metadata-rottentomatoes-com/<lang>.po
+source_lang = en
+
+[XBMC-Main-Frodo.metadata-universal]
+file_filter = translations/XBMC-Main-Frodo.metadata-universal/<lang>.po
+source_lang = en
+
+[XBMC-Main-Frodo.openelec-tv]
+file_filter = translations/XBMC-Main-Frodo.openelec-tv/<lang>.po
+source_lang = en
+
+[XBMC-Main-Frodo.pvr-argustv]
+file_filter = translations/XBMC-Main-Frodo.pvr-argustv/<lang>.po
 source_lang = en
 
