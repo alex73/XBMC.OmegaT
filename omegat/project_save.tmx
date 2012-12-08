@@ -2547,6 +2547,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#36023</prop>
+      <tuv lang="en">
+        <seg>Configuration updated</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T154304Z">
+        <seg>Канфігурацыя зьмененая</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#24020</prop>
       <tuv lang="en">
         <seg>Configure</seg>
@@ -3133,6 +3143,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121120T083718Z">
         <seg>Выняць мініятуры й зьвесткі відэа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#36024</prop>
+      <tuv lang="en">
+        <seg>Failed to set the new configuration. Please check your settings.</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T154349Z">
+        <seg>Не атрымалася ўсталяваць новую канфігурацыю. Спраўдзіце вашыя налады.</seg>
       </tuv>
     </tu>
     <tu>
