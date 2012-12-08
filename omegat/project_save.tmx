@@ -6,6 +6,126 @@
 <!-- Default translations -->
 <!-- Alternative translations -->
     <tu>
+      <prop type="file">addons/translations/xbmc-addons.script-xbmcbackup/en.po</prop>
+      <prop type="path">#30063</prop>
+      <tuv lang="en">
+        <seg>Day of Week</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T201355Z">
+        <seg>Дзень тыдня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">addons/translations/xbmc-addons.script-xbmcbackup/en.po</prop>
+      <prop type="path">#30072</prop>
+      <tuv lang="en">
+        <seg>Every Day</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T201305Z">
+        <seg>Штодня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">addons/translations/xbmc-addons.script-xbmcbackup/en.po</prop>
+      <prop type="path">#30073</prop>
+      <tuv lang="en">
+        <seg>Every Week</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T201311Z">
+        <seg>Штотыдзень</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">addons/translations/xbmc-addons.script-xbmcbackup/en.po</prop>
+      <prop type="path">#30074</prop>
+      <tuv lang="en">
+        <seg>First Day of Month</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T201329Z">
+        <seg>Першы дзень месяца</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">addons/translations/xbmc-addons.script-xbmcbackup/en.po</prop>
+      <prop type="path">#30070</prop>
+      <tuv lang="en">
+        <seg>Friday</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T201257Z">
+        <seg>Пятніца</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">addons/translations/xbmc-addons.script-xbmcbackup/en.po</prop>
+      <prop type="path">#30066</prop>
+      <tuv lang="en">
+        <seg>Monday</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T201347Z">
+        <seg>Панядзелак</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">addons/translations/xbmc-addons.script-xbmcbackup/en.po</prop>
+      <prop type="path">#30071</prop>
+      <tuv lang="en">
+        <seg>Saturday</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T201259Z">
+        <seg>Субота</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">addons/translations/xbmc-addons.script-xbmcbackup/en.po</prop>
+      <prop type="path">#30061</prop>
+      <tuv lang="en">
+        <seg>Schedule</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T201401Z">
+        <seg>Расклад</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">addons/translations/xbmc-addons.script-xbmcbackup/en.po</prop>
+      <prop type="path">#30065</prop>
+      <tuv lang="en">
+        <seg>Sunday</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T201350Z">
+        <seg>Нядзеля</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">addons/translations/xbmc-addons.script-xbmcbackup/en.po</prop>
+      <prop type="path">#30069</prop>
+      <tuv lang="en">
+        <seg>Thursday</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T201337Z">
+        <seg>Чацьвер</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">addons/translations/xbmc-addons.script-xbmcbackup/en.po</prop>
+      <prop type="path">#30067</prop>
+      <tuv lang="en">
+        <seg>Tuesday</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T201345Z">
+        <seg>Аўторак</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">addons/translations/xbmc-addons.script-xbmcbackup/en.po</prop>
+      <prop type="path">#30068</prop>
+      <tuv lang="en">
+        <seg>Wednesday</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T201343Z">
+        <seg>Серада</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="file">addons/translations/xbmc-addons.service-libraryautoupdate/en.po</prop>
       <prop type="path">#30001</prop>
       <tuv lang="en">
@@ -777,6 +897,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.skin-confluence/en.po</prop>
+      <prop type="path">#31904</prop>
+      <tuv lang="en">
+        <seg>10 Day Forecast</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T201130Z">
+        <seg>Прагноз на 10 дзён</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.skin-confluence/en.po</prop>
       <prop type="path">#31901</prop>
       <tuv lang="en">
         <seg>36 Hour Forecast</seg>
@@ -837,12 +967,32 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.skin-confluence/en.po</prop>
+      <prop type="path">#31905</prop>
+      <tuv lang="en">
+        <seg>Forecast</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T201133Z">
+        <seg>Прагноз</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.skin-confluence/en.po</prop>
       <prop type="path">#31307</prop>
       <tuv lang="en">
         <seg>Hide Fanart</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121121T083547Z">
         <seg>Схаваць ФанАрт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.skin-confluence/en.po</prop>
+      <prop type="path">#31902</prop>
+      <tuv lang="en">
+        <seg>Hourly Forecast</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T201118Z">
+        <seg>Пагадзінны прагноз</seg>
       </tuv>
     </tu>
     <tu>
@@ -1003,6 +1153,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121109T082446Z">
         <seg>Налады выгляду</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.skin-confluence/en.po</prop>
+      <prop type="path">#31903</prop>
+      <tuv lang="en">
+        <seg>Weekend Forecast</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T201124Z">
+        <seg>Прагноз на выходныя</seg>
       </tuv>
     </tu>
     <tu>
