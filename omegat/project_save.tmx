@@ -1807,6 +1807,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#22005</prop>
+      <tuv lang="en">
+        <seg>Ahead by: %2.3fs</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T155503Z">
+        <seg>Наперадзе на: %2.3fs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#566</prop>
       <tuv lang="en">
         <seg>Album artist</seg>
@@ -2377,6 +2387,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#22011</prop>
+      <tuv lang="en">
+        <seg>CPU temperature:</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T155356Z">
+        <seg>Тэмпэратура CPU:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#222</prop>
       <tuv lang="en">
         <seg>Cancel</seg>
@@ -2833,6 +2853,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121121T091951Z">
         <seg>Рабіць deinterlace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#22004</prop>
+      <tuv lang="en">
+        <seg>Delayed by: %2.3fs</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T155430Z">
+        <seg>Затрымка ў: %2.3fs</seg>
       </tuv>
     </tu>
     <tu>
@@ -3421,8 +3451,8 @@
       <tuv lang="en">
         <seg>GPU temperature:</seg>
       </tuv>
-      <tuv lang="be" changeid="alex" changedate="20121208T155307Z">
-        <seg>Тэмпература GPU:</seg>
+      <tuv lang="be" changeid="alex" changedate="20121208T155350Z">
+        <seg>Тэмпэратура GPU:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5182,6 +5212,16 @@
         <seg>Resolution</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121112T084130Z">
+        <seg>Разрознасьць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#21805</prop>
+      <tuv lang="en">
+        <seg>Resolution</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T155536Z">
         <seg>Разрознасьць</seg>
       </tuv>
     </tu>
