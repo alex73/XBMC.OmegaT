@@ -1457,6 +1457,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.weather-wunderground/en.po</prop>
+      <prop type="path">#32510</prop>
+      <tuv lang="en">
+        <seg>Warning</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T193207Z">
+        <seg>Увага</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.weather-wunderground/en.po</prop>
       <prop type="path">Addon Summary</prop>
       <tuv lang="en">
         <seg>Weather forecast from wunderground.com</seg>
@@ -1897,6 +1907,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19186</prop>
+      <tuv lang="en">
+        <seg>All data in the PVR database is being erased</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T193122Z">
+        <seg>Усе зьвесткі з базы PVR будуць выдаленыя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#19216</prop>
       <tuv lang="en">
         <seg>All radio channels</seg>
@@ -2063,6 +2083,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121111T104717Z">
         <seg>Красавік</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#750</prop>
+      <tuv lang="en">
+        <seg>Are you sure?</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T193141Z">
+        <seg>Вы ўпэўнены ?</seg>
       </tuv>
     </tu>
     <tu>
@@ -5733,6 +5763,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121119T150641Z">
         <seg>Якасьць зьмены</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19185</prop>
+      <tuv lang="en">
+        <seg>Reset the PVR database</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T193054Z">
+        <seg>Скінуць базу PVR</seg>
       </tuv>
     </tu>
     <tu>
