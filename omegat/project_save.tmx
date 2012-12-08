@@ -2427,6 +2427,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19569</prop>
+      <tuv lang="en">
+        <seg>Cartoons/Puppets</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T164153Z">
+        <seg>Мультфільмы / Лялечныя шоў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#1442</prop>
       <tuv lang="en">
         <seg>Chance</seg>
@@ -3187,6 +3197,36 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19567</prop>
+      <tuv lang="en">
+        <seg>Entertainment Programmes for 10 to 16</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T164037Z">
+        <seg>Забаўляльныя праграмы ад 10 да 16</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19566</prop>
+      <tuv lang="en">
+        <seg>Entertainment Programmes for 6 to 14</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T164030Z">
+        <seg>Забаўляльныя праграмы ад 6 да 14</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#20196</prop>
+      <tuv lang="en">
+        <seg>Export music library</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T163959Z">
+        <seg>Экспартаваць бібліятэку музыкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#647</prop>
       <tuv lang="en">
         <seg>Export video library</seg>
@@ -3747,6 +3787,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#20197</prop>
+      <tuv lang="en">
+        <seg>Import music library</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T163952Z">
+        <seg>Імпартаваць бібліятэку музыкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#648</prop>
       <tuv lang="en">
         <seg>Import video library</seg>
@@ -3773,6 +3823,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121120T092940Z">
         <seg>Няправільны PIN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19568</prop>
+      <tuv lang="en">
+        <seg>Informational/Educational/School Programme</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T164159Z">
+        <seg>Інфармацыйныя / Адукацыйныя / Школьныя праграмы</seg>
       </tuv>
     </tu>
     <tu>
@@ -4233,6 +4293,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121109T083433Z">
         <seg>Дадаткі музыкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19580</prop>
+      <tuv lang="en">
+        <seg>Music/Ballet/Dance</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T164203Z">
+        <seg>Музыка / Балет / Танцы</seg>
       </tuv>
     </tu>
     <tu>
