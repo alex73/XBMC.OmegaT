@@ -1807,6 +1807,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19502</prop>
+      <tuv lang="en">
+        <seg>Adventure/Western/War</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T164759Z">
+        <seg>Прыгоды / Вэстэрны / Вайсковыя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#22005</prop>
       <tuv lang="en">
         <seg>Ahead by: %2.3fs</seg>
@@ -2043,6 +2053,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121208T164308Z">
         <seg>Мастацтва / Культура</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19554</prop>
+      <tuv lang="en">
+        <seg>Athletics</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T164527Z">
+        <seg>Атлетыка</seg>
       </tuv>
     </tu>
     <tu>
@@ -2627,6 +2647,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19504</prop>
+      <tuv lang="en">
+        <seg>Comedy</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T164818Z">
+        <seg>Камэдыі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#36023</prop>
       <tuv lang="en">
         <seg>Configuration updated</seg>
@@ -2937,6 +2967,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19501</prop>
+      <tuv lang="en">
+        <seg>Detective/Thriller</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T164747Z">
+        <seg>Дэтэктыў / Трылер</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#35006</prop>
       <tuv lang="en">
         <seg>Device removed</seg>
@@ -2987,12 +3027,32 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19520</prop>
+      <tuv lang="en">
+        <seg>Discussion/Interview/Debate</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T164705Z">
+        <seg>Дыскусіі / Інтэрвію / Дэбаты</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#173</prop>
       <tuv lang="en">
         <seg>Display 4:3 videos as</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121119T150953Z">
         <seg>Паказваць відэа 4:3 як</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19519</prop>
+      <tuv lang="en">
+        <seg>Documentary</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T164715Z">
+        <seg>Дакумэнтальныя фільмы</seg>
       </tuv>
     </tu>
     <tu>
@@ -3487,6 +3547,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19551</prop>
+      <tuv lang="en">
+        <seg>Football</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T164541Z">
+        <seg>Футбол</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#21372</prop>
       <tuv lang="en">
         <seg>Forced DVD player region</seg>
@@ -3573,6 +3643,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121208T155350Z">
         <seg>Тэмпэратура GPU:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19533</prop>
+      <tuv lang="en">
+        <seg>Game Show/Quiz/Contest</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T164632Z">
+        <seg>Гульні / Віктарыны / Конкурсы</seg>
       </tuv>
     </tu>
     <tu>
@@ -4357,6 +4437,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19500</prop>
+      <tuv lang="en">
+        <seg>Movie/Drama</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T164742Z">
+        <seg>Фільм / Драма</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#10005</prop>
       <tuv lang="en">
         <seg>Music</seg>
@@ -4873,6 +4963,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121112T095336Z">
         <seg>Мова зыходнай плыні</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19499</prop>
+      <tuv lang="en">
+        <seg>Other/Unknown</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T164738Z">
+        <seg>Іншая / Невядомыя</seg>
       </tuv>
     </tu>
     <tu>
@@ -5597,6 +5697,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19503</prop>
+      <tuv lang="en">
+        <seg>Science Fiction/Fantasy/Horror</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T164812Z">
+        <seg>Фантастыка / Фэнтэзі / Жахі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#13287</prop>
       <tuv lang="en">
         <seg>Screen resolution:</seg>
@@ -5907,6 +6017,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19532</prop>
+      <tuv lang="en">
+        <seg>Show/Game Show</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T164645Z">
+        <seg>Шоў / Гульнявыя шоў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#389</prop>
       <tuv lang="en">
         <seg>Shower</seg>
@@ -6157,6 +6277,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19549</prop>
+      <tuv lang="en">
+        <seg>Special Event</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T164554Z">
+        <seg>Спэцыяльныя падзеі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#399</prop>
       <tuv lang="en">
         <seg>Speed units</seg>
@@ -6173,6 +6303,26 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121121T095512Z">
         <seg>Spline36 аптымізаваны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19550</prop>
+      <tuv lang="en">
+        <seg>Sport Magazine</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T164545Z">
+        <seg>Спартыўны часопіс</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19548</prop>
+      <tuv lang="en">
+        <seg>Sports</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T164601Z">
+        <seg>Спартыўныя</seg>
       </tuv>
     </tu>
     <tu>
@@ -6487,6 +6637,26 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19535</prop>
+      <tuv lang="en">
+        <seg>Talk Show</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T164613Z">
+        <seg>Гутарковыя шоў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19553</prop>
+      <tuv lang="en">
+        <seg>Team Sports</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T164535Z">
+        <seg>Камандны спорт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#398</prop>
       <tuv lang="en">
         <seg>Temperature units</seg>
@@ -6503,6 +6673,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121106T160234Z">
         <seg>Тэмпература:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19552</prop>
+      <tuv lang="en">
+        <seg>Tennis/Squash</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T164539Z">
+        <seg>Тэніс / Сквош</seg>
       </tuv>
     </tu>
     <tu>
@@ -6863,6 +7043,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121106T160124Z">
         <seg>Імя карыстальніка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19534</prop>
+      <tuv lang="en">
+        <seg>Variety Show</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T164617Z">
+        <seg>Вар'етэ</seg>
       </tuv>
     </tu>
     <tu>
