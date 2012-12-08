@@ -167,6 +167,26 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.pvr-vdr-vnsi/en.po</prop>
+      <prop type="path">#30045</prop>
+      <tuv lang="en">
+        <seg>Connection to VDR Server restored</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T193502Z">
+        <seg>Злучэньне да VDR сэрвэра адноўлена</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.pvr-vdr-vnsi/en.po</prop>
+      <prop type="path">#30044</prop>
+      <tuv lang="en">
+        <seg>Lost connection to VDR Server</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T193510Z">
+        <seg>Злучэньне да VDR сэрвэра згублена</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.pvr-vdr-vnsi/en.po</prop>
       <prop type="path">#30040</prop>
       <tuv lang="en">
         <seg>Stopped</seg>
@@ -2717,6 +2737,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19229</prop>
+      <tuv lang="en">
+        <seg>Close channel OSD after switching channels</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T193554Z">
+        <seg>Зачыніць OSD каналу пасьля пераключэньня каналаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#387</prop>
       <tuv lang="en">
         <seg>Clouds</seg>
@@ -2773,6 +2803,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121208T154843Z">
         <seg>Далучана да HDMI прылады</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#36030</prop>
+      <tuv lang="en">
+        <seg>Connection lost</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T193347Z">
+        <seg>Злучэньне згублена</seg>
       </tuv>
     </tu>
     <tu>
@@ -3133,6 +3173,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121119T150953Z">
         <seg>Паказваць відэа 4:3 як</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19269</prop>
+      <tuv lang="en">
+        <seg>Do not show 'connection lost' warnings</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T193337Z">
+        <seg>Не паказваць папярэджаньне "злучэньне згублена"</seg>
       </tuv>
     </tu>
     <tu>
@@ -4493,6 +4543,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121106T144720Z">
         <seg>Мэню</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19181</prop>
+      <tuv lang="en">
+        <seg>Menu/OSD</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T193520Z">
+        <seg>Мэню/OSD</seg>
       </tuv>
     </tu>
     <tu>
