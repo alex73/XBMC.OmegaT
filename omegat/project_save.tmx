@@ -2777,6 +2777,26 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19279</prop>
+      <tuv lang="en">
+        <seg>Client specific</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T194740Z">
+        <seg>Спэцыфічныя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19280</prop>
+      <tuv lang="en">
+        <seg>Client specific settings</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T194758Z">
+        <seg>Спэцыфічныя для кліента налады</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#19229</prop>
       <tuv lang="en">
         <seg>Close channel OSD after switching channels</seg>
@@ -5407,6 +5427,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19259</prop>
+      <tuv lang="en">
+        <seg>Parental control</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T194651Z">
+        <seg>Бацькоўскі кантроль</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#371</prop>
       <tuv lang="en">
         <seg>Partly</seg>
@@ -5633,6 +5663,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121106T155753Z">
         <seg>Выключыць кампутар</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#14095</prop>
+      <tuv lang="en">
+        <seg>Power saving</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T194625Z">
+        <seg>Энергазьберажэньне</seg>
       </tuv>
     </tu>
     <tu>
