@@ -6367,6 +6367,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#36040</prop>
+      <tuv lang="en">
+        <seg>Unsupported libCEC interface version. %x is lower than the version XBMC supports (%x)</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T154655Z">
+        <seg>Гэта вэрсія інтэрфэйсу libCEC не падтрымліваецца. %x меньшая чамся падтрымлівае XBMC (%x)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#24069</prop>
       <tuv lang="en">
         <seg>Update</seg>
