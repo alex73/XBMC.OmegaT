@@ -1547,6 +1547,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#14045</prop>
+      <tuv lang="en">
+        <seg>%i sec</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T200317Z">
+        <seg>%i сек</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#735</prop>
       <tuv lang="en">
         <seg>- Character set</seg>
