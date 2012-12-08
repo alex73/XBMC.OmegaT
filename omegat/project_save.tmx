@@ -7367,6 +7367,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#13122</prop>
+      <tuv lang="en">
+        <seg>VDPAU Studio level color conversion</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T190846Z">
+        <seg>Ператварэньне ўзроўняў колераў VDPAU Studio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#19534</prop>
       <tuv lang="en">
         <seg>Variety Show</seg>
