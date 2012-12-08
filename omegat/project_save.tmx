@@ -5567,6 +5567,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#341</prop>
+      <tuv lang="en">
+        <seg>Play disc</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121208T200125Z">
+        <seg>Дыск</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#13412</prop>
       <tuv lang="en">
         <seg>Play from here</seg>
