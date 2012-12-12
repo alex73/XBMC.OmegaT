@@ -1,3 +1,4 @@
 artist	выканаўца
 song	кампазыцыя
 thumbnail	мініятура
+slideshow	слайдшоў
