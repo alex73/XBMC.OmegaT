@@ -36,6 +36,16 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="file">addons/translations/xbmc-addons.script-moviequiz/en.po</prop>
+      <prop type="path">#30050</prop>
+      <tuv lang="en">
+        <seg>Warning</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T114818Z">
+        <seg>Увага</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="file">addons/translations/xbmc-addons.script-xbmcbackup/en.po</prop>
       <prop type="path">#30063</prop>
       <tuv lang="en">
@@ -3497,6 +3507,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19189</prop>
+      <tuv lang="en">
+        <seg>Continue last channel on startup</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T114957Z">
+        <seg>Паказваць апошні канал на старце</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#19194</prop>
       <tuv lang="en">
         <seg>Continue?</seg>
@@ -4033,6 +4053,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121208T154008Z">
         <seg>усх-паўн-усх</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19188</prop>
+      <tuv lang="en">
+        <seg>EPG is being reset</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T114800Z">
+        <seg>EPG зараз скінецца</seg>
       </tuv>
     </tu>
     <tu>
@@ -8247,6 +8277,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19037</prop>
+      <tuv lang="en">
+        <seg>Show signal quality</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T115018Z">
+        <seg>Паказваць якасьць сыгналу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#19532</prop>
       <tuv lang="en">
         <seg>Show/Game Show</seg>
@@ -8613,6 +8653,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121208T164601Z">
         <seg>Спартыўныя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19171</prop>
+      <tuv lang="en">
+        <seg>Start playback minimized</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T114928Z">
+        <seg>Пачынаць прайграваньне ўвакне</seg>
       </tuv>
     </tu>
     <tu>
@@ -9833,6 +9883,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121121T083013Z">
         <seg>усх-паўд-усх</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19098</prop>
+      <tuv lang="en">
+        <seg>Warning</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T114825Z">
+        <seg>Увага</seg>
       </tuv>
     </tu>
     <tu>
