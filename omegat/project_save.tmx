@@ -5267,6 +5267,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#21424</prop>
+      <tuv lang="en">
+        <seg>Items must match</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T111209Z">
+        <seg>Складнік павінен адпавядаць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#21808</prop>
       <tuv lang="en">
         <seg>JPEG process</seg>
@@ -9927,6 +9937,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#21425</prop>
+      <tuv lang="en">
+        <seg>all of the rules</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T111216Z">
+        <seg>усім правілам</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#21409</prop>
       <tuv lang="en">
         <seg>before</seg>
@@ -10033,6 +10053,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121121T082551Z">
         <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#21426</prop>
+      <tuv lang="en">
+        <seg>one or more of the rules</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T111249Z">
+        <seg>аднаму альбо некалькім правілам</seg>
       </tuv>
     </tu>
     <tu>
