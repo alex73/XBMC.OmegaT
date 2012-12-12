@@ -5757,6 +5757,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19263</prop>
+      <tuv lang="en">
+        <seg>Locked channel. Enter PIN:</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T120144Z">
+        <seg>Зяблякаваны канал. Увядзіце PIN:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#12325</prop>
       <tuv lang="en">
         <seg>Locked! Enter code...</seg>
@@ -6953,6 +6963,36 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121208T194651Z">
         <seg>Бацькоўскі кантроль</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19262</prop>
+      <tuv lang="en">
+        <seg>Parental control. Enter PIN:</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T120132Z">
+        <seg>Бацькоўскі кантроль. Увядзіце PIN:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19266</prop>
+      <tuv lang="en">
+        <seg>Parental locked</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T120203Z">
+        <seg>Бацькоўскае блякаваньне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19267</prop>
+      <tuv lang="en">
+        <seg>Parental locked:</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T120209Z">
+        <seg>Бацькоўскае блякаваньне:</seg>
       </tuv>
     </tu>
     <tu>
@@ -9663,6 +9703,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121120T093042Z">
         <seg>Разблякаваць канал</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19260</prop>
+      <tuv lang="en">
+        <seg>Unlock duration</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T120003Z">
+        <seg>Працягласьць разблякаваньня</seg>
       </tuv>
     </tu>
     <tu>
