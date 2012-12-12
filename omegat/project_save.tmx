@@ -2797,6 +2797,26 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#21822</prop>
+      <tuv lang="en">
+        <seg>Camera make</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T053422Z">
+        <seg>Зроблены камэрай</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#21823</prop>
+      <tuv lang="en">
+        <seg>Camera model</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T053431Z">
+        <seg>Мадэль камэры</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#15280</prop>
       <tuv lang="en">
         <seg>Can't retrieve list from Last.fm...</seg>
@@ -3077,6 +3097,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#21807</prop>
+      <tuv lang="en">
+        <seg>Colour/B&amp;W</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T053241Z">
+        <seg>Каляровы/Чорна-белы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#19504</prop>
       <tuv lang="en">
         <seg>Comedy</seg>
@@ -3293,6 +3323,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121109T081918Z">
         <seg>Часе</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#21820</prop>
+      <tuv lang="en">
+        <seg>Date/Time</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T053342Z">
+        <seg>Дата/Час</seg>
       </tuv>
     </tu>
     <tu>
@@ -3613,6 +3653,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121208T154023Z">
         <seg>усх-паўд-усх</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#21824</prop>
+      <tuv lang="en">
+        <seg>EXIF comment</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T053439Z">
+        <seg>Камэнтар EXIF</seg>
       </tuv>
     </tu>
     <tu>
@@ -3961,8 +4011,8 @@
       <tuv lang="en">
         <seg>File date/time</seg>
       </tuv>
-      <tuv lang="be" changeid="alex" changedate="20121212T053212Z">
-        <seg>Час стварэньня</seg>
+      <tuv lang="be" changeid="alex" changedate="20121212T053400Z">
+        <seg>Дата/час файлу</seg>
       </tuv>
     </tu>
     <tu>
@@ -4053,6 +4103,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121208T164317Z">
         <seg>Выяўленчае мастацтва</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#21825</prop>
+      <tuv lang="en">
+        <seg>Firmware</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T053456Z">
+        <seg>Прашыўка</seg>
       </tuv>
     </tu>
     <tu>
@@ -4663,6 +4723,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121120T084408Z">
         <seg>Курсіў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#21808</prop>
+      <tuv lang="en">
+        <seg>JPEG process</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T053329Z">
+        <seg>Працэс JPEG</seg>
       </tuv>
     </tu>
     <tu>
