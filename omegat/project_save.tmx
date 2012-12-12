@@ -3107,6 +3107,26 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#34201</prop>
+      <tuv lang="en">
+        <seg>Can't find a next item to play</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T114322Z">
+        <seg>Ня знойдзена наступнага складніка для прайграваньня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#34202</prop>
+      <tuv lang="en">
+        <seg>Can't find a previous item to play</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T114332Z">
+        <seg>Ня знойдзена папярэдняга складніка для прайграваньня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#15280</prop>
       <tuv lang="en">
         <seg>Can't retrieve list from Last.fm...</seg>
@@ -10447,6 +10467,16 @@
     </tu>
     <tu>
       <prop type="file">skins/translations/xbmc-skins.skin-aeon-nox/en.po</prop>
+      <prop type="path">#31505</prop>
+      <tuv lang="en">
+        <seg>Programs</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T114100Z">
+        <seg>Праграмы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">skins/translations/xbmc-skins.skin-aeon-nox/en.po</prop>
       <prop type="path">#42313</prop>
       <tuv lang="en">
         <seg>Smart Playlist Content</seg>
@@ -10463,6 +10493,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121212T104720Z">
         <seg>Кіраўнік спрытнага сьпісу прайграваньня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">skins/translations/xbmc-skins.skin-aeon-nox/en.po</prop>
+      <prop type="path">#31506</prop>
+      <tuv lang="en">
+        <seg>System</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T114105Z">
+        <seg>Сыстэма</seg>
       </tuv>
     </tu>
     <tu>
