@@ -3967,6 +3967,26 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#21831</prop>
+      <tuv lang="en">
+        <seg>Exposure bias</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T054346Z">
+        <seg>Ускоснае насьвятленьне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#21832</prop>
+      <tuv lang="en">
+        <seg>Exposure mode</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T054425Z">
+        <seg>Рэжым насьвятленьня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#21830</prop>
       <tuv lang="en">
         <seg>Exposure time</seg>
