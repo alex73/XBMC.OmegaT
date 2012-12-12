@@ -5457,6 +5457,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#20329</prop>
+      <tuv lang="en">
+        <seg>Movies are in separate folders that match the movie title</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T060451Z">
+        <seg>Фільмы ў асобных каталёгах, якія адпавядаюць назвам фільмаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#10005</prop>
       <tuv lang="en">
         <seg>Music</seg>
@@ -8553,6 +8563,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121119T144150Z">
         <seg>Зацямняць экран падчас паўзы прайграваньня відэа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#20330</prop>
+      <tuv lang="en">
+        <seg>Use folder names for lookups</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T060536Z">
+        <seg>Выкарыстоўваць назвы каталёгаў для пошуку</seg>
       </tuv>
     </tu>
     <tu>
