@@ -1027,6 +1027,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.skin-confluence/en.po</prop>
+      <prop type="path">#31008</prop>
+      <tuv lang="en">
+        <seg>Fullscreen</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T063801Z">
+        <seg>На ўвесь экран</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.skin-confluence/en.po</prop>
       <prop type="path">#31307</prop>
       <tuv lang="en">
         <seg>Hide Fanart</seg>
@@ -1353,6 +1363,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121212T055635Z">
         <seg>Дзейны скрэпэр</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.skin-touched/en.po</prop>
+      <prop type="path">#31008</prop>
+      <tuv lang="en">
+        <seg>Fullscreen</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T063806Z">
+        <seg>На ўвесь экран</seg>
       </tuv>
     </tu>
     <tu>
@@ -9373,6 +9393,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121208T170040Z">
         <seg>ці націсьніце C каб скасаваць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">skins/translations/xbmc-skins.skin-aeon-nox/en.po</prop>
+      <prop type="path">#31053</prop>
+      <tuv lang="en">
+        <seg>Fullscreen</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T063815Z">
+        <seg>На ўвесь экран</seg>
       </tuv>
     </tu>
     <tu>
