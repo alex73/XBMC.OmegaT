@@ -4747,6 +4747,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#13405</prop>
+      <tuv lang="en">
+        <seg>Get thumb</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T064808Z">
+        <seg>Атрымаць мініятуры</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#20128</prop>
       <tuv lang="en">
         <seg>Go to root</seg>
