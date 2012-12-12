@@ -176,6 +176,26 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="file">addons/translations/xbmc-addons.service-libraryautoupdate/en.po</prop>
+      <prop type="path">#30003</prop>
+      <tuv lang="en">
+        <seg>Music</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T114030Z">
+        <seg>Музыка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">addons/translations/xbmc-addons.service-libraryautoupdate/en.po</prop>
+      <prop type="path">#30002</prop>
+      <tuv lang="en">
+        <seg>Video</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T114035Z">
+        <seg>Відэа</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.metadata-album-universal/en.po</prop>
       <prop type="path">#30003</prop>
       <tuv lang="en">
@@ -4353,6 +4373,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121208T164455Z">
         <seg>Конны спорт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#257</prop>
+      <tuv lang="en">
+        <seg>Error</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T113759Z">
+        <seg>Памылка</seg>
       </tuv>
     </tu>
     <tu>
@@ -10367,6 +10397,26 @@
     </tu>
     <tu>
       <prop type="file">skins/translations/xbmc-skins.skin-aeon-nox/en.po</prop>
+      <prop type="path">#31502</prop>
+      <tuv lang="en">
+        <seg>Movies</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T114045Z">
+        <seg>Фільмы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">skins/translations/xbmc-skins.skin-aeon-nox/en.po</prop>
+      <prop type="path">#31501</prop>
+      <tuv lang="en">
+        <seg>Music</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T114043Z">
+        <seg>Музыка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">skins/translations/xbmc-skins.skin-aeon-nox/en.po</prop>
       <prop type="path">#31022</prop>
       <tuv lang="en">
         <seg>Music - Files</seg>
@@ -10417,12 +10467,32 @@
     </tu>
     <tu>
       <prop type="file">skins/translations/xbmc-skins.skin-aeon-nox/en.po</prop>
+      <prop type="path">#31503</prop>
+      <tuv lang="en">
+        <seg>TV Shows</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T114050Z">
+        <seg>ТЫ шоў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">skins/translations/xbmc-skins.skin-aeon-nox/en.po</prop>
       <prop type="path">#42302</prop>
       <tuv lang="en">
         <seg>Type</seg>
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121212T104807Z">
         <seg>Тып</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">skins/translations/xbmc-skins.skin-aeon-nox/en.po</prop>
+      <prop type="path">#31504</prop>
+      <tuv lang="en">
+        <seg>Videos</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T114053Z">
+        <seg>Відэа</seg>
       </tuv>
     </tu>
     <tu>
