@@ -2247,6 +2247,26 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#13351</prop>
+      <tuv lang="en">
+        <seg>Album information</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T064204Z">
+        <seg>Зьвесткі пра альбом</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#24016</prop>
+      <tuv lang="en">
+        <seg>Album information</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T064222Z">
+        <seg>Зьвесткі пра альбом</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#132</prop>
       <tuv lang="en">
         <seg>Albums</seg>
@@ -2483,6 +2503,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121109T081931Z">
         <seg>Выканаўцы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#24017</prop>
+      <tuv lang="en">
+        <seg>Artist information</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T064233Z">
+        <seg>Зьвесткі пра артыста</seg>
       </tuv>
     </tu>
     <tu>
@@ -6447,6 +6477,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#15213</prop>
+      <tuv lang="en">
+        <seg>Play using...</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T064402Z">
+        <seg>Прайграць з дапамогай...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#14086</prop>
       <tuv lang="en">
         <seg>Playback</seg>
@@ -7703,6 +7743,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121119T150047Z">
         <seg>Праграмна</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#658</prop>
+      <tuv lang="en">
+        <seg>Song information</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T064428Z">
+        <seg>Зьвесткі пра інфармацыю</seg>
       </tuv>
     </tu>
     <tu>
