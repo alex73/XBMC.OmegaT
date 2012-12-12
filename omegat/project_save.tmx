@@ -16,6 +16,16 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="file">addons/translations/xbmc-addons.script-game-whatthemovie/en.po</prop>
+      <prop type="path">#3260</prop>
+      <tuv lang="en">
+        <seg>Next</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T065955Z">
+        <seg>Наступны</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="file">addons/translations/xbmc-addons.script-xbmcbackup/en.po</prop>
       <prop type="path">#30063</prop>
       <tuv lang="en">
@@ -3927,6 +3937,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#13391</prop>
+      <tuv lang="en">
+        <seg>Eject/Load</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T065805Z">
+        <seg>Прыняць / Узяць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#24022</prop>
       <tuv lang="en">
         <seg>Enable</seg>
@@ -5963,6 +5983,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121208T194343Z">
         <seg>Далей</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#209</prop>
+      <tuv lang="en">
+        <seg>Next</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T065943Z">
+        <seg>Наступны</seg>
       </tuv>
     </tu>
     <tu>
@@ -9653,6 +9683,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121121T083532Z">
         <seg>Схаваць ФанАрт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">skins/translations/xbmc-skins.skin-aeon-nox/en.po</prop>
+      <prop type="path">#31051</prop>
+      <tuv lang="en">
+        <seg>Next</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T065950Z">
+        <seg>Наступны</seg>
       </tuv>
     </tu>
     <tu>
