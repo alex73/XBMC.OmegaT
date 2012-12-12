@@ -2337,6 +2337,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#21826</prop>
+      <tuv lang="en">
+        <seg>Aperture</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T053626Z">
+        <seg>Дыяфрагма</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#480</prop>
       <tuv lang="en">
         <seg>Appearance</seg>
@@ -4133,6 +4143,26 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121119T144959Z">
         <seg>ТВ-шоў - цалкам</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#21827</prop>
+      <tuv lang="en">
+        <seg>Focal length</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T053643Z">
+        <seg>Фокусная адлегласьць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#21828</prop>
+      <tuv lang="en">
+        <seg>Focus distance</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T053759Z">
+        <seg>Фокус на адлегласьці</seg>
       </tuv>
     </tu>
     <tu>
