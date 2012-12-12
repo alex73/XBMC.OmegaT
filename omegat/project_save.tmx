@@ -5787,6 +5787,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#20395</prop>
+      <tuv lang="en">
+        <seg>Mixed</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T113537Z">
+        <seg>Зьмяшаны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#19149</prop>
       <tuv lang="en">
         <seg>Mo</seg>
@@ -6367,6 +6377,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#16031</prop>
+      <tuv lang="en">
+        <seg>No matching songs in the library.</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T113745Z">
+        <seg>Няма адпаведных кампазыцый у бібліятэцы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#414</prop>
       <tuv lang="en">
         <seg>No review for this album</seg>
@@ -6747,6 +6767,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#16030</prop>
+      <tuv lang="en">
+        <seg>Party mode aborted.</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T113703Z">
+        <seg>Рэжым вечарынкі перапынены.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#16035</prop>
       <tuv lang="en">
         <seg>Party mode playlist</seg>
@@ -6923,6 +6953,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121109T082256Z">
         <seg>Прайграць адсюль</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#15216</prop>
+      <tuv lang="en">
+        <seg>Play in party mode</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T113632Z">
+        <seg>Граць у рэжыме вечарынкі</seg>
       </tuv>
     </tu>
     <tu>
