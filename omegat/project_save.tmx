@@ -5607,6 +5607,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#175</prop>
+      <tuv lang="en">
+        <seg>Moods</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T065538Z">
+        <seg>Настроі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#372</prop>
       <tuv lang="en">
         <seg>Mostly</seg>
@@ -7357,6 +7367,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#181</prop>
+      <tuv lang="en">
+        <seg>Select album</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T065614Z">
+        <seg>Абраць альбом</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#19213</prop>
       <tuv lang="en">
         <seg>Select backend</seg>
@@ -8097,6 +8117,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#176</prop>
+      <tuv lang="en">
+        <seg>Styles</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T065545Z">
+        <seg>Стылі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#19155</prop>
       <tuv lang="en">
         <seg>Su</seg>
@@ -8703,6 +8733,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121212T064602Z">
         <seg>Трэк</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#182</prop>
+      <tuv lang="en">
+        <seg>Tracks</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T065607Z">
+        <seg>Трэкі</seg>
       </tuv>
     </tu>
     <tu>
