@@ -3977,6 +3977,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#21432</prop>
+      <tuv lang="en">
+        <seg>Edit smart playlist</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T103841Z">
+        <seg>Рэдагаваць сьпіс прайграваньня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#1027</prop>
       <tuv lang="en">
         <seg>Edit source</seg>
@@ -4493,6 +4503,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121109T081727Z">
         <seg>Фільтраваць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#21434</prop>
+      <tuv lang="en">
+        <seg>Find items where</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T103943Z">
+        <seg>Дзе шукаць складнікі</seg>
       </tuv>
     </tu>
     <tu>
@@ -5903,6 +5923,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121109T081906Z">
         <seg>Назьве</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#21433</prop>
+      <tuv lang="en">
+        <seg>Name of the playlist</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T103852Z">
+        <seg>Назва сьпісу прайграваньня</seg>
       </tuv>
     </tu>
     <tu>
