@@ -2,3 +2,4 @@ artist	выканаўца
 song	кампазыцыя
 thumbnail	мініятура
 slideshow	слайдшоў
+set	прызначыць, вызначыць
