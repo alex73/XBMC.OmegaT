@@ -3487,6 +3487,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19281</prop>
+      <tuv lang="en">
+        <seg>Confirm channel switches by pressing OK</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T115139Z">
+        <seg>Пацьвярджаць зьмену каналу націсканьнем OK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#36019</prop>
       <tuv lang="en">
         <seg>Connected to HDMI device</seg>
@@ -3793,6 +3803,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121121T091951Z">
         <seg>Рабіць deinterlace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19073</prop>
+      <tuv lang="en">
+        <seg>Delay channel switch</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T115250Z">
+        <seg>Затрымаць пераключэньне каналу</seg>
       </tuv>
     </tu>
     <tu>
@@ -8367,6 +8387,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19008</prop>
+      <tuv lang="en">
+        <seg>Signal quality</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T115025Z">
+        <seg>Якасьць сыгналу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#15261</prop>
       <tuv lang="en">
         <seg>Similar artists as %name%</seg>
@@ -9243,6 +9273,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121208T194330Z">
         <seg>Часавая шкала</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19170</prop>
+      <tuv lang="en">
+        <seg>Timeout when starting playback</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T115108Z">
+        <seg>Тэрмін чаканьня пачатку прайграваньня</seg>
       </tuv>
     </tu>
     <tu>
