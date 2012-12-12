@@ -1981,8 +1981,8 @@
       <tuv lang="en">
         <seg>Add to favourites</seg>
       </tuv>
-      <tuv lang="be" changeid="Alex" changedate="20121109T081226Z">
-        <seg>Дадаць ў упадабаныя</seg>
+      <tuv lang="be" changeid="alex" changedate="20121212T053101Z">
+        <seg>Дадаць да ўпадабаных</seg>
       </tuv>
     </tu>
     <tu>
@@ -3957,6 +3957,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#21803</prop>
+      <tuv lang="en">
+        <seg>File date/time</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T053212Z">
+        <seg>Час стварэньня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#14081</prop>
       <tuv lang="en">
         <seg>File lists</seg>
@@ -3973,6 +3983,36 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121112T083248Z">
         <seg>Кіраўнік файламі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#21800</prop>
+      <tuv lang="en">
+        <seg>File name</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T053118Z">
+        <seg>Назва файлу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#21801</prop>
+      <tuv lang="en">
+        <seg>File path</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T053124Z">
+        <seg>Каталёг файлу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#21802</prop>
+      <tuv lang="en">
+        <seg>File size</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T053130Z">
+        <seg>Памер файлу</seg>
       </tuv>
     </tu>
     <tu>
@@ -4253,6 +4293,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121109T082707Z">
         <seg>Атрымаць больш...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#20128</prop>
+      <tuv lang="en">
+        <seg>Go to root</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T052951Z">
+        <seg>Перайсьці да пачатку</seg>
       </tuv>
     </tu>
     <tu>
@@ -7523,6 +7573,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121106T155848Z">
         <seg>Прыпыніць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#523</prop>
+      <tuv lang="en">
+        <seg>Switch media</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T053021Z">
+        <seg>Пераключыць медыі</seg>
       </tuv>
     </tu>
     <tu>
