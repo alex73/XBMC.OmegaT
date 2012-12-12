@@ -1197,6 +1197,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.skin-confluence/en.po</prop>
+      <prop type="path">#31325</prop>
+      <tuv lang="en">
+        <seg>Playlist Options</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T113035Z">
+        <seg>Налады сьпісу прайграваньня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.skin-confluence/en.po</prop>
       <prop type="path">#31317</prop>
       <tuv lang="en">
         <seg>Set Fanart Path</seg>
@@ -3607,6 +3617,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#570</prop>
+      <tuv lang="en">
+        <seg>Date added</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T113138Z">
+        <seg>Калі дададзены</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#21820</prop>
       <tuv lang="en">
         <seg>Date/Time</seg>
@@ -3923,6 +3943,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121109T084942Z">
         <seg>імжа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#180</prop>
+      <tuv lang="en">
+        <seg>Duration</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T113019Z">
+        <seg>Працягласьць</seg>
       </tuv>
     </tu>
     <tu>
@@ -5417,6 +5447,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#568</prop>
+      <tuv lang="en">
+        <seg>Last played</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T112953Z">
+        <seg>Апошняе прайграваньне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#14022</prop>
       <tuv lang="en">
         <seg>Library</seg>
@@ -6833,6 +6873,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121120T085415Z">
         <seg>Прайграваць DVDы аўтаматычна</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#567</prop>
+      <tuv lang="en">
+        <seg>Play count</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T112945Z">
+        <seg>Колькасьць прайграваньняў</seg>
       </tuv>
     </tu>
     <tu>
@@ -8503,6 +8553,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121119T151046Z">
         <seg>Расьцягнутае 4:3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#572</prop>
+      <tuv lang="en">
+        <seg>Studio</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T113119Z">
+        <seg>Студыя</seg>
       </tuv>
     </tu>
     <tu>
@@ -10207,6 +10267,16 @@
     </tu>
     <tu>
       <prop type="file">skins/translations/xbmc-skins.skin-aeon-nox/en.po</prop>
+      <prop type="path">#52017</prop>
+      <tuv lang="en">
+        <seg>Duration</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T113014Z">
+        <seg>Працягласьць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">skins/translations/xbmc-skins.skin-aeon-nox/en.po</prop>
       <prop type="path">#31053</prop>
       <tuv lang="en">
         <seg>Fullscreen</seg>
@@ -10243,6 +10313,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121212T065950Z">
         <seg>Наступны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">skins/translations/xbmc-skins.skin-aeon-nox/en.po</prop>
+      <prop type="path">#31325</prop>
+      <tuv lang="en">
+        <seg>Playlist options</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T113051Z">
+        <seg>Налады сьпісу прайграваньня</seg>
       </tuv>
     </tu>
     <tu>
@@ -10397,6 +10477,16 @@
     </tu>
     <tu>
       <prop type="file">skins/translations/xbmc-skins.skin-essence/en.po</prop>
+      <prop type="path">#31325</prop>
+      <tuv lang="en">
+        <seg>Playlist Options</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T113054Z">
+        <seg>Налады сьпісу прайграваньня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">skins/translations/xbmc-skins.skin-essence/en.po</prop>
       <prop type="path">#31317</prop>
       <tuv lang="en">
         <seg>Set Fanart Path</seg>
@@ -10543,6 +10633,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121212T070136Z">
         <seg>Музыка - Файлы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">skins/translations/xbmc-skins.skin-hybrid/en.po</prop>
+      <prop type="path">#31325</prop>
+      <tuv lang="en">
+        <seg>Playlist Options</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T113056Z">
+        <seg>Налады сьпісу прайграваньня</seg>
       </tuv>
     </tu>
     <tu>
