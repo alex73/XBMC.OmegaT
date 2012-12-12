@@ -1047,6 +1047,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.skin-confluence/en.po</prop>
+      <prop type="path">#31910</prop>
+      <tuv lang="en">
+        <seg>Map &amp; Alerts</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T050430Z">
+        <seg>Мапа і перасьцярогі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.skin-confluence/en.po</prop>
       <prop type="path">#31026</prop>
       <tuv lang="en">
         <seg>Misc Options</seg>
@@ -2123,6 +2133,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121120T092019Z">
         <seg>Альбомы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#33050</prop>
+      <tuv lang="en">
+        <seg>Alerts</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T050451Z">
+        <seg>Перасьцярогі</seg>
       </tuv>
     </tu>
     <tu>
@@ -8587,6 +8607,26 @@
     </tu>
     <tu>
       <prop type="file">skins/translations/xbmc-skins.skin-essence/en.po</prop>
+      <prop type="path">#31901</prop>
+      <tuv lang="en">
+        <seg>36 Hour Forecast</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T050301Z">
+        <seg>Прагноз на 36 гадзінаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">skins/translations/xbmc-skins.skin-essence/en.po</prop>
+      <prop type="path">#31905</prop>
+      <tuv lang="en">
+        <seg>Forecast</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T050308Z">
+        <seg>Прагноз</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">skins/translations/xbmc-skins.skin-essence/en.po</prop>
       <prop type="path">#31307</prop>
       <tuv lang="en">
         <seg>Hide Fanart</seg>
@@ -8597,12 +8637,32 @@
     </tu>
     <tu>
       <prop type="file">skins/translations/xbmc-skins.skin-essence/en.po</prop>
+      <prop type="path">#31902</prop>
+      <tuv lang="en">
+        <seg>Hourly Forecast</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T050303Z">
+        <seg>Пагадзінны прагноз</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">skins/translations/xbmc-skins.skin-essence/en.po</prop>
       <prop type="path">#31317</prop>
       <tuv lang="en">
         <seg>Set Fanart Path</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121121T083638Z">
         <seg>Шлях да ФанАрт'у</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">skins/translations/xbmc-skins.skin-essence/en.po</prop>
+      <prop type="path">#31903</prop>
+      <tuv lang="en">
+        <seg>Weekend Forecast</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T050305Z">
+        <seg>Прагноз на выходныя</seg>
       </tuv>
     </tu>
     <tu>
