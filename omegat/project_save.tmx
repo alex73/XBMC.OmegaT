@@ -5197,6 +5197,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#21899</prop>
+      <tuv lang="en">
+        <seg>Label</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T065314Z">
+        <seg>Лэйбл</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#248</prop>
       <tuv lang="en">
         <seg>Language</seg>
@@ -6003,6 +6013,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121212T051420Z">
         <seg>Зьвесткі недаступныя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#414</prop>
+      <tuv lang="en">
+        <seg>No review for this album</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T065142Z">
+        <seg>Няма рэцэнзій на гэты альбом</seg>
       </tuv>
     </tu>
     <tu>
