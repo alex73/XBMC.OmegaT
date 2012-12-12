@@ -1927,6 +1927,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#15019</prop>
+      <tuv lang="en">
+        <seg>Add</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T052118Z">
+        <seg>Дадаць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#1020</prop>
       <tuv lang="en">
         <seg>Add %s source</seg>
@@ -6067,6 +6077,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#361</prop>
+      <tuv lang="en">
+        <seg>R. Slideshow</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T052303Z">
+        <seg>Слайдшоў R.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#19021</prop>
       <tuv lang="en">
         <seg>Radio</seg>
@@ -6083,6 +6103,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121109T085003Z">
         <seg>дождж</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#13319</prop>
+      <tuv lang="en">
+        <seg>Randomize</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T052153Z">
+        <seg>Выпадковы</seg>
       </tuv>
     </tu>
     <tu>
@@ -6213,6 +6243,26 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121208T164333Z">
         <seg>Рэлігія</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#1210</prop>
+      <tuv lang="en">
+        <seg>Remove</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T052040Z">
+        <seg>Выдаліць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#15015</prop>
+      <tuv lang="en">
+        <seg>Remove</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T052058Z">
+        <seg>Выдаліць</seg>
       </tuv>
     </tu>
     <tu>
@@ -8643,6 +8693,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121212T051645Z">
         <seg>Верагоднасьць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">skins/translations/xbmc-skins.skin-essence/en.po</prop>
+      <prop type="path">#31909</prop>
+      <tuv lang="en">
+        <seg>Fetching forecast info...</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T051708Z">
+        <seg>Атрымоўваем прагноз надвор'я...</seg>
       </tuv>
     </tu>
     <tu>
