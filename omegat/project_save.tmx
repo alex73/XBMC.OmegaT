@@ -2797,6 +2797,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#21839</prop>
+      <tuv lang="en">
+        <seg>CCD width</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T054734Z">
+        <seg>Шырыня CCD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#22011</prop>
       <tuv lang="en">
         <seg>CPU temperature:</seg>
@@ -3507,6 +3517,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#21838</prop>
+      <tuv lang="en">
+        <seg>Digital zoom</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T054715Z">
+        <seg>Лічбавае павілічэньне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#24021</prop>
       <tuv lang="en">
         <seg>Disable</seg>
@@ -4177,6 +4197,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#21833</prop>
+      <tuv lang="en">
+        <seg>Flash used</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T054552Z">
+        <seg>Фотаўспышка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#20412</prop>
       <tuv lang="en">
         <seg>Flatten TV shows</seg>
@@ -4353,6 +4383,26 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121121T093121Z">
         <seg>Увесь экран</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#21840</prop>
+      <tuv lang="en">
+        <seg>GPS latitude</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T054801Z">
+        <seg>Шырата</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#21841</prop>
+      <tuv lang="en">
+        <seg>GPS longitude</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T054805Z">
+        <seg>Даўгата</seg>
       </tuv>
     </tu>
     <tu>
@@ -4927,6 +4977,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#21835</prop>
+      <tuv lang="en">
+        <seg>Light source</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T054630Z">
+        <seg>Крыніца сьвятла</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#535</prop>
       <tuv lang="en">
         <seg>List</seg>
@@ -5143,6 +5203,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121208T193520Z">
         <seg>Мэню/OSD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#21836</prop>
+      <tuv lang="en">
+        <seg>Metering mode</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T054645Z">
+        <seg>Рэжым вымярэньня</seg>
       </tuv>
     </tu>
     <tu>
@@ -8693,6 +8763,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121120T091735Z">
         <seg>Белы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#21834</prop>
+      <tuv lang="en">
+        <seg>White-balance</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T054613Z">
+        <seg>Балянс белага</seg>
       </tuv>
     </tu>
     <tu>
