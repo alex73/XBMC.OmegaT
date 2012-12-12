@@ -5927,6 +5927,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#20389</prop>
+      <tuv lang="en">
+        <seg>Music videos</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T112537Z">
+        <seg>Музычныя відэа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#19580</prop>
       <tuv lang="en">
         <seg>Music/Ballet/Dance</seg>
