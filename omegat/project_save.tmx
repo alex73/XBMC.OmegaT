@@ -1437,6 +1437,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.skin-touched/en.po</prop>
+      <prop type="path">#31325</prop>
+      <tuv lang="en">
+        <seg>Playlist Options</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T105231Z">
+        <seg>Налады сьпісу прайграваньня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.skin-touched/en.po</prop>
       <prop type="path">#31390</prop>
       <tuv lang="en">
         <seg>Skin default</seg>
@@ -5543,6 +5553,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121208T164448Z">
         <seg>Баявы спорт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#21422</prop>
+      <tuv lang="en">
+        <seg>Match items where</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T105302Z">
+        <seg>Супадзеньне складніку</seg>
       </tuv>
     </tu>
     <tu>
