@@ -6527,6 +6527,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#21429</prop>
+      <tuv lang="en">
+        <seg>Order by</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T111818Z">
+        <seg>Упарадкавана па</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#21843</prop>
       <tuv lang="en">
         <seg>Orientation</seg>
@@ -9977,6 +9987,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#21430</prop>
+      <tuv lang="en">
+        <seg>ascending</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T111857Z">
+        <seg>наўпрост</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#21409</prop>
       <tuv lang="en">
         <seg>before</seg>
@@ -9993,6 +10013,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121212T105527Z">
         <seg>утрымлівае</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#21431</prop>
+      <tuv lang="en">
+        <seg>descending</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T111903Z">
+        <seg>адваротна</seg>
       </tuv>
     </tu>
     <tu>
