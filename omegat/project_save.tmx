@@ -87,6 +87,16 @@
     </tu>
     <tu>
       <prop type="file">addons/translations/xbmc-addons.script-xbmcbackup/en.po</prop>
+      <prop type="path">#30033</prop>
+      <tuv lang="en">
+        <seg>Playlist</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T105335Z">
+        <seg>Сьпіс прайграваньня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">addons/translations/xbmc-addons.script-xbmcbackup/en.po</prop>
       <prop type="path">#30071</prop>
       <tuv lang="en">
         <seg>Saturday</seg>
@@ -6807,6 +6817,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#559</prop>
+      <tuv lang="en">
+        <seg>Playlist</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T105340Z">
+        <seg>Сьпіс прайграваньня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#136</prop>
       <tuv lang="en">
         <seg>Playlists</seg>
@@ -9887,6 +9907,96 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#21408</prop>
+      <tuv lang="en">
+        <seg>after</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T105549Z">
+        <seg>пасьля</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#21409</prop>
+      <tuv lang="en">
+        <seg>before</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T105557Z">
+        <seg>перад</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#21400</prop>
+      <tuv lang="en">
+        <seg>contains</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T105527Z">
+        <seg>утрымлівае</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#21401</prop>
+      <tuv lang="en">
+        <seg>does not contain</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T105531Z">
+        <seg>не ўтрымлівае</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#21405</prop>
+      <tuv lang="en">
+        <seg>ends with</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T105541Z">
+        <seg>сканчаецца на</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#21406</prop>
+      <tuv lang="en">
+        <seg>greater than</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T105449Z">
+        <seg>большы за</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#21402</prop>
+      <tuv lang="en">
+        <seg>is</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T105440Z">
+        <seg>супадае з</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#21403</prop>
+      <tuv lang="en">
+        <seg>is not</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T105437Z">
+        <seg>не супадае з</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#21407</prop>
+      <tuv lang="en">
+        <seg>less than</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T105456Z">
+        <seg>меншы за</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#1443</prop>
       <tuv lang="en">
         <seg>of</seg>
@@ -9903,6 +10013,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121208T170040Z">
         <seg>ці націсьніце C каб скасаваць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#21404</prop>
+      <tuv lang="en">
+        <seg>starts with</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T105435Z">
+        <seg>пачынаецца з </seg>
       </tuv>
     </tu>
     <tu>
