@@ -2957,6 +2957,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#20019</prop>
+      <tuv lang="en">
+        <seg>Choose thumbnail</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T052434Z">
+        <seg>Абраць мініятуру</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#21873</prop>
       <tuv lang="en">
         <seg>City</seg>
@@ -4747,6 +4757,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#505</prop>
+      <tuv lang="en">
+        <seg>Loading media info from files...</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T052612Z">
+        <seg>Чытаем зьвесткі мэдыяў з файлаў...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#19257</prop>
       <tuv lang="en">
         <seg>Lock channel</seg>
@@ -4793,6 +4813,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121119T150653Z">
         <seg>Нізкая(хутка)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#13335</prop>
+      <tuv lang="en">
+        <seg>Make default</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T052344Z">
+        <seg>Зрабіць пачатковай</seg>
       </tuv>
     </tu>
     <tu>
@@ -6277,6 +6307,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#522</prop>
+      <tuv lang="en">
+        <seg>Remove source</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T052408Z">
+        <seg>Выдаліць крыніцу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#118</prop>
       <tuv lang="en">
         <seg>Rename</seg>
@@ -6513,6 +6553,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121208T194003Z">
         <seg>Сканаваць для адсутных значкаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#189</prop>
+      <tuv lang="en">
+        <seg>Scanning media info</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T052554Z">
+        <seg>Сканаваньне зьвестак мэдыяў</seg>
       </tuv>
     </tu>
     <tu>
