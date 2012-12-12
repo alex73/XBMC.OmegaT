@@ -4017,6 +4017,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#586</prop>
+      <tuv lang="en">
+        <seg>Edit playlist</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T112847Z">
+        <seg>Рэдагаваць сьпіс прайграваньня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#21432</prop>
       <tuv lang="en">
         <seg>Edit smart playlist</seg>
@@ -4117,12 +4127,32 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#16014</prop>
+      <tuv lang="en">
+        <seg>Enter folder name</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T112808Z">
+        <seg>Увядзіце назву каталёгу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#12327</prop>
       <tuv lang="en">
         <seg>Enter master code</seg>
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121208T165951Z">
         <seg>Увядзіце майстар-код</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#16013</prop>
+      <tuv lang="en">
+        <seg>Enter new filename</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T112755Z">
+        <seg>Увядзіце новую назву файла</seg>
       </tuv>
     </tu>
     <tu>
@@ -4193,6 +4223,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121109T083019Z">
         <seg>Увядзіце шлях ці абярыце месца медыяфайлаў.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#16012</prop>
+      <tuv lang="en">
+        <seg>Enter the playlist name</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T112633Z">
+        <seg>Увядзіце назву сьпісу прайграваньня</seg>
       </tuv>
     </tu>
     <tu>
