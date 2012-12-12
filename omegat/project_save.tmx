@@ -1137,6 +1137,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.skin-confluence/en.po</prop>
+      <prop type="path">#31022</prop>
+      <tuv lang="en">
+        <seg>Music - Files</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T070113Z">
+        <seg>Музыка - Файлы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.skin-confluence/en.po</prop>
       <prop type="path">#31040</prop>
       <tuv lang="en">
         <seg>Now Playing</seg>
@@ -1223,6 +1233,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121109T081551Z">
         <seg>Адваротнае сартаваньне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.skin-confluence/en.po</prop>
+      <prop type="path">#31009</prop>
+      <tuv lang="en">
+        <seg>Total Duration</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T070300Z">
+        <seg>Агульная працягласьць</seg>
       </tuv>
     </tu>
     <tu>
@@ -1383,6 +1403,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121212T063806Z">
         <seg>На ўвесь экран</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.skin-touched/en.po</prop>
+      <prop type="path">#31012</prop>
+      <tuv lang="en">
+        <seg>Music - Files</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T070125Z">
+        <seg>Музыка - Файлы</seg>
       </tuv>
     </tu>
     <tu>
@@ -5747,6 +5777,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#10516</prop>
+      <tuv lang="en">
+        <seg>Music - Library</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T070128Z">
+        <seg>Музыка - Бібліятэка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#1038</prop>
       <tuv lang="en">
         <seg>Music Add-ons</seg>
@@ -9687,6 +9727,16 @@
     </tu>
     <tu>
       <prop type="file">skins/translations/xbmc-skins.skin-aeon-nox/en.po</prop>
+      <prop type="path">#31022</prop>
+      <tuv lang="en">
+        <seg>Music - Files</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T070130Z">
+        <seg>Музыка - Файлы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">skins/translations/xbmc-skins.skin-aeon-nox/en.po</prop>
       <prop type="path">#31051</prop>
       <tuv lang="en">
         <seg>Next</seg>
@@ -9807,12 +9857,32 @@
     </tu>
     <tu>
       <prop type="file">skins/translations/xbmc-skins.skin-essence/en.po</prop>
+      <prop type="path">#31022</prop>
+      <tuv lang="en">
+        <seg>Music - Files</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T070133Z">
+        <seg>Музыка - Файлы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">skins/translations/xbmc-skins.skin-essence/en.po</prop>
       <prop type="path">#31317</prop>
       <tuv lang="en">
         <seg>Set Fanart Path</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121121T083638Z">
         <seg>Шлях да ФанАрт'у</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">skins/translations/xbmc-skins.skin-essence/en.po</prop>
+      <prop type="path">#31009</prop>
+      <tuv lang="en">
+        <seg>Total Duration</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T070307Z">
+        <seg>Агульная працягласьць</seg>
       </tuv>
     </tu>
     <tu>
@@ -9927,12 +9997,42 @@
     </tu>
     <tu>
       <prop type="file">skins/translations/xbmc-skins.skin-hybrid/en.po</prop>
+      <prop type="path">#31022</prop>
+      <tuv lang="en">
+        <seg>Music - Files</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T070136Z">
+        <seg>Музыка - Файлы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">skins/translations/xbmc-skins.skin-hybrid/en.po</prop>
       <prop type="path">#31317</prop>
       <tuv lang="en">
         <seg>Set Fanart Path</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121121T083629Z">
         <seg>Шлях да ФанАрт'у</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">skins/translations/xbmc-skins.skin-hybrid/en.po</prop>
+      <prop type="path">#31009</prop>
+      <tuv lang="en">
+        <seg>Total Duration</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T070310Z">
+        <seg>Агульная працягласьць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">skins/translations/xbmc-skins.skin-hybrid/en.po</prop>
+      <prop type="path">#31021</prop>
+      <tuv lang="en">
+        <seg>Video - Files</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T070148Z">
+        <seg>Відэа - Файлы</seg>
       </tuv>
     </tu>
     <tu>
