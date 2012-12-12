@@ -6,6 +6,16 @@
 <!-- Default translations -->
 <!-- Alternative translations -->
     <tu>
+      <prop type="file">addons/translations/xbmc-addons.plugin-video-pakee/en.po</prop>
+      <prop type="path">#30051</prop>
+      <tuv lang="en">
+        <seg>Start slideshow</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T052827Z">
+        <seg>Пачаць слайдшоў</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="file">addons/translations/xbmc-addons.script-xbmcbackup/en.po</prop>
       <prop type="path">#30063</prop>
       <tuv lang="en">
@@ -5807,6 +5817,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#13406</prop>
+      <tuv lang="en">
+        <seg>Picture information</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T052716Z">
+        <seg>Зьвесткі відарыса</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#1</prop>
       <tuv lang="en">
         <seg>Pictures</seg>
@@ -6253,6 +6273,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121112T081907Z">
         <seg>Абнавіць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#13315</prop>
+      <tuv lang="en">
+        <seg>Regenerate thumbnails</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T052924Z">
+        <seg>Перастварыць мініятуры</seg>
       </tuv>
     </tu>
     <tu>
@@ -6837,6 +6867,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#14082</prop>
+      <tuv lang="en">
+        <seg>Show EXIF picture information</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T052734Z">
+        <seg>Паказваць EXIF зьвесткі відарыса</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#22081</prop>
       <tuv lang="en">
         <seg>Show Information</seg>
@@ -7253,6 +7293,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121120T093052Z">
         <seg>Пачаць запіс</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#13422</prop>
+      <tuv lang="en">
+        <seg>Start slideshow here</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T052838Z">
+        <seg>Пачаць слайдшоў адсюль</seg>
       </tuv>
     </tu>
     <tu>
