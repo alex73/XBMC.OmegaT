@@ -1997,6 +1997,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#20337</prop>
+      <tuv lang="en">
+        <seg>Actor</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T060744Z">
+        <seg>Актор</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#15019</prop>
       <tuv lang="en">
         <seg>Add</seg>
@@ -3587,6 +3597,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#20339</prop>
+      <tuv lang="en">
+        <seg>Director</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T060758Z">
+        <seg>Рэжысэр</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#24021</prop>
       <tuv lang="en">
         <seg>Disable</seg>
@@ -3987,6 +4007,26 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#20359</prop>
+      <tuv lang="en">
+        <seg>Episode</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T060824Z">
+        <seg>Эпізод</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#20360</prop>
+      <tuv lang="en">
+        <seg>Episodes</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T060827Z">
+        <seg>Эпізоды</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#19558</prop>
       <tuv lang="en">
         <seg>Equestrian</seg>
@@ -4153,6 +4193,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121106T155536Z">
         <seg>Адчуваецца як</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#20331</prop>
+      <tuv lang="en">
+        <seg>File</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T060803Z">
+        <seg>Файл</seg>
       </tuv>
     </tu>
     <tu>
@@ -4333,6 +4383,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121109T084939Z">
         <seg>туман</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#20334</prop>
+      <tuv lang="en">
+        <seg>Folder</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T060732Z">
+        <seg>Каталёг</seg>
       </tuv>
     </tu>
     <tu>
@@ -5433,6 +5493,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121112T073515Z">
         <seg>Перамясьціць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#20338</prop>
+      <tuv lang="en">
+        <seg>Movie</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T060740Z">
+        <seg>Фільм</seg>
       </tuv>
     </tu>
     <tu>
@@ -7201,8 +7271,8 @@
       <tuv lang="en">
         <seg>Set content</seg>
       </tuv>
-      <tuv lang="be" changeid="alex" changedate="20121212T055420Z">
-        <seg>Усталяваць зьмесьціва</seg>
+      <tuv lang="be" changeid="alex" changedate="20121212T060726Z">
+        <seg>Вызначыць зьмесьціва</seg>
       </tuv>
     </tu>
     <tu>
@@ -8063,6 +8133,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121112T093544Z">
         <seg>ТВ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#20364</prop>
+      <tuv lang="en">
+        <seg>TV show</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T060833Z">
+        <seg>ТВ шоў</seg>
       </tuv>
     </tu>
     <tu>
