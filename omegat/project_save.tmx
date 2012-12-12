@@ -7097,6 +7097,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#13352</prop>
+      <tuv lang="en">
+        <seg>Scan item to library</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T064057Z">
+        <seg>Сканаваць складнікі ў бібліятэку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#20346</prop>
       <tuv lang="en">
         <seg>Scan recursively</seg>
@@ -7913,6 +7923,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121120T093057Z">
         <seg>Спыніць запіс</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#13353</prop>
+      <tuv lang="en">
+        <seg>Stop scanning</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T064112Z">
+        <seg>Спыніць сканаваньне</seg>
       </tuv>
     </tu>
     <tu>
@@ -9497,6 +9517,16 @@
     </tu>
     <tu>
       <prop type="file">skins/translations/xbmc-skins.skin-essence/en.po</prop>
+      <prop type="path">#31008</prop>
+      <tuv lang="en">
+        <seg>Fullscreen</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T063838Z">
+        <seg>На ўвесь экран</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">skins/translations/xbmc-skins.skin-essence/en.po</prop>
       <prop type="path">#31307</prop>
       <tuv lang="en">
         <seg>Hide Fanart</seg>
@@ -9607,6 +9637,16 @@
     </tu>
     <tu>
       <prop type="file">skins/translations/xbmc-skins.skin-hybrid/en.po</prop>
+      <prop type="path">#31008</prop>
+      <tuv lang="en">
+        <seg>Fullscreen</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T063846Z">
+        <seg>На ўвесь экран</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">skins/translations/xbmc-skins.skin-hybrid/en.po</prop>
       <prop type="path">#31307</prop>
       <tuv lang="en">
         <seg>Hide Fanart</seg>
@@ -9653,6 +9693,26 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121212T050017Z">
         <seg>Прагноз на выходныя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">skins/translations/xbmc-skins.skin-transparency/en.po</prop>
+      <prop type="path">#31146</prop>
+      <tuv lang="en">
+        <seg>Always play trailers fullscreen</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T063911Z">
+        <seg>Заўсёды прайграваць трэйлеры на ўвесь экран</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">skins/translations/xbmc-skins.skin-transparency/en.po</prop>
+      <prop type="path">#31149</prop>
+      <tuv lang="en">
+        <seg>Hide trailer icon</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T063932Z">
+        <seg>Схаваць значак трэйлера</seg>
       </tuv>
     </tu>
   </body>
