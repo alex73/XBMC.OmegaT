@@ -7537,6 +7537,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#21412</prop>
+      <tuv lang="en">
+        <seg>Scrapers</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T111138Z">
+        <seg>Скрэпэры</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#13287</prop>
       <tuv lang="en">
         <seg>Screen resolution:</seg>
@@ -9967,6 +9977,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#21410</prop>
+      <tuv lang="en">
+        <seg>in the last</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T111123Z">
+        <seg>у апошніх</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#21402</prop>
       <tuv lang="en">
         <seg>is</seg>
@@ -9993,6 +10013,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121212T105456Z">
         <seg>меншы за</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#21411</prop>
+      <tuv lang="en">
+        <seg>not in the last</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T111128Z">
+        <seg>не ў апошніх</seg>
       </tuv>
     </tu>
     <tu>
