@@ -7811,8 +7811,8 @@
       <tuv lang="en">
         <seg>Song information</seg>
       </tuv>
-      <tuv lang="be" changeid="alex" changedate="20121212T064428Z">
-        <seg>Зьвесткі пра інфармацыю</seg>
+      <tuv lang="be" changeid="alex" changedate="20121212T064945Z">
+        <seg>Зьвесткі пра кампазыцыю</seg>
       </tuv>
     </tu>
     <tu>
@@ -8763,6 +8763,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121112T085506Z">
         <seg>Немагчыма зладаваць аздабленьне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#161</prop>
+      <tuv lang="en">
+        <seg>Unavailable</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T065035Z">
+        <seg>Недаступна</seg>
       </tuv>
     </tu>
     <tu>
