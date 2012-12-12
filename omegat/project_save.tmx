@@ -3991,8 +3991,8 @@
       <tuv lang="en">
         <seg>Edit smart playlist</seg>
       </tuv>
-      <tuv lang="be" changeid="alex" changedate="20121212T103841Z">
-        <seg>Рэдагаваць сьпіс прайграваньня</seg>
+      <tuv lang="be" changeid="alex" changedate="20121212T104607Z">
+        <seg>Рэдагаваць спрытны сьпіс прайграваньня</seg>
       </tuv>
     </tu>
     <tu>
@@ -6057,6 +6057,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#21437</prop>
+      <tuv lang="en">
+        <seg>New smart playlist...</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T104622Z">
+        <seg>Новы спрытны сьпіс прайграваньня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#19518</prop>
       <tuv lang="en">
         <seg>News Magazine</seg>
@@ -7997,6 +8007,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#21421</prop>
+      <tuv lang="en">
+        <seg>Smart playlist rule</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T104639Z">
+        <seg>Правілы спрытнага сьпісу прайграваньня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#375</prop>
       <tuv lang="en">
         <seg>Snow</seg>
@@ -9863,6 +9883,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121212T065950Z">
         <seg>Наступны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">skins/translations/xbmc-skins.skin-aeon-nox/en.po</prop>
+      <prop type="path">#42313</prop>
+      <tuv lang="en">
+        <seg>Smart Playlist Content</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T104700Z">
+        <seg>Зьмесьціва спрытнага сьпісу прайграваньня</seg>
       </tuv>
     </tu>
     <tu>
