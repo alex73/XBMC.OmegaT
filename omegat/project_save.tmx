@@ -2867,6 +2867,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19244</prop>
+      <tuv lang="en">
+        <seg>Backend idle time</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T115702Z">
+        <seg>Час чаканьня цюнеру</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#19585</prop>
       <tuv lang="en">
         <seg>Ballet</seg>
@@ -3683,6 +3693,26 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121121T095507Z">
         <seg>DXVA лепшы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19247</prop>
+      <tuv lang="en">
+        <seg>Daily wakeup</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T115852Z">
+        <seg>Прачынацца штодзённа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19248</prop>
+      <tuv lang="en">
+        <seg>Daily wakeup time (HH:MM:SS)</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T115926Z">
+        <seg>Прачынацца штодзённа а (ГД:ХВ:СК)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8187,6 +8217,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19245</prop>
+      <tuv lang="en">
+        <seg>Set wakeup command (cmd [timestamp])</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T115828Z">
+        <seg>Вызначыць каманду цюнеру каб прачнуцца (cmd [час])</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#5</prop>
       <tuv lang="en">
         <seg>Settings</seg>
@@ -9983,6 +10023,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121121T083013Z">
         <seg>усх-паўд-усх</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19246</prop>
+      <tuv lang="en">
+        <seg>Wakeup before recording</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T115840Z">
+        <seg>Прачнуцца перад запісам</seg>
       </tuv>
     </tu>
     <tu>
