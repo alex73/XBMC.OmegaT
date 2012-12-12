@@ -3217,6 +3217,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#192</prop>
+      <tuv lang="en">
+        <seg>Clear</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T070612Z">
+        <seg>Сьцерці</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#386</prop>
       <tuv lang="en">
         <seg>Clear</seg>
@@ -7087,6 +7097,36 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#597</prop>
+      <tuv lang="en">
+        <seg>Repeat: All</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T070514Z">
+        <seg>Паўтор: усе</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#595</prop>
+      <tuv lang="en">
+        <seg>Repeat: Off</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T070459Z">
+        <seg>Паўтор: няма</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#596</prop>
+      <tuv lang="en">
+        <seg>Repeat: One</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T070519Z">
+        <seg>Паўтор: 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#20419</prop>
       <tuv lang="en">
         <seg>Replace file names with library titles</seg>
@@ -7773,6 +7813,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121109T085500Z">
         <seg>кароткачасовыя дажджы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#191</prop>
+      <tuv lang="en">
+        <seg>Shuffle</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T070420Z">
+        <seg>Выпадковы</seg>
       </tuv>
     </tu>
     <tu>
