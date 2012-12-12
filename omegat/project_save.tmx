@@ -3927,6 +3927,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19268</prop>
+      <tuv lang="en">
+        <seg>Do not show 'no information available' labels</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T114632Z">
+        <seg>Не паказваць цэтлік 'зьвесткі недаступныя'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#19072</prop>
       <tuv lang="en">
         <seg>Do not store the EPG in the database</seg>
@@ -7187,6 +7197,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19230</prop>
+      <tuv lang="en">
+        <seg>Prevent EPG updates while playing a TV stream</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T114456Z">
+        <seg>Прадухіляць абнаўленьні EPG падчас прайграваньня плыні</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#13200</prop>
       <tuv lang="en">
         <seg>Profiles</seg>
@@ -7563,6 +7583,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121119T150641Z">
         <seg>Якасьць зьмены</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19187</prop>
+      <tuv lang="en">
+        <seg>Reset the EPG database</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T114639Z">
+        <seg>Скінуць базу EPG</seg>
       </tuv>
     </tu>
     <tu>
