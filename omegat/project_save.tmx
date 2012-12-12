@@ -3967,6 +3967,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#21435</prop>
+      <tuv lang="en">
+        <seg>Edit</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T104910Z">
+        <seg>Рэдагаваць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#1028</prop>
       <tuv lang="en">
         <seg>Edit %s source</seg>
@@ -5857,6 +5867,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#20391</prop>
+      <tuv lang="en">
+        <seg>Music video</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T104836Z">
+        <seg>Музычнае відэа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#19580</prop>
       <tuv lang="en">
         <seg>Music/Ballet/Dance</seg>
@@ -6053,6 +6073,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121111T112009Z">
         <seg>Новы жанр</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#21423</prop>
+      <tuv lang="en">
+        <seg>New rule...</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T104945Z">
+        <seg>Новае правіла...</seg>
       </tuv>
     </tu>
     <tu>
@@ -6693,6 +6723,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121109T082256Z">
         <seg>Прайграць адсюль</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#20401</prop>
+      <tuv lang="en">
+        <seg>Play music video</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T104852Z">
+        <seg>Граць музычнае відэа</seg>
       </tuv>
     </tu>
     <tu>
@@ -8987,6 +9027,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#467</prop>
+      <tuv lang="en">
+        <seg>Type</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T104800Z">
+        <seg>Тып</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#564</prop>
       <tuv lang="en">
         <seg>Type</seg>
@@ -9893,6 +9943,26 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121212T104700Z">
         <seg>Зьмесьціва спрытнага сьпісу прайграваньня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">skins/translations/xbmc-skins.skin-aeon-nox/en.po</prop>
+      <prop type="path">#42315</prop>
+      <tuv lang="en">
+        <seg>Smart Playlist Manager</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T104720Z">
+        <seg>Кіраўнік спрытнага сьпісу прайграваньня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">skins/translations/xbmc-skins.skin-aeon-nox/en.po</prop>
+      <prop type="path">#42302</prop>
+      <tuv lang="en">
+        <seg>Type</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T104807Z">
+        <seg>Тып</seg>
       </tuv>
     </tu>
     <tu>
