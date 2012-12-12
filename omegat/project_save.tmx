@@ -3717,6 +3717,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#20374</prop>
+      <tuv lang="en">
+        <seg>Downloading movie information</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T061019Z">
+        <seg>Зладаваць зьвесткі пра фільм</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#1415</prop>
       <tuv lang="en">
         <seg>Drizzle</seg>
@@ -4013,6 +4023,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121212T060824Z">
         <seg>Эпізод</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#20365</prop>
+      <tuv lang="en">
+        <seg>Episode plot</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T060856Z">
+        <seg>Сюжэт эпізоду</seg>
       </tuv>
     </tu>
     <tu>
@@ -6157,6 +6177,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#20376</prop>
+      <tuv lang="en">
+        <seg>Original title</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T061028Z">
+        <seg>Зыходная назва</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#19499</prop>
       <tuv lang="en">
         <seg>Other/Unknown</seg>
@@ -7147,6 +7177,26 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#20373</prop>
+      <tuv lang="en">
+        <seg>Season</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T061006Z">
+        <seg>Сэзон</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#20372</prop>
+      <tuv lang="en">
+        <seg>Season image</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T061002Z">
+        <seg>Выява сэзону</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#33054</prop>
       <tuv lang="en">
         <seg>Seasons</seg>
@@ -7273,6 +7323,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121212T060726Z">
         <seg>Вызначыць зьмесьціва</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#20371</prop>
+      <tuv lang="en">
+        <seg>Set season thumb</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T060952Z">
+        <seg>Прызначыць мініятуру сэзону</seg>
       </tuv>
     </tu>
     <tu>
