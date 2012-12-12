@@ -2611,8 +2611,8 @@
       <tuv lang="en">
         <seg>Artist</seg>
       </tuv>
-      <tuv lang="be" changeid="Alex" changedate="20121109T081931Z">
-        <seg>Выканаўцы</seg>
+      <tuv lang="be" changeid="alex" changedate="20121212T111629Z">
+        <seg>Выканаўца</seg>
       </tuv>
     </tu>
     <tu>
@@ -5427,6 +5427,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#21427</prop>
+      <tuv lang="en">
+        <seg>Limit to</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T111700Z">
+        <seg>Абмежавана</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#535</prop>
       <tuv lang="en">
         <seg>List</seg>
@@ -6247,6 +6257,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#21428</prop>
+      <tuv lang="en">
+        <seg>No limit</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T111716Z">
+        <seg>Без абмежаваньняў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#414</prop>
       <tuv lang="en">
         <seg>No review for this album</seg>
@@ -6623,6 +6643,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121112T090434Z">
         <seg>Пароль быў пусты. Паспрабуйце зноў.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#573</prop>
+      <tuv lang="en">
+        <seg>Path</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T111540Z">
+        <seg>Шлях</seg>
       </tuv>
     </tu>
     <tu>
@@ -8901,8 +8931,8 @@
       <tuv lang="en">
         <seg>Title</seg>
       </tuv>
-      <tuv lang="be" changeid="Alex" changedate="20121109T081927Z">
-        <seg>Загалоўку</seg>
+      <tuv lang="be" changeid="alex" changedate="20121212T111610Z">
+        <seg>Загаловак</seg>
       </tuv>
     </tu>
     <tu>
