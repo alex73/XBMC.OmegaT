@@ -3767,6 +3767,26 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19174</prop>
+      <tuv lang="en">
+        <seg>Default recording lifetime</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T115425Z">
+        <seg>Стандартны час захоўваньня запісу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19173</prop>
+      <tuv lang="en">
+        <seg>Default recording priority</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T115358Z">
+        <seg>Стандартны прыярытэт запісу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#22079</prop>
       <tuv lang="en">
         <seg>Default select action</seg>
@@ -3953,6 +3973,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121119T150953Z">
         <seg>Паказваць відэа 4:3 як</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19233</prop>
+      <tuv lang="en">
+        <seg>Display a notification on timer updates</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T115555Z">
+        <seg>Паказваць паведамленьне пра абнаўленьне таймэру</seg>
       </tuv>
     </tu>
     <tu>
@@ -5437,6 +5467,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19172</prop>
+      <tuv lang="en">
+        <seg>Instant recording duration</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T115345Z">
+        <seg>Працягласьць імгненнага запісу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#14090</prop>
       <tuv lang="en">
         <seg>International</seg>
@@ -5753,6 +5793,26 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121111T104716Z">
         <seg>Сакавік</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19176</prop>
+      <tuv lang="en">
+        <seg>Margin at the end of a recording</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T115512Z">
+        <seg>Запас напрыканцы запісу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19175</prop>
+      <tuv lang="en">
+        <seg>Margin at the start of a recording</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T115515Z">
+        <seg>Запас напачатку запісу</seg>
       </tuv>
     </tu>
     <tu>
