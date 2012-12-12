@@ -2237,12 +2237,32 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#558</prop>
+      <tuv lang="en">
+        <seg>Album</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T064607Z">
+        <seg>Альбом</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#566</prop>
       <tuv lang="en">
         <seg>Album artist</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121109T083701Z">
         <seg>Выканаўца альбома</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#10523</prop>
+      <tuv lang="en">
+        <seg>Album info</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T064724Z">
+        <seg>Зьвесткі альбома</seg>
       </tuv>
     </tu>
     <tu>
@@ -3253,6 +3273,26 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121208T164818Z">
         <seg>Камэдыі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#21806</prop>
+      <tuv lang="en">
+        <seg>Comment</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T064637Z">
+        <seg>Камэнтар</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#569</prop>
+      <tuv lang="en">
+        <seg>Comment</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T064621Z">
+        <seg>Камэнтар</seg>
       </tuv>
     </tu>
     <tu>
@@ -4272,6 +4312,16 @@
         <seg>File</seg>
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121212T060803Z">
+        <seg>Файл</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#561</prop>
+      <tuv lang="en">
+        <seg>File</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T064500Z">
         <seg>Файл</seg>
       </tuv>
     </tu>
@@ -8617,6 +8667,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#554</prop>
+      <tuv lang="en">
+        <seg>Track</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T064602Z">
+        <seg>Трэк</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#24080</prop>
       <tuv lang="en">
         <seg>Try to reconnect?</seg>
@@ -9297,6 +9357,26 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#345</prop>
+      <tuv lang="en">
+        <seg>Year</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T064507Z">
+        <seg>Год</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#562</prop>
+      <tuv lang="en">
+        <seg>Year</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T064458Z">
+        <seg>Год</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#743</prop>
       <tuv lang="en">
         <seg>Yellow</seg>
@@ -9463,6 +9543,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121208T170040Z">
         <seg>ці націсьніце C каб скасаваць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">skins/translations/xbmc-skins.skin-aeon-nox/en.po</prop>
+      <prop type="path">#42201</prop>
+      <tuv lang="en">
+        <seg>Always show Album Info</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T064747Z">
+        <seg>Заўсёды паказваць зьвесткі альбома</seg>
       </tuv>
     </tu>
     <tu>
