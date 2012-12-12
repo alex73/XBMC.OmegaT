@@ -957,6 +957,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.skin-confluence/en.po</prop>
+      <prop type="path">#31312</prop>
+      <tuv lang="en">
+        <seg>Current Scraper</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T055547Z">
+        <seg>Дзейны скрэпэр</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.skin-confluence/en.po</prop>
       <prop type="path">#31300</prop>
       <tuv lang="en">
         <seg>Current Temp</seg>
@@ -1293,6 +1303,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121106T154440Z">
         <seg>Налады гуку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.skin-touched/en.po</prop>
+      <prop type="path">#31312</prop>
+      <tuv lang="en">
+        <seg>Current Scraper</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T055635Z">
+        <seg>Дзейны скрэпэр</seg>
       </tuv>
     </tu>
     <tu>
@@ -7057,6 +7077,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#20333</prop>
+      <tuv lang="en">
+        <seg>Set content</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T055420Z">
+        <seg>Усталяваць зьмесьціва</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#5</prop>
       <tuv lang="en">
         <seg>Settings</seg>
@@ -7983,6 +8013,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121120T092959Z">
         <seg>Уведзены нумар PIN - няправільны.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#20344</prop>
+      <tuv lang="en">
+        <seg>This directory contains</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T055445Z">
+        <seg>Гэты каталёг утрымлівае</seg>
       </tuv>
     </tu>
     <tu>
@@ -9093,6 +9133,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121212T051645Z">
         <seg>Верагоднасьць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">skins/translations/xbmc-skins.skin-essence/en.po</prop>
+      <prop type="path">#31312</prop>
+      <tuv lang="en">
+        <seg>Current Scraper</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T055642Z">
+        <seg>Дзейны скрэпэр</seg>
       </tuv>
     </tu>
     <tu>
