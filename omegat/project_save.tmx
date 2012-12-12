@@ -1536,6 +1536,16 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.visualization-projectm/en.po</prop>
+      <prop type="path">#30005</prop>
+      <tuv lang="en">
+        <seg>Shuffle Mode</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T071049Z">
+        <seg>Выпадковы парадак</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.visualization-waveform/en.po</prop>
       <prop type="path">Addon Summary</prop>
       <tuv lang="en">
