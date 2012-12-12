@@ -957,6 +957,26 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.skin-confluence/en.po</prop>
+      <prop type="path">#31313</prop>
+      <tuv lang="en">
+        <seg>Choose a Scraper</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T055657Z">
+        <seg>Абраць скрэпэр</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.skin-confluence/en.po</prop>
+      <prop type="path">#31314</prop>
+      <tuv lang="en">
+        <seg>Content Scanning Options</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T055807Z">
+        <seg>Налады сканаваньня зьмесьціва</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.skin-confluence/en.po</prop>
       <prop type="path">#31312</prop>
       <tuv lang="en">
         <seg>Current Scraper</seg>
@@ -1303,6 +1323,26 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121106T154440Z">
         <seg>Налады гуку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.skin-touched/en.po</prop>
+      <prop type="path">#31313</prop>
+      <tuv lang="en">
+        <seg>Choose a Scraper</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T055701Z">
+        <seg>Абраць скрэпэр</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.skin-touched/en.po</prop>
+      <prop type="path">#31314</prop>
+      <tuv lang="en">
+        <seg>Content Scanning Options</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T055813Z">
+        <seg>Налады сканаваньня зьмесьціва</seg>
       </tuv>
     </tu>
     <tu>
@@ -3953,6 +3993,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121208T164455Z">
         <seg>Конны спорт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#20380</prop>
+      <tuv lang="en">
+        <seg>Exclude selected folder from scans</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T055843Z">
+        <seg>Выключыць абраныя каталёгі з сканаваньня</seg>
       </tuv>
     </tu>
     <tu>
@@ -9137,6 +9187,26 @@
     </tu>
     <tu>
       <prop type="file">skins/translations/xbmc-skins.skin-essence/en.po</prop>
+      <prop type="path">#31313</prop>
+      <tuv lang="en">
+        <seg>Choose a Scraper</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T055715Z">
+        <seg>Абраць скрэпэр</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">skins/translations/xbmc-skins.skin-essence/en.po</prop>
+      <prop type="path">#31314</prop>
+      <tuv lang="en">
+        <seg>Content Scanning Options</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T055816Z">
+        <seg>Налады сканаваньня зьмесьціва</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">skins/translations/xbmc-skins.skin-essence/en.po</prop>
       <prop type="path">#31312</prop>
       <tuv lang="en">
         <seg>Current Scraper</seg>
@@ -9233,6 +9303,36 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121212T051649Z">
         <seg>Верагоднасьць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">skins/translations/xbmc-skins.skin-hybrid/en.po</prop>
+      <prop type="path">#31313</prop>
+      <tuv lang="en">
+        <seg>Choose a Scraper</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T055719Z">
+        <seg>Абраць скрэпэр</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">skins/translations/xbmc-skins.skin-hybrid/en.po</prop>
+      <prop type="path">#31314</prop>
+      <tuv lang="en">
+        <seg>Content Scanning Options</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T055821Z">
+        <seg>Налады сканаваньня зьмесьціва</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">skins/translations/xbmc-skins.skin-hybrid/en.po</prop>
+      <prop type="path">#31312</prop>
+      <tuv lang="en">
+        <seg>Current Scraper</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T055646Z">
+        <seg>Дзейны скрэпэр</seg>
       </tuv>
     </tu>
     <tu>
