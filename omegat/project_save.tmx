@@ -3957,6 +3957,26 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#21829</prop>
+      <tuv lang="en">
+        <seg>Exposure</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T054100Z">
+        <seg>Насьвятленьне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#21830</prop>
+      <tuv lang="en">
+        <seg>Exposure time</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T054109Z">
+        <seg>Час насьвятленьня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#20433</prop>
       <tuv lang="en">
         <seg>Extract thumbnails and video information</seg>
