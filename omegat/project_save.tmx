@@ -1247,6 +1247,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.skin-confluence/en.po</prop>
+      <prop type="path">#31310</prop>
+      <tuv lang="en">
+        <seg>Track Number</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T070746Z">
+        <seg>Нумар трэку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.skin-confluence/en.po</prop>
       <prop type="path">#31006</prop>
       <tuv lang="en">
         <seg>View Options</seg>
@@ -9277,6 +9287,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#24010</prop>
+      <tuv lang="en">
+        <seg>Visualization</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T070916Z">
+        <seg>Візуалізацыя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#250</prop>
       <tuv lang="en">
         <seg>Visualization</seg>
@@ -9937,6 +9957,16 @@
     </tu>
     <tu>
       <prop type="file">skins/translations/xbmc-skins.skin-essence/en.po</prop>
+      <prop type="path">#31310</prop>
+      <tuv lang="en">
+        <seg>Track Number</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T070753Z">
+        <seg>Нумар трэку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">skins/translations/xbmc-skins.skin-essence/en.po</prop>
       <prop type="path">#31903</prop>
       <tuv lang="en">
         <seg>Weekend Forecast</seg>
@@ -10073,6 +10103,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121212T070310Z">
         <seg>Агульная працягласьць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">skins/translations/xbmc-skins.skin-hybrid/en.po</prop>
+      <prop type="path">#31310</prop>
+      <tuv lang="en">
+        <seg>Track Number</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T070756Z">
+        <seg>Нумар трэку</seg>
       </tuv>
     </tu>
     <tu>
