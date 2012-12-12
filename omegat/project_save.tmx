@@ -927,6 +927,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.skin-confluence/en.po</prop>
+      <prop type="path">#31908</prop>
+      <tuv lang="en">
+        <seg>Chance of Precipitation</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T051610Z">
+        <seg>Верагоднасьць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.skin-confluence/en.po</prop>
       <prop type="path">#31000</prop>
       <tuv lang="en">
         <seg>Change Your</seg>
@@ -5367,6 +5377,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19055</prop>
+      <tuv lang="en">
+        <seg>No information available</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T051420Z">
+        <seg>Зьвесткі недаступныя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#659</prop>
       <tuv lang="en">
         <seg>Non-linear stretch</seg>
@@ -8617,6 +8637,16 @@
     </tu>
     <tu>
       <prop type="file">skins/translations/xbmc-skins.skin-essence/en.po</prop>
+      <prop type="path">#31908</prop>
+      <tuv lang="en">
+        <seg>Chance of Precipitation</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T051645Z">
+        <seg>Верагоднасьць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">skins/translations/xbmc-skins.skin-essence/en.po</prop>
       <prop type="path">#31905</prop>
       <tuv lang="en">
         <seg>Forecast</seg>
@@ -8683,6 +8713,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121212T050007Z">
         <seg>Прагноз на 36 гадзінаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">skins/translations/xbmc-skins.skin-hybrid/en.po</prop>
+      <prop type="path">#31908</prop>
+      <tuv lang="en">
+        <seg>Chance of Precipitation</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T051649Z">
+        <seg>Верагоднасьць</seg>
       </tuv>
     </tu>
     <tu>
