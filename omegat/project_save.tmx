@@ -4387,12 +4387,22 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#21842</prop>
+      <tuv lang="en">
+        <seg>GPS altitude</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T054907Z">
+        <seg>Вышыня па GPS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#21840</prop>
       <tuv lang="en">
         <seg>GPS latitude</seg>
       </tuv>
-      <tuv lang="be" changeid="alex" changedate="20121212T054801Z">
-        <seg>Шырата</seg>
+      <tuv lang="be" changeid="alex" changedate="20121212T054914Z">
+        <seg>Шырата па GPS</seg>
       </tuv>
     </tu>
     <tu>
@@ -4401,8 +4411,8 @@
       <tuv lang="en">
         <seg>GPS longitude</seg>
       </tuv>
-      <tuv lang="be" changeid="alex" changedate="20121212T054805Z">
-        <seg>Даўгата</seg>
+      <tuv lang="be" changeid="alex" changedate="20121212T054913Z">
+        <seg>Даўжыня па GPS</seg>
       </tuv>
     </tu>
     <tu>
@@ -5933,6 +5943,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121106T144730Z">
         <seg>Налады</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#21843</prop>
+      <tuv lang="en">
+        <seg>Orientation</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121212T054930Z">
+        <seg>Арыентацыя</seg>
       </tuv>
     </tu>
     <tu>
