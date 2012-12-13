@@ -3037,6 +3037,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#20076</prop>
+      <tuv lang="en">
+        <seg>Ask for master lock code on startup</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T050641Z">
+        <seg>Пытацца код агульнага блякаваньня на старце</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#19554</prop>
       <tuv lang="en">
         <seg>Athletics</seg>
@@ -6627,6 +6637,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#20043</prop>
+      <tuv lang="en">
+        <seg>Lock settings</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T050740Z">
+        <seg>Налады блякаваньня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#19263</prop>
       <tuv lang="en">
         <seg>Locked channel. Enter PIN:</seg>
@@ -6763,6 +6783,26 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121208T164448Z">
         <seg>Баявы спорт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#12360</prop>
+      <tuv lang="en">
+        <seg>Master lock</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T050603Z">
+        <seg>Агульнае блякаваньне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#20100</prop>
+      <tuv lang="en">
+        <seg>Master lock code and settings</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T050715Z">
+        <seg>Код і налады агульнага блякаваньня</seg>
       </tuv>
     </tu>
     <tu>
@@ -7633,6 +7673,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121121T094151Z">
         <seg>Колькасьць каналаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#12337</prop>
+      <tuv lang="en">
+        <seg>Numeric password</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T050814Z">
+        <seg>Лічбавы пароль</seg>
       </tuv>
     </tu>
     <tu>
