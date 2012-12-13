@@ -6531,8 +6531,8 @@
       <tuv lang="en">
         <seg>Let driver choose (requires restart)</seg>
       </tuv>
-      <tuv lang="be" changeid="alex" changedate="20121213T051414Z">
-        <seg>Хай драйвэр думае</seg>
+      <tuv lang="be" changeid="alex" changedate="20121213T051445Z">
+        <seg>Хай драйвэр думае(пасьля рэстарту)</seg>
       </tuv>
     </tu>
     <tu>
