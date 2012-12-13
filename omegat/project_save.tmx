@@ -2527,6 +2527,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#21881</prop>
+      <tuv lang="en">
+        <seg>Allow control of XBMC via UPnP</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T042706Z">
+        <seg>Дазволіць кантраляваць XBMC праз UPnP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#14071</prop>
       <tuv lang="en">
         <seg>Allow file renaming and deletion</seg>
@@ -2647,12 +2657,32 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#12378</prop>
+      <tuv lang="en">
+        <seg>Amount of time to display each image</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T042127Z">
+        <seg>Колькі часу паказваць кожную выяву</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#338</prop>
       <tuv lang="en">
         <seg>Analog</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121121T094246Z">
         <seg>Аналягавы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#20188</prop>
+      <tuv lang="en">
+        <seg>Announce library updates via UPnP</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T042609Z">
+        <seg>Анансаваць зьмены бібліятэк праз UPnP</seg>
       </tuv>
     </tu>
     <tu>
@@ -2903,6 +2933,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121112T073938Z">
         <seg>Аўтаматычныя абнаўленьні</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#13360</prop>
+      <tuv lang="en">
+        <seg>Automatically generate thumbnails</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T041848Z">
+        <seg>Ствараць мініятуры аўтаматычна</seg>
       </tuv>
     </tu>
     <tu>
@@ -4087,6 +4127,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#1271</prop>
+      <tuv lang="en">
+        <seg>Device name</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T042331Z">
+        <seg>Назва прылады</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#35006</prop>
       <tuv lang="en">
         <seg>Device removed</seg>
@@ -4113,6 +4163,26 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121212T054715Z">
         <seg>Лічбавае павілічэньне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#22024</prop>
+      <tuv lang="en">
+        <seg>Direct3D version:</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T042023Z">
+        <seg>Вэрсія Direct3D:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#22023</prop>
+      <tuv lang="en">
+        <seg>DirectX vendor:</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T042014Z">
+        <seg>Вытворца DirectX:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5403,6 +5473,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121120T092030Z">
         <seg>Жанры</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#24033</prop>
+      <tuv lang="en">
+        <seg>Get Add-ons</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T042300Z">
+        <seg>Атрыманьне дадаткі</seg>
       </tuv>
     </tu>
     <tu>
@@ -8307,6 +8387,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#20184</prop>
+      <tuv lang="en">
+        <seg>Rotate pictures using EXIF information</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T041936Z">
+        <seg>Паварочваць відарыс згодна зьвестак EXIF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#79</prop>
       <tuv lang="en">
         <seg>S</seg>
@@ -8827,6 +8917,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#21360</prop>
+      <tuv lang="en">
+        <seg>Share video and music libraries through UPnP</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T042528Z">
+        <seg>Абагуліць відэа і музычныя бібліятэкі праз UPnP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#21382</prop>
       <tuv lang="en">
         <seg>Show "Add source" buttons in file lists</seg>
@@ -8933,6 +9033,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121213T041013Z">
         <seg>Аўтаматычна паказваць выбар кампазыцыі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#22022</prop>
+      <tuv lang="en">
+        <seg>Show video files in listings</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T041955Z">
+        <seg>Паказваць відэа файлы ў сьпісе</seg>
       </tuv>
     </tu>
     <tu>
@@ -10387,6 +10497,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#12379</prop>
+      <tuv lang="en">
+        <seg>Use pan and zoom effects</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T042217Z">
+        <seg>Выкарыстоўваць эфэкты зруху й сумеру</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#639</prop>
       <tuv lang="en">
         <seg>Use track levels</seg>
@@ -10763,6 +10883,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121106T155342Z">
         <seg>Прагноз надвор'я</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#33101</prop>
+      <tuv lang="en">
+        <seg>Webserver</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T042732Z">
+        <seg>Ўэбсэрвер</seg>
       </tuv>
     </tu>
     <tu>
