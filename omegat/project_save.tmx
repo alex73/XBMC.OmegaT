@@ -7597,6 +7597,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#34121</prop>
+      <tuv lang="en">
+        <seg>Only when playback stopped</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T045302Z">
+        <seg>Толькі пры спыненым прайграваньні</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#13283</prop>
       <tuv lang="en">
         <seg>Operating system:</seg>
@@ -7797,6 +7807,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#546</prop>
+      <tuv lang="en">
+        <seg>Passthrough output device</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T045134Z">
+        <seg>Прылада простага вываду</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#12358</prop>
       <tuv lang="en">
         <seg>Password entry was blank. Try again.</seg>
@@ -7943,6 +7963,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121120T085415Z">
         <seg>Прайграваць DVDы аўтаматычна</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#34120</prop>
+      <tuv lang="en">
+        <seg>Play GUI sounds</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T045254Z">
+        <seg>Граць гукі інтэрфэйсу</seg>
       </tuv>
     </tu>
     <tu>
