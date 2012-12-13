@@ -4807,12 +4807,32 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#35100</prop>
+      <tuv lang="en">
+        <seg>Enable joystick and gamepad support</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T045533Z">
+        <seg>Дазволіць падтрымку джойсьціка і гэймпада</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#13323</prop>
       <tuv lang="en">
         <seg>Enable karaoke support</seg>
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121213T040814Z">
         <seg>Уключыць падтрымку караокэ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#21369</prop>
+      <tuv lang="en">
+        <seg>Enable mouse and Touch Screen support</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T045506Z">
+        <seg>Дазволіць падтрымку мышы й Touch Screen</seg>
       </tuv>
     </tu>
     <tu>
@@ -6147,6 +6167,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#14094</prop>
+      <tuv lang="en">
+        <seg>Input devices</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T045323Z">
+        <seg>Прылады ўводу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#24038</prop>
       <tuv lang="en">
         <seg>Install</seg>
@@ -6183,6 +6213,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121112T084258Z">
         <seg>Мова</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#798</prop>
+      <tuv lang="en">
+        <seg>Internet access</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T045600Z">
+        <seg>Доступ у інтэрнэт</seg>
       </tuv>
     </tu>
     <tu>
@@ -7867,6 +7907,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#35000</prop>
+      <tuv lang="en">
+        <seg>Peripherals</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T045349Z">
+        <seg>Пэрыфэрыйныя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#1039</prop>
       <tuv lang="en">
         <seg>Picture Add-ons</seg>
@@ -8513,6 +8563,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121213T043031Z">
         <seg>Аддалены кантроль</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#21449</prop>
+      <tuv lang="en">
+        <seg>Remote control sends keyboard presses</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T045439Z">
+        <seg>Аддалены кантроль дасылае націсканьні клявіятуры</seg>
       </tuv>
     </tu>
     <tu>
