@@ -467,6 +467,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.screensaver-xbmc-builtin-slideshow/en.po</prop>
+      <prop type="path">#30008</prop>
+      <tuv lang="en">
+        <seg>Crossfade</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T034921Z">
+        <seg>Перакрыцьцё</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.screensaver-xbmc-builtin-slideshow/en.po</prop>
       <prop type="path">#30001</prop>
       <tuv lang="en">
         <seg>Folder</seg>
@@ -3637,6 +3647,26 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#13314</prop>
+      <tuv lang="en">
+        <seg>Crossfade between songs</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T034912Z">
+        <seg>Перакрыцьцё паміж кампазыцыямі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#13400</prop>
+      <tuv lang="en">
+        <seg>Crossfade between songs on the same album</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T034933Z">
+        <seg>Перакрыцьцё паміж кампазыцыямі ў адным альбоме</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#24067</prop>
       <tuv lang="en">
         <seg>Currently downloading Add-ons</seg>
@@ -4323,6 +4353,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121121T094328Z">
         <seg>Уключыць субтытры</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#258</prop>
+      <tuv lang="en">
+        <seg>Enable tag reading</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T035013Z">
+        <seg>Дазволіць чытаньне цэтлікаў</seg>
       </tuv>
     </tu>
     <tu>
@@ -6513,6 +6553,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121212T104622Z">
         <seg>Новы спрытны сьпіс прайграваньня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#20462</prop>
+      <tuv lang="en">
+        <seg>New tag...</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T035042Z">
+        <seg>Новы цэтлік...</seg>
       </tuv>
     </tu>
     <tu>
@@ -9327,6 +9377,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#20459</prop>
+      <tuv lang="en">
+        <seg>Tags</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T035027Z">
+        <seg>Цэтлікі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#19535</prop>
       <tuv lang="en">
         <seg>Talk Show</seg>
@@ -9653,6 +9713,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121212T064602Z">
         <seg>Трэк</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#13307</prop>
+      <tuv lang="en">
+        <seg>Track naming template</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T035109Z">
+        <seg>Шаблён назвы трэкаў</seg>
       </tuv>
     </tu>
     <tu>
@@ -11243,6 +11313,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121121T083629Z">
         <seg>Шлях да ФанАрт'у</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">skins/translations/xbmc-skins.skin-hybrid/en.po</prop>
+      <prop type="path">#31682</prop>
+      <tuv lang="en">
+        <seg>Tags</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T035037Z">
+        <seg>Цэтлікі</seg>
       </tuv>
     </tu>
     <tu>
