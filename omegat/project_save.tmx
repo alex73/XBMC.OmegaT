@@ -5967,6 +5967,26 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#15203</prop>
+      <tuv lang="en">
+        <seg>Last.fm password</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T041751Z">
+        <seg>Пароль Last.fm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#15202</prop>
+      <tuv lang="en">
+        <seg>Last.fm username</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T041718Z">
+        <seg>Імя карыстальніка Last.fm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#14022</prop>
       <tuv lang="en">
         <seg>Library</seg>
@@ -9463,6 +9483,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121213T035538Z">
         <seg>Падаць Last.fm радыё на Last.fm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#15201</prop>
+      <tuv lang="en">
+        <seg>Submit songs to Last.fm</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T041702Z">
+        <seg>Падаць кампазыцыю на Last.fm</seg>
       </tuv>
     </tu>
     <tu>
