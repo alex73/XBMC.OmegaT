@@ -2737,6 +2737,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#620</prop>
+      <tuv lang="en">
+        <seg>Audio CDs</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T035724Z">
+        <seg>Аўдыё CDы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#13501</prop>
       <tuv lang="en">
         <seg>Audio clock</seg>
@@ -2953,6 +2963,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121109T082043Z">
         <seg>Вялікі сьпіс</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#623</prop>
+      <tuv lang="en">
+        <seg>Bitrate</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T035746Z">
+        <seg>Бітрэйт</seg>
       </tuv>
     </tu>
     <tu>
@@ -3543,6 +3563,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121208T154843Z">
         <seg>Далучана да HDMI прылады</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#15251</prop>
+      <tuv lang="en">
+        <seg>Connecting to Last.fm...</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T035550Z">
+        <seg>Злучэньне з Last.fm</seg>
       </tuv>
     </tu>
     <tu>
@@ -4403,6 +4433,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121120T155255Z">
         <seg>Дазволеныя дадаткі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#621</prop>
+      <tuv lang="en">
+        <seg>Encoder</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T035738Z">
+        <seg>Кадавальнік</seg>
       </tuv>
     </tu>
     <tu>
@@ -5763,6 +5803,26 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121119T144236Z">
         <seg>Бібліятэка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#15219</prop>
+      <tuv lang="en">
+        <seg>Libre.fm password</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T035642Z">
+        <seg>Пароль Libre.fm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#15218</prop>
+      <tuv lang="en">
+        <seg>Libre.fm username</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T035634Z">
+        <seg>Імя карыстальніка Libre.fm</seg>
       </tuv>
     </tu>
     <tu>
@@ -7577,6 +7637,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#622</prop>
+      <tuv lang="en">
+        <seg>Quality</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T035742Z">
+        <seg>Якасьць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#13347</prop>
       <tuv lang="en">
         <seg>Queue item</seg>
@@ -8817,6 +8887,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#15221</prop>
+      <tuv lang="en">
+        <seg>Song submission</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T035513Z">
+        <seg>Падаваньне кампазыцыі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#134</prop>
       <tuv lang="en">
         <seg>Songs</seg>
@@ -9113,6 +9193,26 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121106T144955Z">
         <seg>Нд</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#15250</prop>
+      <tuv lang="en">
+        <seg>Submit Last.fm radio to Last.fm</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T035538Z">
+        <seg>Падаць Last.fm радыё на Last.fm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#15217</prop>
+      <tuv lang="en">
+        <seg>Submit songs to Libre.fm</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T035621Z">
+        <seg>Падаць кампазыцыю на Libre.fm</seg>
       </tuv>
     </tu>
     <tu>
