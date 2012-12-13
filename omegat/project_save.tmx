@@ -4437,6 +4437,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#13323</prop>
+      <tuv lang="en">
+        <seg>Enable karaoke support</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T040814Z">
+        <seg>Уключыць падтрымку караокэ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#13397</prop>
       <tuv lang="en">
         <seg>Enable subtitles</seg>
@@ -4733,6 +4743,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121208T164359Z">
         <seg>Экспэрымэнтальнае кіно / відэа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#22038</prop>
+      <tuv lang="en">
+        <seg>Export karaoke titles...</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T040948Z">
+        <seg>Экспартаваць тытры караокэ...</seg>
       </tuv>
     </tu>
     <tu>
@@ -5103,6 +5123,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121208T164237Z">
         <seg>Народная / Традыцыйная музыка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#22030</prop>
+      <tuv lang="en">
+        <seg>Font</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T041031Z">
+        <seg>Шрыфт</seg>
       </tuv>
     </tu>
     <tu>
@@ -5617,6 +5647,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#22036</prop>
+      <tuv lang="en">
+        <seg>Import karaoke titles...</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T040938Z">
+        <seg>Імпартаваць тытры караокэ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#20197</prop>
       <tuv lang="en">
         <seg>Import music library</seg>
@@ -5813,6 +5853,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121111T104722Z">
         <seg>Чэрвень</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#13327</prop>
+      <tuv lang="en">
+        <seg>Karaoke</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T040723Z">
+        <seg>Караокэ</seg>
       </tuv>
     </tu>
     <tu>
@@ -8793,6 +8843,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121212T115018Z">
         <seg>Паказваць якасьць сыгналу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#22037</prop>
+      <tuv lang="en">
+        <seg>Show song selector automatically</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T041013Z">
+        <seg>Аўтаматычна паказваць выбар кампазыцыі</seg>
       </tuv>
     </tu>
     <tu>
