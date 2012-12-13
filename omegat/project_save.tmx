@@ -11097,6 +11097,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#22043</prop>
+      <tuv lang="en">
+        <seg>black/white</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T041415Z">
+        <seg>чорны / белы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#21400</prop>
       <tuv lang="en">
         <seg>contains</seg>
@@ -11233,6 +11243,36 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121212T105435Z">
         <seg>пачынаецца з </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#22042</prop>
+      <tuv lang="en">
+        <seg>white/blue</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T041413Z">
+        <seg>белы / блакітны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#22040</prop>
+      <tuv lang="en">
+        <seg>white/green</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T041410Z">
+        <seg>белы / зялёны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#22041</prop>
+      <tuv lang="en">
+        <seg>white/red</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T041411Z">
+        <seg>белы / чырвоны</seg>
       </tuv>
     </tu>
     <tu>
