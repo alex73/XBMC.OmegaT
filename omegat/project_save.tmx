@@ -2671,8 +2671,8 @@
       <tuv lang="en">
         <seg>Artist information</seg>
       </tuv>
-      <tuv lang="be" changeid="alex" changedate="20121212T064233Z">
-        <seg>Зьвесткі пра артыста</seg>
+      <tuv lang="be" changeid="alex" changedate="20121213T034048Z">
+        <seg>Зьвесткі пра выканаўцу</seg>
       </tuv>
     </tu>
     <tu>
@@ -2681,8 +2681,8 @@
       <tuv lang="en">
         <seg>Artists</seg>
       </tuv>
-      <tuv lang="be" changeid="Alex" changedate="20121120T092022Z">
-        <seg>Артысты</seg>
+      <tuv lang="be" changeid="alex" changedate="20121213T034039Z">
+        <seg>Выканаўцы</seg>
       </tuv>
     </tu>
     <tu>
@@ -5453,6 +5453,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121119T145738Z">
         <seg>Імпартаваньне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#13414</prop>
+      <tuv lang="en">
+        <seg>Include artists who appear only on compilations</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T034023Z">
+        <seg>Уключаць выканаўцаў што сустракаюцца толькі ў зборніках</seg>
       </tuv>
     </tu>
     <tu>
