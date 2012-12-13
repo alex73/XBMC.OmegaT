@@ -1167,6 +1167,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.skin-confluence/en.po</prop>
+      <prop type="path">#31320</prop>
+      <tuv lang="en">
+        <seg>Last Logged In</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T052447Z">
+        <seg>Апошні ўваход</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.skin-confluence/en.po</prop>
       <prop type="path">#31301</prop>
       <tuv lang="en">
         <seg>Last Updated</seg>
@@ -1283,6 +1293,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121212T113035Z">
         <seg>Налады сьпісу прайграваньня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.skin-confluence/en.po</prop>
+      <prop type="path">#31319</prop>
+      <tuv lang="en">
+        <seg>Selected Profile</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T052420Z">
+        <seg>Абраны профіль</seg>
       </tuv>
     </tu>
     <tu>
@@ -1513,6 +1533,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121212T063806Z">
         <seg>На ўвесь экран</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.skin-touched/en.po</prop>
+      <prop type="path">#31320</prop>
+      <tuv lang="en">
+        <seg>Last Logged In</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T052504Z">
+        <seg>Апошні ўваход</seg>
       </tuv>
     </tu>
     <tu>
@@ -8927,6 +8957,46 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#359</prop>
+      <tuv lang="en">
+        <seg>Recently added albums</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T052604Z">
+        <seg>Надоечы дададзеныя альбомы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#20387</prop>
+      <tuv lang="en">
+        <seg>Recently added episodes</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T052638Z">
+        <seg>Надоечы дададзеныя эпізоды</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#20386</prop>
+      <tuv lang="en">
+        <seg>Recently added movies</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T052630Z">
+        <seg>Надоечы дададзеныя фільмы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#20390</prop>
+      <tuv lang="en">
+        <seg>Recently added music videos</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T052655Z">
+        <seg>Надоечы дададзеныя мызычныя відэа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#19043</prop>
       <tuv lang="en">
         <seg>Recording</seg>
@@ -12767,6 +12837,16 @@
     </tu>
     <tu>
       <prop type="file">skins/translations/xbmc-skins.skin-essence/en.po</prop>
+      <prop type="path">#31320</prop>
+      <tuv lang="en">
+        <seg>Last Logged In</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T052506Z">
+        <seg>Апошні ўваход</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">skins/translations/xbmc-skins.skin-essence/en.po</prop>
       <prop type="path">#31309</prop>
       <tuv lang="en">
         <seg>Memory Used:</seg>
@@ -12793,6 +12873,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121212T113054Z">
         <seg>Налады сьпісу прайграваньня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">skins/translations/xbmc-skins.skin-essence/en.po</prop>
+      <prop type="path">#31319</prop>
+      <tuv lang="en">
+        <seg>Selected Profile</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T052427Z">
+        <seg>Абраны профіль</seg>
       </tuv>
     </tu>
     <tu>
@@ -12947,6 +13037,16 @@
     </tu>
     <tu>
       <prop type="file">skins/translations/xbmc-skins.skin-hybrid/en.po</prop>
+      <prop type="path">#31320</prop>
+      <tuv lang="en">
+        <seg>Last Logged In</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T052509Z">
+        <seg>Апошні ўваход</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">skins/translations/xbmc-skins.skin-hybrid/en.po</prop>
       <prop type="path">#31309</prop>
       <tuv lang="en">
         <seg>Memory Used:</seg>
@@ -12983,6 +13083,26 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121212T113223Z">
         <seg>Выпадкова</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">skins/translations/xbmc-skins.skin-hybrid/en.po</prop>
+      <prop type="path">#31980</prop>
+      <tuv lang="en">
+        <seg>Recently Added Items</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T052715Z">
+        <seg>Надоечы дададзеныя складнікі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">skins/translations/xbmc-skins.skin-hybrid/en.po</prop>
+      <prop type="path">#31319</prop>
+      <tuv lang="en">
+        <seg>Selected Profile</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T052431Z">
+        <seg>Абраны профіль</seg>
       </tuv>
     </tu>
     <tu>
@@ -13073,6 +13193,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121212T063932Z">
         <seg>Схаваць значак трэйлера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">skins/translations/xbmc-skins.skin-transparency/en.po</prop>
+      <prop type="path">#31047</prop>
+      <tuv lang="en">
+        <seg>Last logged in</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T052514Z">
+        <seg>Апошні ўваход</seg>
       </tuv>
     </tu>
     <tu>
