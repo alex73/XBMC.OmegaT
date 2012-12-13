@@ -266,6 +266,16 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.openelec-tv/en.po</prop>
+      <prop type="path">#2100</prop>
+      <tuv lang="en">
+        <seg>Network</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T051948Z">
+        <seg>Сетка</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.plugin-video-youtube/en.po</prop>
       <prop type="path">#30624</prop>
       <tuv lang="en">
@@ -1197,6 +1207,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.skin-confluence/en.po</prop>
+      <prop type="path">#31309</prop>
+      <tuv lang="en">
+        <seg>Memory Used:</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T051829Z">
+        <seg>Занята памяці:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.skin-confluence/en.po</prop>
       <prop type="path">#31026</prop>
       <tuv lang="en">
         <seg>Misc Options</seg>
@@ -1493,6 +1513,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121212T063806Z">
         <seg>На ўвесь экран</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.skin-touched/en.po</prop>
+      <prop type="path">#31309</prop>
+      <tuv lang="en">
+        <seg>Memory Used:</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T051853Z">
+        <seg>Занята памяці:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3967,6 +3997,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#13296</prop>
+      <tuv lang="en">
+        <seg>Connected</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T052034Z">
+        <seg>Злучана</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#36019</prop>
       <tuv lang="en">
         <seg>Connected to HDMI device</seg>
@@ -6417,6 +6457,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#13295</prop>
+      <tuv lang="en">
+        <seg>Internet:</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T052018Z">
+        <seg>Сеціва:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#740</prop>
       <tuv lang="en">
         <seg>Italics</seg>
@@ -7437,6 +7487,26 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#13279</prop>
+      <tuv lang="en">
+        <seg>Network</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T052013Z">
+        <seg>Сетка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#705</prop>
+      <tuv lang="en">
+        <seg>Network</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T051956Z">
+        <seg>Сетка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#20158</prop>
       <tuv lang="en">
         <seg>Network information</seg>
@@ -7753,6 +7823,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121208T200626Z">
         <seg>Паўночны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#13297</prop>
+      <tuv lang="en">
+        <seg>Not connected. Check network settings.</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T052052Z">
+        <seg>Не дасяжна. Спраўдзіце налады сеткі.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10327,6 +10407,26 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#13277</prop>
+      <tuv lang="en">
+        <seg>Storage</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T051925Z">
+        <seg>Сховішча</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#154</prop>
+      <tuv lang="en">
+        <seg>Storage</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T051920Z">
+        <seg>Сховішча</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#20155</prop>
       <tuv lang="en">
         <seg>Storage information</seg>
@@ -12347,6 +12447,16 @@
     </tu>
     <tu>
       <prop type="file">skins/translations/xbmc-skins.skin-aeon-nox/en.po</prop>
+      <prop type="path">#31309</prop>
+      <tuv lang="en">
+        <seg>Memory Used:</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T051856Z">
+        <seg>Занята памяці:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">skins/translations/xbmc-skins.skin-aeon-nox/en.po</prop>
       <prop type="path">#31502</prop>
       <tuv lang="en">
         <seg>Movies</seg>
@@ -12577,6 +12687,16 @@
     </tu>
     <tu>
       <prop type="file">skins/translations/xbmc-skins.skin-essence/en.po</prop>
+      <prop type="path">#31309</prop>
+      <tuv lang="en">
+        <seg>Memory Used:</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T051858Z">
+        <seg>Занята памяці:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">skins/translations/xbmc-skins.skin-essence/en.po</prop>
       <prop type="path">#31022</prop>
       <tuv lang="en">
         <seg>Music - Files</seg>
@@ -12743,6 +12863,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121212T050013Z">
         <seg>Пагадзінны прагноз</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">skins/translations/xbmc-skins.skin-hybrid/en.po</prop>
+      <prop type="path">#31309</prop>
+      <tuv lang="en">
+        <seg>Memory Used:</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T051915Z">
+        <seg>Занята памяці:</seg>
       </tuv>
     </tu>
     <tu>
