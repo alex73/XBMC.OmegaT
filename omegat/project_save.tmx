@@ -2467,6 +2467,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#20058</prop>
+      <tuv lang="en">
+        <seg>Add profile...</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T052405Z">
+        <seg>Дадаць профіль...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#1026</prop>
       <tuv lang="en">
         <seg>Add source</seg>
@@ -3573,6 +3583,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121213T051755Z">
         <seg>Выкарыстаньне CPU:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#13284</prop>
+      <tuv lang="en">
+        <seg>CPU speed:</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T052242Z">
+        <seg>Хуткасьць CPU:</seg>
       </tuv>
     </tu>
     <tu>
@@ -6087,12 +6107,32 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#13281</prop>
+      <tuv lang="en">
+        <seg>Hardware</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T052235Z">
+        <seg>Абсталяваньне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#20160</prop>
       <tuv lang="en">
         <seg>Hardware information</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121112T074344Z">
         <seg>Зьвесткі пра абсталяваньне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#13270</prop>
+      <tuv lang="en">
+        <seg>Hardware:</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T052229Z">
+        <seg>Абсталяваньне:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8017,6 +8057,36 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#22008</prop>
+      <tuv lang="en">
+        <seg>OpenGL renderer:</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T052157Z">
+        <seg>Адлюстраваньнік OpenGL:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#22007</prop>
+      <tuv lang="en">
+        <seg>OpenGL vendor:</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T052142Z">
+        <seg>Вытворца OpenGL:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#22009</prop>
+      <tuv lang="en">
+        <seg>OpenGL version:</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T052132Z">
+        <seg>Вэрсія OpenGL:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#13283</prop>
       <tuv lang="en">
         <seg>Operating system:</seg>
@@ -8143,6 +8213,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121120T084102Z">
         <seg>Перарабіць шрыфт субтытраў ASS/SSA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#19191</prop>
+      <tuv lang="en">
+        <seg>PVR service</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T052313Z">
+        <seg>Сэрвіс PVR</seg>
       </tuv>
     </tu>
     <tu>
