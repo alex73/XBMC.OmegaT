@@ -3647,6 +3647,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#213</prop>
+      <tuv lang="en">
+        <seg>Calibrate user interface...</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T054104Z">
+        <seg>Калібраваць карыстальніцкі інтэрфэйс</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#21822</prop>
       <tuv lang="en">
         <seg>Camera make</seg>
@@ -4327,6 +4337,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#218</prop>
+      <tuv lang="en">
+        <seg>DVD drive</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T054124Z">
+        <seg>Дыскавод DVD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#20157</prop>
       <tuv lang="en">
         <seg>DVD-ROM information</seg>
@@ -4931,8 +4951,8 @@
       <tuv lang="en">
         <seg>Drive</seg>
       </tuv>
-      <tuv lang="be" changeid="alex" changedate="20121213T053646Z">
-        <seg>Дыск</seg>
+      <tuv lang="be" changeid="alex" changedate="20121213T054212Z">
+        <seg>Дыскавод</seg>
       </tuv>
     </tu>
     <tu>
@@ -7767,6 +7787,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#221</prop>
+      <tuv lang="en">
+        <seg>Network is not connected</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T054317Z">
+        <seg>Сетка не падлучаная</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#145</prop>
       <tuv lang="en">
         <seg>Network:</seg>
@@ -8877,6 +8907,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#219</prop>
+      <tuv lang="en">
+        <seg>Please insert disc</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T054233Z">
+        <seg>Устаўце дыск, калі ласка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#19274</prop>
       <tuv lang="en">
         <seg>Please visit xbmc.org/pvr to learn more.</seg>
@@ -9403,6 +9443,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121213T045439Z">
         <seg>Аддалены кантроль дасылае націсканьні клявіятуры</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#220</prop>
+      <tuv lang="en">
+        <seg>Remote share</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T054302Z">
+        <seg>Аддаленае абагульненьне</seg>
       </tuv>
     </tu>
     <tu>
@@ -10773,6 +10823,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121208T164554Z">
         <seg>Спэцыяльныя падзеі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#224</prop>
+      <tuv lang="en">
+        <seg>Speed</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T054321Z">
+        <seg>Хуткасьць</seg>
       </tuv>
     </tu>
     <tu>
