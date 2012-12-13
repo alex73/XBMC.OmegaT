@@ -3547,6 +3547,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#665</prop>
+      <tuv lang="en">
+        <seg>Compression level</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T040325Z">
+        <seg>Ступень сьцісканьня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#36023</prop>
       <tuv lang="en">
         <seg>Configuration updated</seg>
@@ -3603,6 +3613,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121208T193347Z">
         <seg>Злучэньне згублена</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#604</prop>
+      <tuv lang="en">
+        <seg>Constant bitrate</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T040140Z">
+        <seg>Нязьменны бітрэйт</seg>
       </tuv>
     </tu>
     <tu>
@@ -4783,6 +4803,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121120T083718Z">
         <seg>Выняць мініятуры й зьвесткі відэа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#603</prop>
+      <tuv lang="en">
+        <seg>Extreme</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T040158Z">
+        <seg>Найлепшая</seg>
       </tuv>
     </tu>
     <tu>
@@ -6142,6 +6172,16 @@
         <seg>Medium</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121112T080347Z">
+        <seg>Сярэдняя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#601</prop>
+      <tuv lang="en">
+        <seg>Medium</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T040208Z">
         <seg>Сярэдняя</seg>
       </tuv>
     </tu>
@@ -9133,6 +9173,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121208T164601Z">
         <seg>Спартыўныя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#602</prop>
+      <tuv lang="en">
+        <seg>Standard</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T040203Z">
+        <seg>Стандартная</seg>
       </tuv>
     </tu>
     <tu>
