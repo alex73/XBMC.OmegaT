@@ -7,3 +7,4 @@ playlist	сьпіс прайграваньня
 item	складнік
 stream	плынь
 download	зладаваць	XBMC
+karaoke	караокэ
