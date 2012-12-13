@@ -5777,6 +5777,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#12339</prop>
+      <tuv lang="en">
+        <seg>Full-text password</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T050848Z">
+        <seg>Тэкставы пароль</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#21842</prop>
       <tuv lang="en">
         <seg>GPS altitude</seg>
@@ -5823,6 +5833,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121208T164632Z">
         <seg>Гульні / Віктарыны / Конкурсы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#12338</prop>
+      <tuv lang="en">
+        <seg>Gamepad button combo</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T050841Z">
+        <seg>Спалучэньне кнопак гэймпаду</seg>
       </tuv>
     </tu>
     <tu>
@@ -6247,6 +6267,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#12342</prop>
+      <tuv lang="en">
+        <seg>Incorrect password,</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T050858Z">
+        <seg>Няправільны пароль</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#19568</prop>
       <tuv lang="en">
         <seg>Informational/Educational/School Programme</seg>
@@ -6627,6 +6657,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#24090</prop>
+      <tuv lang="en">
+        <seg>Lock Add-on manager</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T051100Z">
+        <seg>Блякаваць кіраўніка дадаткамі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#19257</prop>
       <tuv lang="en">
         <seg>Lock channel</seg>
@@ -6637,12 +6677,62 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#20042</prop>
+      <tuv lang="en">
+        <seg>Lock file manager</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T051036Z">
+        <seg>Блякаваць кіраўніка файламі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#20038</prop>
+      <tuv lang="en">
+        <seg>Lock music window</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T050944Z">
+        <seg>Блякаваць вакно музыкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#20040</prop>
+      <tuv lang="en">
+        <seg>Lock pictures window</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T051001Z">
+        <seg>Блякаваць вакно відарысаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#20041</prop>
+      <tuv lang="en">
+        <seg>Lock programs &amp; scripts windows</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T051009Z">
+        <seg>Блякаваць вакно праграм</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#20043</prop>
       <tuv lang="en">
         <seg>Lock settings</seg>
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121213T050740Z">
         <seg>Налады блякаваньня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#20039</prop>
+      <tuv lang="en">
+        <seg>Lock videos window</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T050951Z">
+        <seg>Блякаваць вакно відэа</seg>
       </tuv>
     </tu>
     <tu>
@@ -8017,6 +8107,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#12344</prop>
+      <tuv lang="en">
+        <seg>Passwords entered did not match.</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T050908Z">
+        <seg>Уведзеныя паролі не супадаюць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#573</prop>
       <tuv lang="en">
         <seg>Path</seg>
@@ -8773,6 +8873,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121109T081212Z">
         <seg>Выдаліць з упадабаных</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#12335</prop>
+      <tuv lang="en">
+        <seg>Remove lock</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T050921Z">
+        <seg>Выдаліць блякаваньне</seg>
       </tuv>
     </tu>
     <tu>
