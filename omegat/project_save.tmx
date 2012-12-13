@@ -1997,6 +1997,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#299</prop>
+      <tuv lang="en">
+        <seg>- AAC capable receiver</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T044614Z">
+        <seg>- AAC прыймач</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#735</prop>
       <tuv lang="en">
         <seg>- Character set</seg>
@@ -2047,6 +2057,36 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#254</prop>
+      <tuv lang="en">
+        <seg>- DTS capable receiver</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T044624Z">
+        <seg>- DTS прыймач</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#347</prop>
+      <tuv lang="en">
+        <seg>- DTS-HD capable receiver</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T044550Z">
+        <seg>- DTS-HD прыймач</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#364</prop>
+      <tuv lang="en">
+        <seg>- Dolby Digital (AC3) capable receiver</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T044509Z">
+        <seg>- Dolby Digital (AC3) прыймач</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#21450</prop>
       <tuv lang="en">
         <seg>- Edit</seg>
@@ -2063,6 +2103,46 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121112T084704Z">
         <seg>- Шрыфты</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#300</prop>
+      <tuv lang="en">
+        <seg>- MP1 capable receiver</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T044609Z">
+        <seg>- MP1 прыймач</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#301</prop>
+      <tuv lang="en">
+        <seg>- MP2 capable receiver</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T044604Z">
+        <seg>- MP2 прыймач</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#302</prop>
+      <tuv lang="en">
+        <seg>- MP3 capable receiver</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T044557Z">
+        <seg>- MP3 прыймач</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#348</prop>
+      <tuv lang="en">
+        <seg>- Multichannel LPCM capable receiver</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T044542Z">
+        <seg>- Multichannel LPCM прыймач</seg>
       </tuv>
     </tu>
     <tu>
@@ -2143,6 +2223,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121112T084508Z">
         <seg>- Тэма</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#349</prop>
+      <tuv lang="en">
+        <seg>- TrueHD capable receiver</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T044534Z">
+        <seg>- TrueHD прыймач</seg>
       </tuv>
     </tu>
     <tu>
@@ -2727,6 +2817,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#13108</prop>
+      <tuv lang="en">
+        <seg>Always enabled</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T043922Z">
+        <seg>Заўсёды дазволена</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#19231</prop>
       <tuv lang="en">
         <seg>Always use the channel order from the backend(s)</seg>
@@ -2953,6 +3053,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121213T043607Z">
         <seg>Вывад аўдыё</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#545</prop>
+      <tuv lang="en">
+        <seg>Audio output device</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T044653Z">
+        <seg>Прылада вываду аўдыё</seg>
       </tuv>
     </tu>
     <tu>
@@ -3213,6 +3323,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121108T162057Z">
         <seg>Закладкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#346</prop>
+      <tuv lang="en">
+        <seg>Boost volume level on downmix</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T044342Z">
+        <seg>Павялічваць гучнасьць у ціхага</seg>
       </tuv>
     </tu>
     <tu>
@@ -4327,6 +4447,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#13106</prop>
+      <tuv lang="en">
+        <seg>Disabled</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T043838Z">
+        <seg>Забаронена</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#24039</prop>
       <tuv lang="en">
         <seg>Disabled Add-ons</seg>
@@ -4667,6 +4797,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#4501</prop>
+      <tuv lang="en">
+        <seg>Enable LCD/VFD</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T044132Z">
+        <seg>Дазволіць LCD/VFD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#13323</prop>
       <tuv lang="en">
         <seg>Enable karaoke support</seg>
@@ -4723,6 +4863,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121120T155255Z">
         <seg>Дазволеныя дадаткі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#13107</prop>
+      <tuv lang="en">
+        <seg>Enabled during video playback</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T043910Z">
+        <seg>Толькі падчас прайграваньня відэа</seg>
       </tuv>
     </tu>
     <tu>
@@ -6193,6 +6343,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121213T041718Z">
         <seg>Імя карыстальніка Last.fm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#13101</prop>
+      <tuv lang="en">
+        <seg>Let driver choose (requires restart)</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T043829Z">
+        <seg>Хай драйвэр думае(трэба рэстартаваць)</seg>
       </tuv>
     </tu>
     <tu>
@@ -9557,6 +9717,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#34100</prop>
+      <tuv lang="en">
+        <seg>Speaker Configuration</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T044236Z">
+        <seg>Канфігурацыя галосьнікаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#19549</prop>
       <tuv lang="en">
         <seg>Special Event</seg>
@@ -10123,6 +10293,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121208T164539Z">
         <seg>Тэніс / Сквош</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#226</prop>
+      <tuv lang="en">
+        <seg>Test patterns...</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T044055Z">
+        <seg>Тэставыя ўзоры...</seg>
       </tuv>
     </tu>
     <tu>
@@ -10763,6 +10943,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121121T092728Z">
         <seg>Зрух па вэртыкалі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#13105</prop>
+      <tuv lang="en">
+        <seg>Vertical blank sync</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T043748Z">
+        <seg>Вэртыкальная сынхранізацыя</seg>
       </tuv>
     </tu>
     <tu>
