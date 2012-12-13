@@ -2037,6 +2037,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#14050</prop>
+      <tuv lang="en">
+        <seg>%i.0 dB</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T045922Z">
+        <seg>%i.0 дБ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#299</prop>
       <tuv lang="en">
         <seg>- AAC capable receiver</seg>
@@ -5193,6 +5203,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121212T055843Z">
         <seg>Выключыць абраныя каталёгі з сканаваньня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#13012</prop>
+      <tuv lang="en">
+        <seg>Exit</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T050216Z">
+        <seg>Выйсьці</seg>
       </tuv>
     </tu>
     <tu>
@@ -8387,6 +8407,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#1450</prop>
+      <tuv lang="en">
+        <seg>Put display to sleep when idle</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T050046Z">
+        <seg>Класьці дысплэй спаць падчас чаканьня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#622</prop>
       <tuv lang="en">
         <seg>Quality</seg>
@@ -8413,6 +8443,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121213T034416Z">
         <seg>Кампазыцыю што абралі - у чаргу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#13009</prop>
+      <tuv lang="en">
+        <seg>Quit</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T050220Z">
+        <seg>Скончыць</seg>
       </tuv>
     </tu>
     <tu>
@@ -9563,6 +9603,26 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121212T070420Z">
         <seg>Выпадковы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#13008</prop>
+      <tuv lang="en">
+        <seg>Shutdown function</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T050156Z">
+        <seg>Функцыя выключэньня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#357</prop>
+      <tuv lang="en">
+        <seg>Shutdown function timer</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T050144Z">
+        <seg>Таймэр функцыі выключэньня</seg>
       </tuv>
     </tu>
     <tu>
