@@ -3537,6 +3537,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#13271</prop>
+      <tuv lang="en">
+        <seg>CPU Usage:</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T051755Z">
+        <seg>Выкарыстаньне CPU:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#22011</prop>
       <tuv lang="en">
         <seg>CPU temperature:</seg>
@@ -4527,11 +4537,51 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#1223</prop>
+      <tuv lang="en">
+        <seg>Disabled</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T051604Z">
+        <seg>Забаронена</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#13106</prop>
       <tuv lang="en">
         <seg>Disabled</seg>
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121213T043838Z">
+        <seg>Забаронена</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#13113</prop>
+      <tuv lang="en">
+        <seg>Disabled</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T051607Z">
+        <seg>Забаронена</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#13131</prop>
+      <tuv lang="en">
+        <seg>Disabled</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T051609Z">
+        <seg>Забаронена</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#13610</prop>
+      <tuv lang="en">
+        <seg>Disabled</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T051614Z">
         <seg>Забаронена</seg>
       </tuv>
     </tu>
