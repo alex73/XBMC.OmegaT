@@ -2487,6 +2487,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#625</prop>
+      <tuv lang="en">
+        <seg>All songs of</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T035802Z">
+        <seg>Усе кампазыцыі з</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#14071</prop>
       <tuv lang="en">
         <seg>Allow file renaming and deletion</seg>
@@ -2733,6 +2743,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121111T111658Z">
         <seg>Аўдыё</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#14097</prop>
+      <tuv lang="en">
+        <seg>Audio CD Insert Action</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T035902Z">
+        <seg>Дзеяньне калі ўставіце аўдыё CD</seg>
       </tuv>
     </tu>
     <tu>
@@ -5597,6 +5617,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#624</prop>
+      <tuv lang="en">
+        <seg>Include track number</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T035755Z">
+        <seg>Уключаць нумар трэку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#19264</prop>
       <tuv lang="en">
         <seg>Incorrect PIN</seg>
@@ -5933,6 +5963,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121208T170123Z">
         <seg>Заблякавана ! Увядзіце код...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#227</prop>
+      <tuv lang="en">
+        <seg>Lookup audio CD track names from freedb.org</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T040014Z">
+        <seg>Шукаць назву трэку аўдыё CD на freedb.org</seg>
       </tuv>
     </tu>
     <tu>
@@ -7317,6 +7357,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#14098</prop>
+      <tuv lang="en">
+        <seg>Play</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T035914Z">
+        <seg>Граць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#208</prop>
       <tuv lang="en">
         <seg>Play</seg>
@@ -8047,6 +8097,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#14096</prop>
+      <tuv lang="en">
+        <seg>Rip</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T035943Z">
+        <seg>Канвэртаваць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#24048</prop>
       <tuv lang="en">
         <seg>Rollback</seg>
@@ -8153,6 +8213,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121111T111618Z">
         <seg>Захаваць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#20000</prop>
+      <tuv lang="en">
+        <seg>Saved music folder</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T040036Z">
+        <seg>Каталёг для захоўваньня музыкі</seg>
       </tuv>
     </tu>
     <tu>
