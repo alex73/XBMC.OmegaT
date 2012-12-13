@@ -3597,6 +3597,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#144</prop>
+      <tuv lang="en">
+        <seg>Build:</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T053552Z">
+        <seg>Зборка:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#21839</prop>
       <tuv lang="en">
         <seg>CCD width</seg>
@@ -4257,6 +4267,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#143</prop>
+      <tuv lang="en">
+        <seg>Current:</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T053546Z">
+        <seg>Дзейны:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#24067</prop>
       <tuv lang="en">
         <seg>Currently downloading Add-ons</seg>
@@ -4567,6 +4587,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#125</prop>
+      <tuv lang="en">
+        <seg>Delete these files? - Deleting files cannot be undone!</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T053459Z">
+        <seg>Выдаліць гэтыя файлы ? - Выдаленьне ня можа быць адмененае!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#21821</prop>
       <tuv lang="en">
         <seg>Description</seg>
@@ -4747,6 +4777,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#131</prop>
+      <tuv lang="en">
+        <seg>Display</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T053535Z">
+        <seg>Дысплэй</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#173</prop>
       <tuv lang="en">
         <seg>Display 4:3 videos as</seg>
@@ -4863,6 +4903,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121212T061019Z">
         <seg>Зладаваць зьвесткі пра фільм</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#155</prop>
+      <tuv lang="en">
+        <seg>Drive</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T053646Z">
+        <seg>Дыск</seg>
       </tuv>
     </tu>
     <tu>
@@ -5887,6 +5937,26 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#156</prop>
+      <tuv lang="en">
+        <seg>Free</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T053651Z">
+        <seg>Вольна</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#160</prop>
+      <tuv lang="en">
+        <seg>Free</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T053705Z">
+        <seg>Вольна</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#158</prop>
       <tuv lang="en">
         <seg>Free memory</seg>
@@ -6837,6 +6907,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#151</prop>
+      <tuv lang="en">
+        <seg>Link:</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T053613Z">
+        <seg>Злучэньне:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#535</prop>
       <tuv lang="en">
         <seg>List</seg>
@@ -7013,6 +7093,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121119T150653Z">
         <seg>Нізкая(хутка)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#149</prop>
+      <tuv lang="en">
+        <seg>MAC address</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T053602Z">
+        <seg>Адрас MAC</seg>
       </tuv>
     </tu>
     <tu>
@@ -7877,6 +7967,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#159</prop>
+      <tuv lang="en">
+        <seg>No link</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T053659Z">
+        <seg>Няма злучэньня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#16031</prop>
       <tuv lang="en">
         <seg>No matching songs in the library.</seg>
@@ -8043,6 +8143,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121111T111610Z">
         <seg>Добра</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#127</prop>
+      <tuv lang="en">
+        <seg>Objects</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T053505Z">
+        <seg>Аб'екты</seg>
       </tuv>
     </tu>
     <tu>
@@ -10613,6 +10723,26 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121106T144835Z">
         <seg>Штат</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#147</prop>
+      <tuv lang="en">
+        <seg>Static</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T053557Z">
+        <seg>Статычны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#126</prop>
+      <tuv lang="en">
+        <seg>Status</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T053502Z">
+        <seg>Статус</seg>
       </tuv>
     </tu>
     <tu>
