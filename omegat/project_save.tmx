@@ -1987,6 +1987,46 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#14049</prop>
+      <tuv lang="en">
+        <seg>%i kb</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T045855Z">
+        <seg>%i КіБ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#14048</prop>
+      <tuv lang="en">
+        <seg>%i kbps</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T045843Z">
+        <seg>%i кіб</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#14044</prop>
+      <tuv lang="en">
+        <seg>%i min</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T045908Z">
+        <seg>%i хв</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#14046</prop>
+      <tuv lang="en">
+        <seg>%i ms</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T045903Z">
+        <seg>%i мс</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#14045</prop>
       <tuv lang="en">
         <seg>%i sec</seg>
@@ -2173,6 +2213,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121119T144013Z">
         <seg>- Папярэдні прагляд</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#706</prop>
+      <tuv lang="en">
+        <seg>- Server</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T045718Z">
+        <seg>- сэрвер</seg>
       </tuv>
     </tu>
     <tu>
@@ -6221,8 +6271,18 @@
       <tuv lang="en">
         <seg>Internet access</seg>
       </tuv>
-      <tuv lang="be" changeid="alex" changedate="20121213T045600Z">
-        <seg>Доступ у інтэрнэт</seg>
+      <tuv lang="be" changeid="alex" changedate="20121213T045702Z">
+        <seg>Доступ у сеціва</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#14041</prop>
+      <tuv lang="en">
+        <seg>Internet connection bandwidth limitation</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T045753Z">
+        <seg>Абмежаваньне хуткасьці для сеціўнага злучэньня</seg>
       </tuv>
     </tu>
     <tu>
@@ -10903,6 +10963,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121213T034550Z">
         <seg>Па альбому</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#708</prop>
+      <tuv lang="en">
+        <seg>Use an HTTP proxy server to access the internet</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T045645Z">
+        <seg>Выкарыстоўваць HTTP проксі-сэрвэр для доступу ў сеціва</seg>
       </tuv>
     </tu>
     <tu>
