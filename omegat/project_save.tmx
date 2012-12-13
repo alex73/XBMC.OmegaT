@@ -4047,6 +4047,36 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#120</prop>
+      <tuv lang="en">
+        <seg>Confirm file copy</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T053252Z">
+        <seg>Пацьвердзіць капіяваньне файлу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#122</prop>
+      <tuv lang="en">
+        <seg>Confirm file delete?</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T053409Z">
+        <seg>Пацьвердзіць выдаленьне файлу ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#121</prop>
+      <tuv lang="en">
+        <seg>Confirm file move</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T053354Z">
+        <seg>Пацьвердзіць перамяшчэньне файлу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#13296</prop>
       <tuv lang="en">
         <seg>Connected</seg>
@@ -4133,6 +4163,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121112T073504Z">
         <seg>Скапіяваць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#123</prop>
+      <tuv lang="en">
+        <seg>Copy these files?</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T053417Z">
+        <seg>Капіяваць гэтыя файлы ?</seg>
       </tuv>
     </tu>
     <tu>
@@ -6487,6 +6527,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#114</prop>
+      <tuv lang="en">
+        <seg>Installation failed</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T053236Z">
+        <seg>Памылка ўсталёўкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#19172</prop>
       <tuv lang="en">
         <seg>Instant recording duration</seg>
@@ -7323,6 +7373,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121112T073515Z">
         <seg>Перамясьціць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#124</prop>
+      <tuv lang="en">
+        <seg>Move these files?</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T053432Z">
+        <seg>Перамяшчаць гэтыя файлы ?</seg>
       </tuv>
     </tu>
     <tu>
@@ -8383,6 +8443,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121208T154746Z">
         <seg>Прыпыняць прайграваньне падчас пераключэньня на іншую крыніцу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#112</prop>
+      <tuv lang="en">
+        <seg>Paused</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T053146Z">
+        <seg>Прыпынена</seg>
       </tuv>
     </tu>
     <tu>
@@ -9923,6 +9993,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121213T042528Z">
         <seg>Абагуліць відэа і музычныя бібліятэкі праз UPnP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#111</prop>
+      <tuv lang="en">
+        <seg>Shortcuts</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T053142Z">
+        <seg>Скароты</seg>
       </tuv>
     </tu>
     <tu>
@@ -11513,6 +11593,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121112T075510Z">
         <seg>Ёсьць абнаўленьне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#113</prop>
+      <tuv lang="en">
+        <seg>Update failed</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T053219Z">
+        <seg>Памылка абнаўленьня</seg>
       </tuv>
     </tu>
     <tu>
