@@ -2877,6 +2877,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#16016</prop>
+      <tuv lang="en">
+        <seg>Available options: %A, %T, %N, %B, %D, %G, %Y, %F, %S</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T035204Z">
+        <seg>Даступныя складнікі: %A, %T, %N, %B, %D, %G, %Y, %F, %S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#643</prop>
       <tuv lang="en">
         <seg>Avoid clipping on replay gained files</seg>
@@ -8217,6 +8227,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#14059</prop>
+      <tuv lang="en">
+        <seg>Search for thumbnails on remote shares</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T035357Z">
+        <seg>Шукаць мініятуры на адлеглай крыніцы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#194</prop>
       <tuv lang="en">
         <seg>Searching...</seg>
@@ -9723,6 +9743,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121213T035109Z">
         <seg>Шаблён назвы трэкаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#13387</prop>
+      <tuv lang="en">
+        <seg>Track naming template - right</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T035238Z">
+        <seg>Шаблён назвы трэкаў - справа</seg>
       </tuv>
     </tu>
     <tu>
