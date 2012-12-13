@@ -3907,12 +3907,32 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#317</prop>
+      <tuv lang="en">
+        <seg>Cleaned database successfully</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T055331Z">
+        <seg>База зьвестак вычышчаная пасьпяхова</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#313</prop>
       <tuv lang="en">
         <seg>Cleaning database</seg>
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121213T055232Z">
         <seg>Ачыстка базы зьвестак</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#318</prop>
+      <tuv lang="en">
+        <seg>Cleaning songs...</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T055344Z">
+        <seg>Ачыстка кампазыцый...</seg>
       </tuv>
     </tu>
     <tu>
@@ -5503,6 +5523,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121212T113759Z">
         <seg>Памылка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#319</prop>
+      <tuv lang="en">
+        <seg>Error cleaning songs</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T055400Z">
+        <seg>Памылка ачысткі кампазыцый</seg>
       </tuv>
     </tu>
     <tu>
