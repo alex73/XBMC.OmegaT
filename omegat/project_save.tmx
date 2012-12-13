@@ -37,6 +37,16 @@
     </tu>
     <tu>
       <prop type="file">addons/translations/xbmc-addons.script-moviequiz/en.po</prop>
+      <prop type="path">#30103</prop>
+      <tuv lang="en">
+        <seg>Exit</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T050322Z">
+        <seg>Выйсьці</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">addons/translations/xbmc-addons.script-moviequiz/en.po</prop>
       <prop type="path">#30050</prop>
       <tuv lang="en">
         <seg>Warning</seg>
@@ -6237,6 +6247,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#13017</prop>
+      <tuv lang="en">
+        <seg>Inhibit idle shutdown</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T050445Z">
+        <seg>Не выключаць падчас чаканьня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#14094</prop>
       <tuv lang="en">
         <seg>Input devices</seg>
@@ -9147,6 +9167,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#20004</prop>
+      <tuv lang="en">
+        <seg>Screenshot folder</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T050530Z">
+        <seg>Каталёг здымкаў экрану</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#137</prop>
       <tuv lang="en">
         <seg>Search</seg>
@@ -9603,6 +9633,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121212T070420Z">
         <seg>Выпадковы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#13005</prop>
+      <tuv lang="en">
+        <seg>Shutdown</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T050229Z">
+        <seg>Выключыць</seg>
       </tuv>
     </tu>
     <tu>
