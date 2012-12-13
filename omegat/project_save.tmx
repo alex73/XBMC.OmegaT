@@ -3827,6 +3827,26 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#20193</prop>
+      <tuv lang="en">
+        <seg>Default service for album information</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T034226Z">
+        <seg>Стандартны сэрвіс для зьвесткаў альбому</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#20194</prop>
+      <tuv lang="en">
+        <seg>Default service for artist information</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T034242Z">
+        <seg>Стандартны сэрвіс для зьвесткаў пра выканаўцу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#409</prop>
       <tuv lang="en">
         <seg>Defaults</seg>
@@ -4073,6 +4093,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121119T144751Z">
         <seg>Зладоўваць мініятуры актораў падчас дадаваньня ў бібліятэку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#20192</prop>
+      <tuv lang="en">
+        <seg>Download additional information during updates</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T034206Z">
+        <seg>Зладоўваць дадатковыя зьвесткі падчас абнаўленьняў</seg>
       </tuv>
     </tu>
     <tu>
@@ -7463,6 +7493,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121109T080811Z">
         <seg>У чаргу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#14084</prop>
+      <tuv lang="en">
+        <seg>Queue songs on selection</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T034416Z">
+        <seg>Кампазыцыю што абралі - у чаргу</seg>
       </tuv>
     </tu>
     <tu>
