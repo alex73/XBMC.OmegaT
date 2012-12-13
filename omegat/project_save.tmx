@@ -4407,12 +4407,22 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#14099</prop>
+      <tuv lang="en">
+        <seg>Eject disc when CD ripping is complete</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T040516Z">
+        <seg>Высунуць дыск калі канвэртаваньне CD скончыцца</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#13391</prop>
       <tuv lang="en">
         <seg>Eject/Load</seg>
       </tuv>
-      <tuv lang="be" changeid="alex" changedate="20121212T065805Z">
-        <seg>Прыняць / Узяць</seg>
+      <tuv lang="be" changeid="alex" changedate="20121213T040511Z">
+        <seg>Высунуць / Узяць</seg>
       </tuv>
     </tu>
     <tu>
@@ -9247,6 +9257,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#14100</prop>
+      <tuv lang="en">
+        <seg>Stop ripping CD</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T040426Z">
+        <seg>Спыніць канвэртаваньне CD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#13353</prop>
       <tuv lang="en">
         <seg>Stop scanning</seg>
@@ -11483,6 +11503,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121212T055646Z">
         <seg>Дзейны скрэпэр</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">skins/translations/xbmc-skins.skin-hybrid/en.po</prop>
+      <prop type="path">#31306</prop>
+      <tuv lang="en">
+        <seg>Eject</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T040503Z">
+        <seg>Высунуць</seg>
       </tuv>
     </tu>
     <tu>
