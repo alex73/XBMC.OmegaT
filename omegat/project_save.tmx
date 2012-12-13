@@ -2867,6 +2867,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#643</prop>
+      <tuv lang="en">
+        <seg>Avoid clipping on replay gained files</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T034729Z">
+        <seg>Пазьбягаць карэкцыі прыстасаваных файлаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#19244</prop>
       <tuv lang="en">
         <seg>Backend idle time</seg>
@@ -7387,6 +7397,26 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#642</prop>
+      <tuv lang="en">
+        <seg>PreAmp Level - Non replay gained files</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T034648Z">
+        <seg>Гучнасьць непрыстасаваных файлаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#641</prop>
+      <tuv lang="en">
+        <seg>PreAmp Level - Replay gained files</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T034637Z">
+        <seg>Гучнасьць прыстасаваных файлаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#33022</prop>
       <tuv lang="en">
         <seg>Precip</seg>
@@ -7803,6 +7833,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121120T083803Z">
         <seg>Зьмяніць назвы файлаў на загалоўкі бібліятэкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#638</prop>
+      <tuv lang="en">
+        <seg>Replaygain volume adjustments</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T034541Z">
+        <seg>Прыстасоўваць гучнасьць</seg>
       </tuv>
     </tu>
     <tu>
@@ -9817,6 +9857,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#640</prop>
+      <tuv lang="en">
+        <seg>Use album levels</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T034550Z">
+        <seg>Па альбому</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#19234</prop>
       <tuv lang="en">
         <seg>Use backend channels numbers (only works with 1 enabled PVR addon)</seg>
@@ -9843,6 +9893,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121212T060536Z">
         <seg>Выкарыстоўваць назвы каталёгаў для пошуку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#639</prop>
+      <tuv lang="en">
+        <seg>Use track levels</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T034546Z">
+        <seg>Па трэку</seg>
       </tuv>
     </tu>
     <tu>
