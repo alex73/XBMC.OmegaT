@@ -5891,8 +5891,8 @@
       <tuv lang="en">
         <seg>Get Add-ons</seg>
       </tuv>
-      <tuv lang="be" changeid="alex" changedate="20121213T042300Z">
-        <seg>Атрыманьне дадаткі</seg>
+      <tuv lang="be" changeid="alex" changedate="20121213T051212Z">
+        <seg>Атрыманьне дадаткаў</seg>
       </tuv>
     </tu>
     <tu>
@@ -6531,8 +6531,8 @@
       <tuv lang="en">
         <seg>Let driver choose (requires restart)</seg>
       </tuv>
-      <tuv lang="be" changeid="alex" changedate="20121213T043829Z">
-        <seg>Хай драйвэр думае(трэба рэстартаваць)</seg>
+      <tuv lang="be" changeid="alex" changedate="20121213T051414Z">
+        <seg>Хай драйвэр думае</seg>
       </tuv>
     </tu>
     <tu>
