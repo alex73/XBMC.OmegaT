@@ -6,3 +6,4 @@ set	прызначыць, вызначыць
 playlist	сьпіс прайграваньня
 item	складнік
 stream	плынь
+download	зладаваць	XBMC
