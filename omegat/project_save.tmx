@@ -9487,6 +9487,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#102</prop>
+      <tuv lang="en">
+        <seg>Scan</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T053133Z">
+        <seg>Сканаваць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#193</prop>
       <tuv lang="en">
         <seg>Scan</seg>
@@ -10947,6 +10957,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#4</prop>
+      <tuv lang="en">
+        <seg>TV-Guide</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T052959Z">
+        <seg>ТВ-праграма</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#20459</prop>
       <tuv lang="en">
         <seg>Tags</seg>
@@ -11637,6 +11657,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#92</prop>
+      <tuv lang="en">
+        <seg>Variable</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T053043Z">
+        <seg>Зьменны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#19534</prop>
       <tuv lang="en">
         <seg>Variety Show</seg>
@@ -11813,6 +11843,46 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121109T082011Z">
         <seg>Выгляд: %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#98</prop>
+      <tuv lang="en">
+        <seg>View: Auto</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T053055Z">
+        <seg>Выгляд: аўтаматычна</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#99</prop>
+      <tuv lang="en">
+        <seg>View: Auto big</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T053109Z">
+        <seg>Выгляд: вялікія аўтаматычна</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#100</prop>
+      <tuv lang="en">
+        <seg>View: Icons</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T053119Z">
+        <seg>Выгляд: значкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#101</prop>
+      <tuv lang="en">
+        <seg>View: List</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T053128Z">
+        <seg>Выгляд: сьпіс</seg>
       </tuv>
     </tu>
     <tu>
