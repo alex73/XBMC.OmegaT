@@ -2067,6 +2067,26 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#733</prop>
+      <tuv lang="en">
+        <seg>- Password</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T042859Z">
+        <seg>- пароль</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#730</prop>
+      <tuv lang="en">
+        <seg>- Port</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T042852Z">
+        <seg>- порт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#1000</prop>
       <tuv lang="en">
         <seg>- Preview</seg>
@@ -2123,6 +2143,26 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121112T084508Z">
         <seg>- Тэма</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#1272</prop>
+      <tuv lang="en">
+        <seg>- Use password protection</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T043303Z">
+        <seg>- выкарыстоўваць парольную абарону</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#1048</prop>
+      <tuv lang="en">
+        <seg>- Username</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T042929Z">
+        <seg>- імя карыстальніка</seg>
       </tuv>
     </tu>
     <tu>
@@ -2527,6 +2567,26 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#1270</prop>
+      <tuv lang="en">
+        <seg>Allow XBMC to receive AirPlay content</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T043236Z">
+        <seg>Дазволіць XBMC прымаць зьмесьціва AirPlay</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#263</prop>
+      <tuv lang="en">
+        <seg>Allow control of XBMC via HTTP</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T042835Z">
+        <seg>Дазволіць кантраляваць XBMC праз HTTP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#21881</prop>
       <tuv lang="en">
         <seg>Allow control of XBMC via UPnP</seg>
@@ -2607,6 +2667,26 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#794</prop>
+      <tuv lang="en">
+        <seg>Allow programs on other systems to control XBMC</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T043121Z">
+        <seg>Дазволіць праграмам на іншых сыстэмах кантраляваць XBMC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#791</prop>
+      <tuv lang="en">
+        <seg>Allow programs on this system to control XBMC</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T043101Z">
+        <seg>Дазволіць праграмам на гэтай сыстэме кантраляваць XBMC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#22021</prop>
       <tuv lang="en">
         <seg>Allowed error in aspect ratio to minimize black bars</seg>
@@ -2683,6 +2763,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121213T042609Z">
         <seg>Анансаваць зьмены бібліятэк праз UPnP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#1260</prop>
+      <tuv lang="en">
+        <seg>Announce these services to other systems via Zeroconf</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T043211Z">
+        <seg>Абвяшчаць гэтыя сэрвісы на іншыя сыстэмы праз Zeroconf</seg>
       </tuv>
     </tu>
     <tu>
@@ -2852,6 +2942,16 @@
         <seg>Audio output</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121121T094239Z">
+        <seg>Вывад аўдыё</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#772</prop>
+      <tuv lang="en">
+        <seg>Audio output</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T043607Z">
         <seg>Вывад аўдыё</seg>
       </tuv>
     </tu>
@@ -3987,6 +4087,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#1204</prop>
+      <tuv lang="en">
+        <seg>Default password</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T043417Z">
+        <seg>Стандартны пароль карыстальніка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#19174</prop>
       <tuv lang="en">
         <seg>Default recording lifetime</seg>
@@ -4033,6 +4143,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121213T034242Z">
         <seg>Стандартны сэрвіс для зьвесткаў пра выканаўцу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#1203</prop>
+      <tuv lang="en">
+        <seg>Default username</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T043425Z">
+        <seg>Стандартнае імя карыстальніка</seg>
       </tuv>
     </tu>
     <tu>
@@ -4243,6 +4363,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121119T150953Z">
         <seg>Паказваць відэа 4:3 як</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#240</prop>
+      <tuv lang="en">
+        <seg>Display Mode</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T043634Z">
+        <seg>Рэжым паказу</seg>
       </tuv>
     </tu>
     <tu>
@@ -6577,6 +6707,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#1208</prop>
+      <tuv lang="en">
+        <seg>Mount SMB shares</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T043518Z">
+        <seg>Мацаваць SMB абагульненьні</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#116</prop>
       <tuv lang="en">
         <seg>Move</seg>
@@ -8137,6 +8277,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#243</prop>
+      <tuv lang="en">
+        <seg>Refresh Rate</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T043659Z">
+        <seg>Часьціня абнаўленьня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#13315</prop>
       <tuv lang="en">
         <seg>Regenerate thumbnails</seg>
@@ -8163,6 +8313,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121208T164333Z">
         <seg>Рэлігія</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#790</prop>
+      <tuv lang="en">
+        <seg>Remote control</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T043031Z">
+        <seg>Аддалены кантроль</seg>
       </tuv>
     </tu>
     <tu>
@@ -8413,6 +8573,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121121T082956Z">
         <seg>паўд-усх</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#1200</prop>
+      <tuv lang="en">
+        <seg>SMB client</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T043331Z">
+        <seg>Кліент SMB</seg>
       </tuv>
     </tu>
     <tu>
@@ -10667,6 +10837,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#21373</prop>
+      <tuv lang="en">
+        <seg>Video output</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T043550Z">
+        <seg>Вывад відэа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#21443</prop>
       <tuv lang="en">
         <seg>Video resolution</seg>
@@ -10777,6 +10957,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#1207</prop>
+      <tuv lang="en">
+        <seg>WINS server</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T043347Z">
+        <seg>Сэрвер WINS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#84</prop>
       <tuv lang="en">
         <seg>WNW</seg>
@@ -10883,6 +11073,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121106T155342Z">
         <seg>Прагноз надвор'я</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#199</prop>
+      <tuv lang="en">
+        <seg>Web interface</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T042758Z">
+        <seg>Інтэфэйс ўэб</seg>
       </tuv>
     </tu>
     <tu>
@@ -11013,6 +11213,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121208T164501Z">
         <seg>Зімовы спорт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#1202</prop>
+      <tuv lang="en">
+        <seg>Workgroup</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T043341Z">
+        <seg>Група</seg>
       </tuv>
     </tu>
     <tu>
