@@ -13067,6 +13067,16 @@
     </tu>
     <tu>
       <prop type="file">skins/translations/xbmc-skins.skin-hybrid/en.po</prop>
+      <prop type="path">#31978</prop>
+      <tuv lang="en">
+        <seg>Play</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T052730Z">
+        <seg>Граць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">skins/translations/xbmc-skins.skin-hybrid/en.po</prop>
       <prop type="path">#31325</prop>
       <tuv lang="en">
         <seg>Playlist Options</seg>
@@ -13083,6 +13093,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121212T113223Z">
         <seg>Выпадкова</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">skins/translations/xbmc-skins.skin-hybrid/en.po</prop>
+      <prop type="path">#31981</prop>
+      <tuv lang="en">
+        <seg>Random Items</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121213T052724Z">
+        <seg>Выпадковыя складнікі</seg>
       </tuv>
     </tu>
     <tu>
