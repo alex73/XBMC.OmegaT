@@ -7577,6 +7577,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#795</prop>
+      <tuv lang="en">
+        <seg>Initial repeat delay (ms)</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T053700Z">
+        <seg>Пачатковы затрымка паўтору (мс)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#14094</prop>
       <tuv lang="en">
         <seg>Input devices</seg>
@@ -7633,6 +7643,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121212T115345Z">
         <seg>Працягласьць імгненнага запісу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#787</prop>
+      <tuv lang="en">
+        <seg>Interface disabled</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T053601Z">
+        <seg>Інтэрфэйс выключаны</seg>
       </tuv>
     </tu>
     <tu>
@@ -8953,6 +8973,36 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121214T052711Z">
         <seg>Сеткавы інтэрфэйс</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#786</prop>
+      <tuv lang="en">
+        <seg>Network interface did not start successfully.</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T053549Z">
+        <seg>Сеткавы інтэрфэйс не стартаваў пасьпяхова.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#788</prop>
+      <tuv lang="en">
+        <seg>Network interface disabled successfully.</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T053622Z">
+        <seg>Сеткавы інтэрфейс адключаны пасьпяхова.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#785</prop>
+      <tuv lang="en">
+        <seg>Network interface restarted successfully.</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T053534Z">
+        <seg>Сеткавы інтэрфэйс пасьпяхова рэстартаваны.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10293,6 +10343,26 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121208T164338Z">
         <seg>Папулярная культура / Традыцыйнае мастацтва</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#792</prop>
+      <tuv lang="en">
+        <seg>Port</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T053642Z">
+        <seg>Порт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#793</prop>
+      <tuv lang="en">
+        <seg>Port range</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T053649Z">
+        <seg>Дыяпазон партоў</seg>
       </tuv>
     </tu>
     <tu>
@@ -14773,6 +14843,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121208T164501Z">
         <seg>Зімовы спорт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#789</prop>
+      <tuv lang="en">
+        <seg>Wireless network name (ESSID)</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T053639Z">
+        <seg>Назва бяздротавай сеткі (ESSID)</seg>
       </tuv>
     </tu>
     <tu>
