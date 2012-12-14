@@ -8,3 +8,4 @@ item	складнік
 stream	плынь
 download	зладаваць	XBMC
 karaoke	караокэ
+skin	аздабленьне
