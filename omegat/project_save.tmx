@@ -2247,16 +2247,6 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
-      <prop type="path">#719</prop>
-      <tuv lang="en">
-        <seg>- IP address</seg>
-      </tuv>
-      <tuv lang="be" changeid="alex" changedate="20121214T052142Z">
-        <seg>- IP адрас</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#300</prop>
       <tuv lang="en">
         <seg>- MP1 capable receiver</seg>
@@ -2293,16 +2283,6 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121213T044542Z">
         <seg>- Multichannel LPCM прыймач</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
-      <prop type="path">#720</prop>
-      <tuv lang="en">
-        <seg>- Netmask</seg>
-      </tuv>
-      <tuv lang="be" changeid="alex" changedate="20121214T052145Z">
-        <seg>- </seg>
       </tuv>
     </tu>
     <tu>
@@ -2583,6 +2563,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121213T052405Z">
         <seg>Дадаць профіль...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#754</prop>
+      <tuv lang="en">
+        <seg>Add program link</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T052424Z">
+        <seg>Дадаць спасылку на праграму</seg>
       </tuv>
     </tu>
     <tu>
@@ -4113,6 +4103,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121109T083644Z">
         <seg>Гісторыя зьменаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#726</prop>
+      <tuv lang="en">
+        <seg>Changes not saved. Continue without saving?</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T052304Z">
+        <seg>Зьмены не захаваным. Працягнуць без захоўваньня ?</seg>
       </tuv>
     </tu>
     <tu>
@@ -5677,12 +5677,42 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#748</prop>
+      <tuv lang="en">
+        <seg>Edit path</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T052407Z">
+        <seg>Рэдагаваць шлях</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#586</prop>
       <tuv lang="en">
         <seg>Edit playlist</seg>
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121212T112847Z">
         <seg>Рэдагаваць сьпіс прайграваньня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#756</prop>
+      <tuv lang="en">
+        <seg>Edit program name</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T052440Z">
+        <seg>Рэдагаваць назву праграмы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#755</prop>
+      <tuv lang="en">
+        <seg>Edit program path</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T052432Z">
+        <seg>Рэдагаваць шлях праграмы</seg>
       </tuv>
     </tu>
     <tu>
@@ -6197,6 +6227,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#747</prop>
+      <tuv lang="en">
+        <seg>Error loading image</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T052400Z">
+        <seg>Памылка ладаваньня відарысу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#329</prop>
       <tuv lang="en">
         <seg>Error writing changes</seg>
@@ -6373,6 +6413,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121213T040158Z">
         <seg>Найлепшая</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#728</prop>
+      <tuv lang="en">
+        <seg>FTP server</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T052317Z">
+        <seg>Сэрвер FTP</seg>
       </tuv>
     </tu>
     <tu>
@@ -7573,6 +7623,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121213T052018Z">
         <seg>Сеціва:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#724</prop>
+      <tuv lang="en">
+        <seg>Invalid address specified. Value must be AAA.BBB.CCC.DDD</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T052233Z">
+        <seg>Абраны няправільны адрас. Правільны адрас павінен выглядаць як AAA.BBB.CCC.DDD</seg>
       </tuv>
     </tu>
     <tu>
@@ -9177,6 +9237,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#734</prop>
+      <tuv lang="en">
+        <seg>No pass</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T052326Z">
+        <seg>Без паролю</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#284</prop>
       <tuv lang="en">
         <seg>No results found</seg>
@@ -10117,6 +10187,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#746</prop>
+      <tuv lang="en">
+        <seg>Please turn off library mode</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T052350Z">
+        <seg>Калі ласка, выключыце рэжым бібліятэкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#19274</prop>
       <tuv lang="en">
         <seg>Please visit xbmc.org/pvr to learn more.</seg>
@@ -10807,6 +10887,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#751</prop>
+      <tuv lang="en">
+        <seg>Removing source</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T052415Z">
+        <seg>Выдаліць крыніцу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#118</prop>
       <tuv lang="en">
         <seg>Rename</seg>
@@ -11233,6 +11323,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121111T111618Z">
         <seg>Захаваць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#723</prop>
+      <tuv lang="en">
+        <seg>Save &amp; restart</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T052206Z">
+        <seg>Захаваць і рэстартаваць</seg>
       </tuv>
     </tu>
     <tu>
@@ -14407,6 +14507,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#727</prop>
+      <tuv lang="en">
+        <seg>Web server</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T052312Z">
+        <seg>Ўэбсэрвер</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#33101</prop>
       <tuv lang="en">
         <seg>Webserver</seg>
@@ -15023,6 +15133,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121213T041411Z">
         <seg>белы / чырвоны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#725</prop>
+      <tuv lang="en">
+        <seg>with numbers between 0 and 255.</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T052244Z">
+        <seg>з нумарамі ад 0 да 255.</seg>
       </tuv>
     </tu>
     <tu>
