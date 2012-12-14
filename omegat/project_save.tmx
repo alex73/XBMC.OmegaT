@@ -2417,6 +2417,36 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#776</prop>
+      <tuv lang="en">
+        <seg>- Wireless network name (ESSID)</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T052732Z">
+        <seg>- Назва бяздротавай сеткі (ESSID)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#777</prop>
+      <tuv lang="en">
+        <seg>- Wireless password</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T052748Z">
+        <seg>- Пароль бяздротавай сеткі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#778</prop>
+      <tuv lang="en">
+        <seg>- Wireless security</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T052759Z">
+        <seg>- Бясьпека бяздротавай сеткі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#20109</prop>
       <tuv lang="en">
         <seg>- Zoom</seg>
@@ -5687,6 +5717,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#757</prop>
+      <tuv lang="en">
+        <seg>Edit path depth</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T052514Z">
+        <seg>Рэдагаваць глыбіню шляху</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#586</prop>
       <tuv lang="en">
         <seg>Edit playlist</seg>
@@ -6163,6 +6203,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121212T113759Z">
         <seg>Памылка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#770</prop>
+      <tuv lang="en">
+        <seg>Error %i: share not available</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T052635Z">
+        <seg>Памылка %i: абагульненьне недасяжнае</seg>
       </tuv>
     </tu>
     <tu>
@@ -8887,6 +8937,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#775</prop>
+      <tuv lang="en">
+        <seg>Network interface</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T052711Z">
+        <seg>Сеткавы інтэрфэйс</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#221</prop>
       <tuv lang="en">
         <seg>Network is not connected</seg>
@@ -11607,6 +11667,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#773</prop>
+      <tuv lang="en">
+        <seg>Seeking</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T052650Z">
+        <seg>Перакручваем</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#424</prop>
       <tuv lang="en">
         <seg>Select</seg>
@@ -12253,6 +12323,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121120T092015Z">
         <seg>Слайдшоў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#774</prop>
+      <tuv lang="en">
+        <seg>Slideshow folder</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T052701Z">
+        <seg>Каталёг слайдшоў</seg>
       </tuv>
     </tu>
     <tu>
@@ -14283,6 +14363,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121214T045257Z">
         <seg>Выгляд: вялікія значкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#759</prop>
+      <tuv lang="en">
+        <seg>View: Big list</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T052543Z">
+        <seg>Выгляд: вялікі сьпіс</seg>
       </tuv>
     </tu>
     <tu>
