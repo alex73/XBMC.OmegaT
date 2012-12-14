@@ -3967,6 +3967,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#239</prop>
+      <tuv lang="en">
+        <seg>Clear playlist on finish</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T043947Z">
+        <seg>Сьцерці сьпіс прайграваньня напрыканцы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#19232</prop>
       <tuv lang="en">
         <seg>Clear search results</seg>
@@ -10247,6 +10257,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#251</prop>
+      <tuv lang="en">
+        <seg>Select destination directory</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T044054Z">
+        <seg>Абярыце каталёг прызначэньня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#396</prop>
       <tuv lang="en">
         <seg>Select location</seg>
@@ -10753,6 +10773,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121109T081921Z">
         <seg>Памеру</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#245</prop>
+      <tuv lang="en">
+        <seg>Sizing: (%i,%i)-&gt;(%i,%i) (Zoom x%2.2f) AR:%2.2f:1 (Pixels: %2.2f:1) (VShift: %2.2f)</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T044032Z">
+        <seg>Памер: (%i,%i)-&gt;(%i,%i) (Павелічэньне x%2.2f) AR:%2.2f:1 (Піксэл: %2.2f:1) (Зрух: %2.2f)</seg>
       </tuv>
     </tu>
     <tu>
@@ -12653,6 +12683,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121121T094011Z">
         <seg>Узмацненьне гуку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#205</prop>
+      <tuv lang="en">
+        <seg>Votes</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T043902Z">
+        <seg>Галасы</seg>
       </tuv>
     </tu>
     <tu>
