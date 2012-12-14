@@ -2577,6 +2577,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#526</prop>
+      <tuv lang="en">
+        <seg>Add to playlist</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T050732Z">
+        <seg>Дадаць у сьпіс прайграваньня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#24076</prop>
       <tuv lang="en">
         <seg>Add-on Required</seg>
@@ -2773,6 +2783,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121109T083701Z">
         <seg>Выканаўца альбома</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#541</prop>
+      <tuv lang="en">
+        <seg>Album icons</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T050904Z">
+        <seg>Значкі альбому</seg>
       </tuv>
     </tu>
     <tu>
@@ -3517,12 +3537,32 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#538</prop>
+      <tuv lang="en">
+        <seg>Big icons</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T050829Z">
+        <seg>Вялікія значкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#537</prop>
       <tuv lang="en">
         <seg>Big list</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121109T082043Z">
         <seg>Вялікі сьпіс</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#540</prop>
+      <tuv lang="en">
+        <seg>Big wide</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T050858Z">
+        <seg>Вялікі шырокі</seg>
       </tuv>
     </tu>
     <tu>
@@ -4277,6 +4317,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#521</prop>
+      <tuv lang="en">
+        <seg>Compilations</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T050659Z">
+        <seg>Зборкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#331</prop>
       <tuv lang="en">
         <seg>Compressing database...</seg>
@@ -4593,6 +4643,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121213T054124Z">
         <seg>Дыскавод DVD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#542</prop>
+      <tuv lang="en">
+        <seg>DVD icons</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T050907Z">
+        <seg>Значкі DVD</seg>
       </tuv>
     </tu>
     <tu>
@@ -5567,6 +5627,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#511</prop>
+      <tuv lang="en">
+        <seg>Enable video mode switching</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T050622Z">
+        <seg>Дазволіць пераключэньне рэжымаў відэа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#510</prop>
       <tuv lang="en">
         <seg>Enable visualizations</seg>
@@ -5643,6 +5713,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121212T112808Z">
         <seg>Увядзіце назву каталёгу</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#533</prop>
+      <tuv lang="en">
+        <seg>Enter genre</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T050821Z">
+        <seg>Увядзіце жанр</seg>
       </tuv>
     </tu>
     <tu>
@@ -5753,6 +5833,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121212T112633Z">
         <seg>Увядзіце назву сьпісу прайграваньня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#528</prop>
+      <tuv lang="en">
+        <seg>Enter title</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T050751Z">
+        <seg>Увядзіце назву</seg>
       </tuv>
     </tu>
     <tu>
@@ -5913,6 +6003,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121214T044433Z">
         <seg>Памылка запісу зьменаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#529</prop>
+      <tuv lang="en">
+        <seg>Error: Duplicate title</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T050759Z">
+        <seg>Памылка: назвы паўтараюцца</seg>
       </tuv>
     </tu>
     <tu>
@@ -7767,6 +7867,36 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#532</prop>
+      <tuv lang="en">
+        <seg>Manual addition</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T050812Z">
+        <seg>Ручное даданне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#514</prop>
+      <tuv lang="en">
+        <seg>Manual settings</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T050625Z">
+        <seg>Ручныя налады</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#527</prop>
+      <tuv lang="en">
+        <seg>Manually add to library</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T050742Z">
+        <seg>Уручную дадаць у бібліятэку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#53</prop>
       <tuv lang="en">
         <seg>Mar</seg>
@@ -8523,6 +8653,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121111T112009Z">
         <seg>Новы жанр</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#525</prop>
+      <tuv lang="en">
+        <seg>New playlist...</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T050718Z">
+        <seg>Новы сьпіс прайграваньня...</seg>
       </tuv>
     </tu>
     <tu>
@@ -10097,6 +10237,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#517</prop>
+      <tuv lang="en">
+        <seg>Recently played albums</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T050648Z">
+        <seg>Надоечы граныя альбомы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#264</prop>
       <tuv lang="en">
         <seg>Record</seg>
@@ -11047,6 +11197,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#530</prop>
+      <tuv lang="en">
+        <seg>Select genre</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T050807Z">
+        <seg>Абраць жанр</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#396</prop>
       <tuv lang="en">
         <seg>Select location</seg>
@@ -11063,6 +11223,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121213T053935Z">
         <seg>Абраць фільм:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#524</prop>
+      <tuv lang="en">
+        <seg>Select playlist</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T050709Z">
+        <seg>Абраць сьпіс прайграваньня</seg>
       </tuv>
     </tu>
     <tu>
@@ -13863,6 +14033,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121212T054613Z">
         <seg>Балянс белага</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#539</prop>
+      <tuv lang="en">
+        <seg>Wide</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T050831Z">
+        <seg>Шырокі</seg>
       </tuv>
     </tu>
     <tu>
