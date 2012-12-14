@@ -2457,6 +2457,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#410</prop>
+      <tuv lang="en">
+        <seg>Accessing weather service</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T045120Z">
+        <seg>Доступ да сэрвісу надвор'я</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#23050</prop>
       <tuv lang="en">
         <seg>Activate Teletext</seg>
@@ -4767,6 +4777,26 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#423</prop>
+      <tuv lang="en">
+        <seg>Delete CD information</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T045316Z">
+        <seg>Выдаліць зьвесткі пра CD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#422</prop>
+      <tuv lang="en">
+        <seg>Delete album info</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T045308Z">
+        <seg>Выдаліць зьвесткі пра альбом</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#19211</prop>
       <tuv lang="en">
         <seg>Delete channel</seg>
@@ -5117,6 +5147,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#415</prop>
+      <tuv lang="en">
+        <seg>Downloading thumbnail...</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T045238Z">
+        <seg>Зладоўваем мініятуры...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#155</prop>
       <tuv lang="en">
         <seg>Drive</seg>
@@ -5203,6 +5243,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121212T053439Z">
         <seg>Камэнтар EXIF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#388</prop>
+      <tuv lang="en">
+        <seg>Early</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T045032Z">
+        <seg>Раньні</seg>
       </tuv>
     </tu>
     <tu>
@@ -6127,6 +6177,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#390</prop>
+      <tuv lang="en">
+        <seg>Flurries</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T045043Z">
+        <seg>Парывы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#21827</prop>
       <tuv lang="en">
         <seg>Focal length</seg>
@@ -6493,6 +6553,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121212T064808Z">
         <seg>Атрымаць мініятуры</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#411</prop>
+      <tuv lang="en">
+        <seg>Getting weather for:</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T045149Z">
+        <seg>Атрымоўваць надвор'е для:</seg>
       </tuv>
     </tu>
     <tu>
@@ -7477,6 +7547,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#413</prop>
+      <tuv lang="en">
+        <seg>Manual</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T045222Z">
+        <seg>Ручны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#53</prop>
       <tuv lang="en">
         <seg>Mar</seg>
@@ -8327,6 +8407,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#425</prop>
+      <tuv lang="en">
+        <seg>No album information found</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T045334Z">
+        <seg>Няма зьвестак альбому</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#187</prop>
       <tuv lang="en">
         <seg>No albums found!</seg>
@@ -8473,6 +8563,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121208T200626Z">
         <seg>Паўночны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#416</prop>
+      <tuv lang="en">
+        <seg>Not available</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T045242Z">
+        <seg>Недаступны</seg>
       </tuv>
     </tu>
     <tu>
@@ -9757,6 +9857,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#397</prop>
+      <tuv lang="en">
+        <seg>Refresh time</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T045052Z">
+        <seg>Час абнаўленьня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#13315</prop>
       <tuv lang="en">
         <seg>Regenerate thumbnails</seg>
@@ -10443,6 +10553,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121208T155046Z">
         <seg>Сэзоны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#424</prop>
+      <tuv lang="en">
+        <seg>Select</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T045319Z">
+        <seg>Абраць</seg>
       </tuv>
     </tu>
     <tu>
@@ -11947,6 +12067,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#401</prop>
+      <tuv lang="en">
+        <seg>Temp</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T045105Z">
+        <seg>Тэмп.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#398</prop>
       <tuv lang="en">
         <seg>Temperature units</seg>
@@ -12413,6 +12543,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121112T080823Z">
         <seg>Сонечная акт.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#412</prop>
+      <tuv lang="en">
+        <seg>Unable to get weather data</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T045211Z">
+        <seg>Немагчыма атрымаць зьвесткі пра надвор'е</seg>
       </tuv>
     </tu>
     <tu>
@@ -12903,6 +13043,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121213T053109Z">
         <seg>Выгляд: вялікія аўтаматычна</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#417</prop>
+      <tuv lang="en">
+        <seg>View: Big icons</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T045257Z">
+        <seg>Выгляд: вялікія значкі</seg>
       </tuv>
     </tu>
     <tu>
