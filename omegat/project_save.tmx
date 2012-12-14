@@ -3337,6 +3337,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#1429</prop>
+      <tuv lang="en">
+        <seg>Ash</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T055528Z">
+        <seg>попел</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#20076</prop>
       <tuv lang="en">
         <seg>Ask for master lock code on startup</seg>
@@ -5717,6 +5727,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#1431</prop>
+      <tuv lang="en">
+        <seg>Dust</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T055550Z">
+        <seg>Пыл</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#75</prop>
       <tuv lang="en">
         <seg>E</seg>
@@ -7437,6 +7457,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#1426</prop>
+      <tuv lang="en">
+        <seg>Hail</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T055431Z">
+        <seg>Град</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#20156</prop>
       <tuv lang="en">
         <seg>Hard disk information</seg>
@@ -8823,6 +8853,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121214T045940Z">
         <seg>Рэжым</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#1420</prop>
+      <tuv lang="en">
+        <seg>Moderate</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T055337Z">
+        <seg>Умераны</seg>
       </tuv>
     </tu>
     <tu>
@@ -10387,6 +10427,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#1425</prop>
+      <tuv lang="en">
+        <seg>Pellets</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T055503Z">
+        <seg>крупа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#19597</prop>
       <tuv lang="en">
         <seg>Performing Arts</seg>
@@ -11897,6 +11947,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#1432</prop>
+      <tuv lang="en">
+        <seg>Sand</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T055552Z">
+        <seg>Пясок</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#46</prop>
       <tuv lang="en">
         <seg>Sat</seg>
@@ -12953,6 +13013,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121212T104639Z">
         <seg>Правілы спрытнага сьпісу прайграваньня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#1427</prop>
+      <tuv lang="en">
+        <seg>Smoke</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T055523Z">
+        <seg>смог</seg>
       </tuv>
     </tu>
     <tu>
@@ -14827,6 +14897,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#1421</prop>
+      <tuv lang="en">
+        <seg>Very High</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T055343Z">
+        <seg>Буйны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#1212</prop>
       <tuv lang="en">
         <seg>Video</seg>
@@ -15117,6 +15197,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#1428</prop>
+      <tuv lang="en">
+        <seg>Volcanic</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T055517Z">
+        <seg>Вулканічны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#13376</prop>
       <tuv lang="en">
         <seg>Volume</seg>
@@ -15393,6 +15483,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121119T151058Z">
         <seg>Шырокае і павялічанае</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#1430</prop>
+      <tuv lang="en">
+        <seg>Widespread</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T055547Z">
+        <seg>Распаўсюджаны</seg>
       </tuv>
     </tu>
     <tu>
