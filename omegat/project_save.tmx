@@ -3497,6 +3497,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#12006</prop>
+      <tuv lang="en">
+        <seg>Audio visualization</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T060856Z">
+        <seg>Візуалізацыя аўдыё</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#58</prop>
       <tuv lang="en">
         <seg>Aug</seg>
@@ -7287,6 +7297,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#12005</prop>
+      <tuv lang="en">
+        <seg>Fullscreen video</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T060848Z">
+        <seg>Відэа на ўвесь экран</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#1444</prop>
       <tuv lang="en">
         <seg>Funnel</seg>
@@ -10237,6 +10257,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#12321</prop>
+      <tuv lang="en">
+        <seg>Ok</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T061008Z">
+        <seg>Добра</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#16041</prop>
       <tuv lang="en">
         <seg>On</seg>
@@ -11447,6 +11477,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#12009</prop>
+      <tuv lang="en">
+        <seg>Rebuild index...</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T060915Z">
+        <seg>Перабудоўваньне індэксы...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#359</prop>
       <tuv lang="en">
         <seg>Recently added albums</seg>
@@ -11977,6 +12017,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#12022</prop>
+      <tuv lang="en">
+        <seg>Resume from %s</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T061002Z">
+        <seg>Працягнуць з</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#1041</prop>
       <tuv lang="en">
         <seg>Retrieved %i items</seg>
@@ -12003,6 +12053,26 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121208T165710Z">
         <seg>Атрымоўваньне сьпісу з Last.fm...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#12010</prop>
+      <tuv lang="en">
+        <seg>Return to music window</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T060928Z">
+        <seg>Вярнуцца да вакна музыкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#12011</prop>
+      <tuv lang="en">
+        <seg>Return to videos window</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T060936Z">
+        <seg>Вярнуцца да вакна відэа</seg>
       </tuv>
     </tu>
     <tu>
@@ -12483,6 +12553,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121213T054928Z">
         <seg>Вывад сцэнару</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#12004</prop>
+      <tuv lang="en">
+        <seg>Scripts/Info</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T060839Z">
+        <seg>Сцэнары / Зьвесткі</seg>
       </tuv>
     </tu>
     <tu>
@@ -13813,6 +13893,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121214T044600Z">
         <seg>Пачаць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#12021</prop>
+      <tuv lang="en">
+        <seg>Start from beginning</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T060942Z">
+        <seg>Пачаць спачатку</seg>
       </tuv>
     </tu>
     <tu>
