@@ -2117,6 +2117,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#312</prop>
+      <tuv lang="en">
+        <seg>(0=auto)</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T044209Z">
+        <seg>(0=аўтаматычна)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#299</prop>
       <tuv lang="en">
         <seg>- AAC capable receiver</seg>
@@ -3917,12 +3927,52 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#326</prop>
+      <tuv lang="en">
+        <seg>Cleaning albums...</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T044402Z">
+        <seg>Ачыстка альбомаў...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#320</prop>
+      <tuv lang="en">
+        <seg>Cleaning artists...</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T044223Z">
+        <seg>Ачыстка выканаўцаў...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#313</prop>
       <tuv lang="en">
         <seg>Cleaning database</seg>
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121213T055232Z">
         <seg>Ачыстка базы зьвестак</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#322</prop>
+      <tuv lang="en">
+        <seg>Cleaning genres...</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T044326Z">
+        <seg>Ачыстка жанраў...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#324</prop>
+      <tuv lang="en">
+        <seg>Cleaning paths...</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T044343Z">
+        <seg>Ачыстка шляхоў...</seg>
       </tuv>
     </tu>
     <tu>
@@ -5533,6 +5583,46 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121212T113759Z">
         <seg>Памылка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#327</prop>
+      <tuv lang="en">
+        <seg>Error cleaning albums</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T044409Z">
+        <seg>Памылка ачысткі альбомаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#321</prop>
+      <tuv lang="en">
+        <seg>Error cleaning artists</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T044240Z">
+        <seg>Памылка ачысткі выканаўцаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#323</prop>
+      <tuv lang="en">
+        <seg>Error cleaning genres</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T044334Z">
+        <seg>Памылка ачысткі жанраў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#325</prop>
+      <tuv lang="en">
+        <seg>Error cleaning paths</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T044353Z">
+        <seg>Памылка ачысткі шляхоў</seg>
       </tuv>
     </tu>
     <tu>
