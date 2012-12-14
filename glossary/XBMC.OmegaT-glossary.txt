@@ -9,3 +9,4 @@ stream	плынь
 download	зладаваць	XBMC
 karaoke	караокэ
 skin	аздабленьне
+share	абагульненьне
