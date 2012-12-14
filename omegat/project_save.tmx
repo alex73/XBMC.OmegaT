@@ -1397,6 +1397,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.skin-confluence/en.po</prop>
+      <prop type="path">#31004</prop>
+      <tuv lang="en">
+        <seg>Working...</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T061147Z">
+        <seg>Ідзе праца...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.skin-confluence/en.po</prop>
       <prop type="path">#31408</prop>
       <tuv lang="en">
         <seg>[B]CONFIGURE ADD-ONS[/B][CR][CR]Manage your installed Add-ons · Browse for and install Add-ons from xbmc.org[CR]Modify Add-on settings</seg>
@@ -1593,6 +1603,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121112T093437Z">
         <seg>Перадвызначана</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.skin-touched/en.po</prop>
+      <prop type="path">#31009</prop>
+      <tuv lang="en">
+        <seg>Working...</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T061155Z">
+        <seg>Ідзе праца...</seg>
       </tuv>
     </tu>
     <tu>
@@ -10647,6 +10667,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#15300</prop>
+      <tuv lang="en">
+        <seg>Path not found or invalid</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T061100Z">
+        <seg>Шляху няма ці ён няправільны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#13550</prop>
       <tuv lang="en">
         <seg>Pause during refresh rate change</seg>
@@ -12021,8 +12051,8 @@
       <tuv lang="en">
         <seg>Resume from %s</seg>
       </tuv>
-      <tuv lang="be" changeid="alex" changedate="20121214T061002Z">
-        <seg>Працягнуць з</seg>
+      <tuv lang="be" changeid="alex" changedate="20121214T061301Z">
+        <seg>Працягнуць з %s</seg>
       </tuv>
     </tu>
     <tu>
@@ -16906,6 +16936,26 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="file">skins/translations/xbmc-skins.skin-aeon-nox/en.po</prop>
+      <prop type="path">#31004</prop>
+      <tuv lang="en">
+        <seg>Working...</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T061158Z">
+        <seg>Ідзе праца...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">skins/translations/xbmc-skins.skin-back-row/en.po</prop>
+      <prop type="path">#31243</prop>
+      <tuv lang="en">
+        <seg>Working...</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T061202Z">
+        <seg>Ідзе праца...</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="file">skins/translations/xbmc-skins.skin-essence/en.po</prop>
       <prop type="path">#31904</prop>
       <tuv lang="en">
@@ -17103,6 +17153,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121212T050305Z">
         <seg>Прагноз на выходныя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">skins/translations/xbmc-skins.skin-essence/en.po</prop>
+      <prop type="path">#31004</prop>
+      <tuv lang="en">
+        <seg>Working...</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T061210Z">
+        <seg>Ідзе праца...</seg>
       </tuv>
     </tu>
     <tu>
@@ -17376,6 +17436,16 @@
       </tuv>
     </tu>
     <tu>
+      <prop type="file">skins/translations/xbmc-skins.skin-hybrid/en.po</prop>
+      <prop type="path">#31004</prop>
+      <tuv lang="en">
+        <seg>Working...</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T061213Z">
+        <seg>Ідзе праца...</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="file">skins/translations/xbmc-skins.skin-transparency/en.po</prop>
       <prop type="path">#31146</prop>
       <tuv lang="en">
@@ -17413,6 +17483,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121212T113229Z">
         <seg>Выпадкова</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">skins/translations/xbmc-skins.skin-transparency/en.po</prop>
+      <prop type="path">#31001</prop>
+      <tuv lang="en">
+        <seg>Working...</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T061218Z">
+        <seg>Ідзе праца...</seg>
       </tuv>
     </tu>
   </body>
