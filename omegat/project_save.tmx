@@ -4791,8 +4791,8 @@
       <tuv lang="en">
         <seg>Delete album info</seg>
       </tuv>
-      <tuv lang="be" changeid="alex" changedate="20121214T045308Z">
-        <seg>Выдаліць зьвесткі пра альбом</seg>
+      <tuv lang="be" changeid="alex" changedate="20121214T045339Z">
+        <seg>Выдаліць зьвесткі альбому</seg>
       </tuv>
     </tu>
     <tu>
@@ -4973,6 +4973,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121120T155520Z">
         <seg>Выключаныя дадаткі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#427</prop>
+      <tuv lang="en">
+        <seg>Disc</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T045352Z">
+        <seg>Дыск</seg>
       </tuv>
     </tu>
     <tu>
@@ -6987,6 +6997,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#428</prop>
+      <tuv lang="en">
+        <seg>Insert correct CD/DVD</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T045402Z">
+        <seg>Устаўце карэктны CD/DVD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#24038</prop>
       <tuv lang="en">
         <seg>Install</seg>
@@ -8377,6 +8397,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#426</prop>
+      <tuv lang="en">
+        <seg>No CD information found</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T045348Z">
+        <seg>Няма зьвестак пар CD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#19240</prop>
       <tuv lang="en">
         <seg>No PVR add-on enabled</seg>
@@ -8423,6 +8453,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121213T053910Z">
         <seg>Альбом ня знойдзены!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#431</prop>
+      <tuv lang="en">
+        <seg>No cache</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T045437Z">
+        <seg>Няма кэшу</seg>
       </tuv>
     </tu>
     <tu>
@@ -9367,6 +9407,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#429</prop>
+      <tuv lang="en">
+        <seg>Please insert the following disc:</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T045422Z">
+        <seg>Устаўце, калі ласка, наступны дыск:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#19274</prop>
       <tuv lang="en">
         <seg>Please visit xbmc.org/pvr to learn more.</seg>
@@ -9717,6 +9767,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#433</prop>
+      <tuv lang="en">
+        <seg>Really remove '%s'?</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T045453Z">
+        <seg>Сапраўды выдаліць '%s' ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#13013</prop>
       <tuv lang="en">
         <seg>Reboot</seg>
@@ -9973,6 +10033,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121213T050921Z">
         <seg>Выдаліць блякаваньне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#432</prop>
+      <tuv lang="en">
+        <seg>Remove movie from library</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T045443Z">
+        <seg>Выдаліць фільм з бібліятэкі</seg>
       </tuv>
     </tu>
     <tu>
@@ -11283,6 +11353,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121213T055036Z">
         <seg>Сартаваць па: выканаўцы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#430</prop>
+      <tuv lang="en">
+        <seg>Sort by: DVD#</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T045430Z">
+        <seg>Сартаваць па: DVD#</seg>
       </tuv>
     </tu>
     <tu>
