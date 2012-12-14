@@ -2597,6 +2597,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#1007</prop>
+      <tuv lang="en">
+        <seg>Add network location</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T054205Z">
+        <seg>Дадаць месца ў сетцы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#20058</prop>
       <tuv lang="en">
         <seg>Add profile...</seg>
@@ -3863,6 +3873,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121214T051802Z">
         <seg>Пашукаць бібліятэку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#1015</prop>
+      <tuv lang="en">
+        <seg>Browse for network server</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T054256Z">
+        <seg>Пашукаць сеткавы сэрвер</seg>
       </tuv>
     </tu>
     <tu>
@@ -6107,12 +6127,32 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#1016</prop>
+      <tuv lang="en">
+        <seg>Enter the network address of the server</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T054310Z">
+        <seg>Увядзіце сеткавы адрас сэрвера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#1029</prop>
       <tuv lang="en">
         <seg>Enter the new label</seg>
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121109T083221Z">
         <seg>Увесьці новы цэтлік</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#1017</prop>
+      <tuv lang="en">
+        <seg>Enter the path on the server</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T054330Z">
+        <seg>Увядзіце шлях на сэрверы</seg>
       </tuv>
     </tu>
     <tu>
@@ -10407,6 +10447,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#1013</prop>
+      <tuv lang="en">
+        <seg>Port</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T054241Z">
+        <seg>Порт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#792</prop>
       <tuv lang="en">
         <seg>Port</seg>
@@ -10603,6 +10653,16 @@
       </tuv>
       <tuv lang="be">
         <seg>Праграмы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#1008</prop>
+      <tuv lang="en">
+        <seg>Protocol</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T054207Z">
+        <seg>Пратакол</seg>
       </tuv>
     </tu>
     <tu>
@@ -10993,6 +11053,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121213T045439Z">
         <seg>Аддалены кантроль дасылае націсканьні клявіятуры</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#1011</prop>
+      <tuv lang="en">
+        <seg>Remote path</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T054228Z">
+        <seg>Аддалены шлях</seg>
       </tuv>
     </tu>
     <tu>
@@ -11987,6 +12057,26 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#1009</prop>
+      <tuv lang="en">
+        <seg>Server address</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T054214Z">
+        <seg>Адрас сэрвэру</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#1010</prop>
+      <tuv lang="en">
+        <seg>Server name</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T054222Z">
+        <seg>Назва сэрвэру</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#24029</prop>
       <tuv lang="en">
         <seg>Service for weather information</seg>
@@ -12133,6 +12223,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121213T042528Z">
         <seg>Абагуліць відэа і музычныя бібліятэкі праз UPnP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#1012</prop>
+      <tuv lang="en">
+        <seg>Shared folder</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T054239Z">
+        <seg>Абагульнены каталёг</seg>
       </tuv>
     </tu>
     <tu>
@@ -13513,6 +13613,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121120T092959Z">
         <seg>Уведзены нумар PIN - няправільны.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#1003</prop>
+      <tuv lang="en">
+        <seg>This could be due to the network not being connected.</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T054117Z">
+        <seg>Магчыма, гэта таму што сетка не падлучаная.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14957,6 +15067,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#1004</prop>
+      <tuv lang="en">
+        <seg>Would you like to add it anyway?</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T054157Z">
+        <seg>Ці хочаце вы ўсё роўна дадаць ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#24060</prop>
       <tuv lang="en">
         <seg>Would you like to disable this Add-on?</seg>
@@ -15013,6 +15133,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121214T044424Z">
         <seg>Запіс зьменаў...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#1002</prop>
+      <tuv lang="en">
+        <seg>XBMC was unable to connect to the network location.</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T054051Z">
+        <seg>XBMC ня можа злучыцца да месца ў сетцы.</seg>
       </tuv>
     </tu>
     <tu>
