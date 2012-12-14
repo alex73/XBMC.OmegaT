@@ -2377,6 +2377,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#491</prop>
+      <tuv lang="en">
+        <seg>- Use big icons</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T050310Z">
+        <seg>- Выкарыстоўваць вялікія значкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#1272</prop>
       <tuv lang="en">
         <seg>- Use password protection</seg>
@@ -2703,6 +2713,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121208T164924Z">
         <seg>Фільмы для дарослых / Драмы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#493</prop>
+      <tuv lang="en">
+        <seg>Advanced options (Experts Only!)</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T050330Z">
+        <seg>Дадатковыя налады (толькі для экспэртаў!)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3707,6 +3727,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#503</prop>
+      <tuv lang="en">
+        <seg>Busy</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T050548Z">
+        <seg>Заняты</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#21839</prop>
       <tuv lang="en">
         <seg>CCD width</seg>
@@ -3763,6 +3793,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121213T054104Z">
         <seg>Калібраваць карыстальніцкі інтэрфэйс</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#496</prop>
+      <tuv lang="en">
+        <seg>Calibration</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T050355Z">
+        <seg>Калібраваньне</seg>
       </tuv>
     </tu>
     <tu>
@@ -5217,6 +5257,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#500</prop>
+      <tuv lang="en">
+        <seg>Downloading album information failed</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T050452Z">
+        <seg>Памылка ладаваньня зьвестак альбому</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#20374</prop>
       <tuv lang="en">
         <seg>Downloading movie information</seg>
@@ -5437,6 +5487,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#504</prop>
+      <tuv lang="en">
+        <seg>Empty</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T050538Z">
+        <seg>Пусты</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#24022</prop>
       <tuv lang="en">
         <seg>Enable</seg>
@@ -5503,6 +5563,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121213T035013Z">
         <seg>Дазволіць чытаньне цэтлікаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#510</prop>
+      <tuv lang="en">
+        <seg>Enable visualizations</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T050607Z">
+        <seg>Ўключыць візуалізацыю</seg>
       </tuv>
     </tu>
     <tu>
@@ -7617,6 +7687,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#501</prop>
+      <tuv lang="en">
+        <seg>Looking for album names...</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T050525Z">
+        <seg>Шукаем назву альбома ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#227</prop>
       <tuv lang="en">
         <seg>Lookup audio CD track names from freedb.org</seg>
@@ -8983,6 +9063,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121213T045302Z">
         <seg>Толькі пры спыненым прайграваньні</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#502</prop>
+      <tuv lang="en">
+        <seg>Open</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T050530Z">
+        <seg>Адчыніць</seg>
       </tuv>
     </tu>
     <tu>
@@ -10387,6 +10477,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#492</prop>
+      <tuv lang="en">
+        <seg>Resize VobSubs</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T050315Z">
+        <seg>Зьмена памеру VobSubs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#169</prop>
       <tuv lang="en">
         <seg>Resolution</seg>
@@ -11747,6 +11847,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#507</prop>
+      <tuv lang="en">
+        <seg>Sort by: Usage</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T050603Z">
+        <seg>Сартаваць па: выкарыстаньню</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#366</prop>
       <tuv lang="en">
         <seg>Sort by: Year</seg>
@@ -12923,6 +13033,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121112T080823Z">
         <seg>Сонечная акт.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#499</prop>
+      <tuv lang="en">
+        <seg>Unable to connect to online lookup service</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T050434Z">
+        <seg>Немагчыма падлучыцца да сеціўнага сэрвісу пошуку</seg>
       </tuv>
     </tu>
     <tu>
