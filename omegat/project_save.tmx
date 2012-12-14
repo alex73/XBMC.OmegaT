@@ -2537,6 +2537,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#12345</prop>
+      <tuv lang="en">
+        <seg>Access denied</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T061626Z">
+        <seg>Доступ забаронены</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#1046</prop>
       <tuv lang="en">
         <seg>Access points</seg>
@@ -8127,6 +8137,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#12348</prop>
+      <tuv lang="en">
+        <seg>Item locked</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T061721Z">
+        <seg>Складнік заблякаваны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#21424</prop>
       <tuv lang="en">
         <seg>Items must match</seg>
@@ -10657,6 +10677,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#12346</prop>
+      <tuv lang="en">
+        <seg>Password retry limit exceeded.</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T061650Z">
+        <seg>Перавышаная колькасьць спробаў паролю.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#12344</prop>
       <tuv lang="en">
         <seg>Passwords entered did not match.</seg>
@@ -11233,6 +11263,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121213T054029Z">
         <seg>Папярэдні</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#12350</prop>
+      <tuv lang="en">
+        <seg>Processing %s</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T061757Z">
+        <seg>Апрацоўка %s</seg>
       </tuv>
     </tu>
     <tu>
@@ -11993,6 +12033,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121119T150641Z">
         <seg>Якасьць зьмены</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#12334</prop>
+      <tuv lang="en">
+        <seg>Reset lock</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T061614Z">
+        <seg>Скінуць блякаваньне</seg>
       </tuv>
     </tu>
     <tu>
@@ -14627,6 +14677,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#12347</prop>
+      <tuv lang="en">
+        <seg>The system will now shut off.</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T061713Z">
+        <seg>Зараз сыстэма будзе выключаная.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#1003</prop>
       <tuv lang="en">
         <seg>This could be due to the network not being connected.</seg>
@@ -15273,6 +15333,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121119T145342Z">
         <seg>Абнаўляць бібліятэку падчас старту</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#12349</prop>
+      <tuv lang="en">
+        <seg>Updating video library art</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T061743Z">
+        <seg>Абнаўленьне графікі відэа бібліятэкі</seg>
       </tuv>
     </tu>
     <tu>
