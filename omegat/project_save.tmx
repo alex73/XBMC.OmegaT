@@ -2847,6 +2847,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#593</prop>
+      <tuv lang="en">
+        <seg>All</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T051410Z">
+        <seg>Усе</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#19217</prop>
       <tuv lang="en">
         <seg>All TV channels</seg>
@@ -3203,6 +3213,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121208T164308Z">
         <seg>Мастацтва / Культура</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#584</prop>
+      <tuv lang="en">
+        <seg>Ascending</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T051336Z">
+        <seg>Наўпросты</seg>
       </tuv>
     </tu>
     <tu>
@@ -3787,6 +3807,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#609</prop>
+      <tuv lang="en">
+        <seg>CDDARipPath is not set.</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T051516Z">
+        <seg>CDDARipPath ня вызначаны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#13271</prop>
       <tuv lang="en">
         <seg>CPU Usage:</seg>
@@ -3923,6 +3953,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121213T053828Z">
         <seg>Скасаваць файлавую апэрацыю</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#588</prop>
+      <tuv lang="en">
+        <seg>Cancel party mode</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T051353Z">
+        <seg>Скасаваць рэжым вечарынкі</seg>
       </tuv>
     </tu>
     <tu>
@@ -4507,6 +4547,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#608</prop>
+      <tuv lang="en">
+        <seg>Could not rip CD or track</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T051503Z">
+        <seg>Немагчыма канвэртаваць CD ці трэк</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#21875</prop>
       <tuv lang="en">
         <seg>Country</seg>
@@ -4993,6 +5043,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121213T053459Z">
         <seg>Выдаліць гэтыя файлы ? - Выдаленьне ня можа быць адмененае!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#585</prop>
+      <tuv lang="en">
+        <seg>Descending</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T051339Z">
+        <seg>Адваротны</seg>
       </tuv>
     </tu>
     <tu>
@@ -9247,6 +9307,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#592</prop>
+      <tuv lang="en">
+        <seg>One</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T051408Z">
+        <seg>Адзін</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#34121</prop>
       <tuv lang="en">
         <seg>Only when playback stopped</seg>
@@ -9503,6 +9573,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121109T085014Z">
         <seg>часткова</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#589</prop>
+      <tuv lang="en">
+        <seg>Party mode</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T051400Z">
+        <seg>Рэжым вечарынкі</seg>
       </tuv>
     </tu>
     <tu>
@@ -10437,6 +10517,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#583</prop>
+      <tuv lang="en">
+        <seg>Remember views for different folders</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T051302Z">
+        <seg>Памятаць выгляд для некалькіх каталёгаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#790</prop>
       <tuv lang="en">
         <seg>Remote control</seg>
@@ -10743,6 +10833,36 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121213T035943Z">
         <seg>Канвэртаваць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#600</prop>
+      <tuv lang="en">
+        <seg>Rip audio CD</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T051439Z">
+        <seg>Канвэртаваць аўдыё CD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#610</prop>
+      <tuv lang="en">
+        <seg>Rip audio track</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T051528Z">
+        <seg>Канвэртаваць аўдыё трэк</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#605</prop>
+      <tuv lang="en">
+        <seg>Ripping...</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T051446Z">
+        <seg>Канвэртаваньне...</seg>
       </tuv>
     </tu>
     <tu>
@@ -13037,6 +13157,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#607</prop>
+      <tuv lang="en">
+        <seg>To:</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T051449Z">
+        <seg>У:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#271</prop>
       <tuv lang="en">
         <seg>Top 100</seg>
@@ -13773,6 +13903,16 @@
       </tuv>
       <tuv lang="be">
         <seg>Відэа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#582</prop>
+      <tuv lang="en">
+        <seg>View mode</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T051238Z">
+        <seg>Рэжым прагляду</seg>
       </tuv>
     </tu>
     <tu>
