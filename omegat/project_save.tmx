@@ -5967,6 +5967,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#2080</prop>
+      <tuv lang="en">
+        <seg>Empty list</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T055945Z">
+        <seg>Пусты сьпіс</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#24022</prop>
       <tuv lang="en">
         <seg>Enable</seg>
@@ -6807,6 +6817,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#10003</prop>
+      <tuv lang="en">
+        <seg>File manager</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T060117Z">
+        <seg>Кіраўнік файлаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#7</prop>
       <tuv lang="en">
         <seg>File manager</seg>
@@ -7623,6 +7643,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121112T080519Z">
         <seg>Найбольшая</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#10000</prop>
+      <tuv lang="en">
+        <seg>Home</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T060105Z">
+        <seg>Дадому</seg>
       </tuv>
     </tu>
     <tu>
@@ -9537,6 +9567,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#2101</prop>
+      <tuv lang="en">
+        <seg>Newer version needed - See log</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T060100Z">
+        <seg>Патрэбная новая вэрсія - глядзіце часапіс</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#19518</prop>
       <tuv lang="en">
         <seg>News Magazine</seg>
@@ -10333,6 +10373,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121212T120209Z">
         <seg>Бацькоўскае блякаваньне:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#1449</prop>
+      <tuv lang="en">
+        <seg>Partial</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T055916Z">
+        <seg>часткова</seg>
       </tuv>
     </tu>
     <tu>
@@ -12217,6 +12267,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#2100</prop>
+      <tuv lang="en">
+        <seg>Script failed! : %s</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T060040Z">
+        <seg>Памылка сцэнару!: %s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#1049</prop>
       <tuv lang="en">
         <seg>Script settings</seg>
@@ -12587,12 +12647,42 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#10004</prop>
+      <tuv lang="en">
+        <seg>Settings</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T060119Z">
+        <seg>Налады</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#5</prop>
       <tuv lang="en">
         <seg>Settings</seg>
       </tuv>
       <tuv lang="be">
         <seg>Налады</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#10010</prop>
+      <tuv lang="en">
+        <seg>Settings - Appearance - GUI Calibration</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T060219Z">
+        <seg>Налады - Вонкавы выгляд - Калібраваньне GUI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#10008</prop>
+      <tuv lang="en">
+        <seg>Settings - General</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T060132Z">
+        <seg>Налады - Агульныя</seg>
       </tuv>
     </tu>
     <tu>
@@ -12623,6 +12713,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121121T084128Z">
         <seg>Налады - Праграмы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#10009</prop>
+      <tuv lang="en">
+        <seg>Settings - Screen</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T060136Z">
+        <seg>Налады - Экран</seg>
       </tuv>
     </tu>
     <tu>
@@ -13967,6 +14067,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#10007</prop>
+      <tuv lang="en">
+        <seg>System information</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T060125Z">
+        <seg>Сістэмная інфармацыя</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#12390</prop>
       <tuv lang="en">
         <seg>System uptime</seg>
@@ -15167,6 +15277,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#10006</prop>
+      <tuv lang="en">
+        <seg>Videos</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T060121Z">
+        <seg>Відэа</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#3</prop>
       <tuv lang="en">
         <seg>Videos</seg>
@@ -15523,6 +15643,16 @@
       </tuv>
       <tuv lang="be">
         <seg>Серада</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#2081</prop>
+      <tuv lang="en">
+        <seg>Went back to parent list because the active list has been emptied</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T060023Z">
+        <seg>Вярнуліся ў бацькоўскі сьпісе, таму што ў актыўны сьпіс быў ачышчаны</seg>
       </tuv>
     </tu>
     <tu>
