@@ -6197,6 +6197,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#12330</prop>
+      <tuv lang="en">
+        <seg>Enter gamepad button combo and</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T061431Z">
+        <seg>Увядзіце камбінацыю кнопак гэймпаду альбо</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#533</prop>
       <tuv lang="en">
         <seg>Enter genre</seg>
@@ -12917,6 +12927,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#12332</prop>
+      <tuv lang="en">
+        <seg>Set lock</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T061549Z">
+        <seg>Усталяваць блякаваньне</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#1044</prop>
       <tuv lang="en">
         <seg>Set plugin thumb</seg>
@@ -15167,6 +15187,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#12333</prop>
+      <tuv lang="en">
+        <seg>Unlock</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T061553Z">
+        <seg>Разблякаваць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#19258</prop>
       <tuv lang="en">
         <seg>Unlock channel</seg>
@@ -16693,6 +16723,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121208T170040Z">
         <seg>ці націсьніце C каб скасаваць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#12331</prop>
+      <tuv lang="en">
+        <seg>press OK, or Back to cancel</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T061457Z">
+        <seg>націсьніце "Добра", "Назад" каб скасаваць</seg>
       </tuv>
     </tu>
     <tu>
