@@ -2577,6 +2577,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#998</prop>
+      <tuv lang="en">
+        <seg>Add Music...</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T053937Z">
+        <seg>Дадаць музыку...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#999</prop>
       <tuv lang="en">
         <seg>Add Videos...</seg>
@@ -4663,6 +4673,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121120T092722Z">
         <seg>Працягнуць?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#796</prop>
+      <tuv lang="en">
+        <seg>Continuous repeat delay (ms)</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T053732Z">
+        <seg>Безупынныя затрымкі паўтору (мс)</seg>
       </tuv>
     </tu>
     <tu>
@@ -7717,6 +7737,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#850</prop>
+      <tuv lang="en">
+        <seg>Invalid port number entered</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T053909Z">
+        <seg>Абраны няправільны порт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#712</prop>
       <tuv lang="en">
         <seg>Invalid port specified. Value must be between 1 and 65535.</seg>
@@ -7913,6 +7943,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121119T144236Z">
         <seg>Бібліятэка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#799</prop>
+      <tuv lang="en">
+        <seg>Library Update</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T053755Z">
+        <seg>Абнаўленьне бібліятэкі</seg>
       </tuv>
     </tu>
     <tu>
@@ -8377,6 +8417,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#797</prop>
+      <tuv lang="en">
+        <seg>Maximum number of clients</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T053740Z">
+        <seg>Максымальнае колькасьць кліентаў</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#13504</prop>
       <tuv lang="en">
         <seg>Maximum resample amount (%)</seg>
@@ -8783,6 +8833,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121109T083433Z">
         <seg>Дадаткі музыкі</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#800</prop>
+      <tuv lang="en">
+        <seg>Music library needs to rescan art from tags</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T053837Z">
+        <seg>Музычнай бібліятэцы трэба перасканаваць малюнкі з цэтлікаў</seg>
       </tuv>
     </tu>
     <tu>
@@ -13907,6 +13967,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#1001</prop>
+      <tuv lang="en">
+        <seg>Unable to connect</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T053944Z">
+        <seg>Немагчыма злучыцца</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#499</prop>
       <tuv lang="en">
         <seg>Unable to connect to online lookup service</seg>
@@ -14203,6 +14273,26 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121208T190846Z">
         <seg>Ператварэньне ўзроўняў колераў VDPAU Studio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#851</prop>
+      <tuv lang="en">
+        <seg>Valid port range is 1-65535</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T053922Z">
+        <seg>Правільны нумар павінен быць ад 1 да 65535</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#852</prop>
+      <tuv lang="en">
+        <seg>Valid port range is 1024-65535</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T053928Z">
+        <seg>Правільны нумар павінен быць ад 1024 да 65535</seg>
       </tuv>
     </tu>
     <tu>
@@ -14903,6 +14993,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121214T051902Z">
         <seg>Ці вы жадаеце выдаліць яго з бібліятэкі ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#801</prop>
+      <tuv lang="en">
+        <seg>Would you like to scan now?</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T053852Z">
+        <seg>Ці жадаеце сканаваць зараз ?</seg>
       </tuv>
     </tu>
     <tu>
