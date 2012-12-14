@@ -3197,6 +3197,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#784</prop>
+      <tuv lang="en">
+        <seg>Applying network interface settings. Please wait.</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T053003Z">
+        <seg>Ужываньне наладаў сеткавага інтэрфэйсу. Пачакайце, калі ласка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#54</prop>
       <tuv lang="en">
         <seg>Apr</seg>
@@ -9237,6 +9247,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#780</prop>
+      <tuv lang="en">
+        <seg>No encryption</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T052915Z">
+        <seg>Без шыфравання</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#195</prop>
       <tuv lang="en">
         <seg>No info found!</seg>
@@ -11393,6 +11413,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121214T052206Z">
         <seg>Захаваць і рэстартаваць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#779</prop>
+      <tuv lang="en">
+        <seg>Save and apply network interface settings</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T052910Z">
+        <seg>Захаваць і ўжыць налады сеткавага інтэрфэйсу</seg>
       </tuv>
     </tu>
     <tu>
