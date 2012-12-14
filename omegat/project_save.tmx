@@ -2797,6 +2797,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#358</prop>
+      <tuv lang="en">
+        <seg>All albums</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T044736Z">
+        <seg>Усе альбомы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#19186</prop>
       <tuv lang="en">
         <seg>All data in the PVR database is being erased</seg>
@@ -5877,6 +5887,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#385</prop>
+      <tuv lang="en">
+        <seg>Fair</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T045013Z">
+        <seg>Сонечна</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#1036</prop>
       <tuv lang="en">
         <seg>Favourites</seg>
@@ -5923,6 +5943,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121213T054839Z">
         <seg>Атрыманьне зьвестак CD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#381</prop>
+      <tuv lang="en">
+        <seg>Few</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T044936Z">
+        <seg>Невялікі</seg>
       </tuv>
     </tu>
     <tu>
@@ -7183,6 +7213,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121109T083624Z">
         <seg>Ліцэнзія:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#377</prop>
+      <tuv lang="en">
+        <seg>Light</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T044931Z">
+        <seg>Лёгкі</seg>
       </tuv>
     </tu>
     <tu>
@@ -11137,6 +11177,16 @@
     </tu>
     <tu>
       <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#363</prop>
+      <tuv lang="en">
+        <seg>Sort by: File</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T044754Z">
+        <seg>Сартаваць па: файлам</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
       <prop type="path">#103</prop>
       <tuv lang="en">
         <seg>Sort by: Name</seg>
@@ -11503,6 +11553,16 @@
       </tuv>
       <tuv lang="be" changeid="Alex" changedate="20121119T151046Z">
         <seg>Расьцягнутае 4:3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#384</prop>
+      <tuv lang="en">
+        <seg>Strong</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T044857Z">
+        <seg>Моцны</seg>
       </tuv>
     </tu>
     <tu>
@@ -12073,6 +12133,16 @@
       </tuv>
       <tuv lang="be" changeid="alex" changedate="20121212T115108Z">
         <seg>Тэрмін чаканьня пачатку прайграваньня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">main/translations/XBMC-Main-Frodo.xbmc-core/en.po</prop>
+      <prop type="path">#369</prop>
+      <tuv lang="en">
+        <seg>Title</seg>
+      </tuv>
+      <tuv lang="be" changeid="alex" changedate="20121214T044821Z">
+        <seg>Назва</seg>
       </tuv>
     </tu>
     <tu>
