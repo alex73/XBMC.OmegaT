@@ -1,7 +1,7 @@
 # XBMC Media Center language file
-# Addon Name: Last.FM
-# Addon id: metadata.albums.last.fm
-# Addon version: 1.2.2
+# Addon Name: Njoy N7 PVR Client
+# Addon id: pvr.njoy
+# Addon version: 1.6.2
 # Addon Provider: Team XBMC
 # Translators:
 msgid ""
@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: XBMC Main Translation Project (Frodo)\n"
 "Report-Msgid-Bugs-To: http://trac.xbmc.org/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2012-11-24 19:38+0000\n"
+"PO-Revision-Date: 2013-01-01 23:14+0000\n"
 "Last-Translator: XBMC Translation Team\n"
 "Language-Team: English (http://www.transifex.com/projects/p/XBMC-Main-Frodo/language/en/)\n"
 "MIME-Version: 1.0\n"
@@ -19,13 +19,13 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgctxt "Addon Summary"
-msgid "LastFM Album Scraper"
-msgstr "LastFM Album Scraper"
-
-msgctxt "Addon Description"
-msgid "Download Music information from www.last.fm"
-msgstr "Download Music information from www.last.fm"
+msgid "Njoy N7 PVR Client"
+msgstr "Njoy N7 PVR Client"
 
 msgctxt "#30000"
-msgid "Language"
-msgstr "Language"
+msgid "N7 IP"
+msgstr "N7 IP"
+
+msgctxt "#30001"
+msgid "N7 Port"
+msgstr "N7 Port"

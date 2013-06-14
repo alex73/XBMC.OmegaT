@@ -1,7 +1,6 @@
 # XBMC Media Center language file
-# Addon Name: Universal Scraper
+# Addon Name: Universal Movie Scraper
 # Addon id: metadata.universal
-# Addon version: 1.9.0
 # Addon Provider: Olympia, Team XBMC
 # Translators:
 msgid ""
@@ -9,7 +8,7 @@ msgstr ""
 "Project-Id-Version: XBMC Main Translation Project (Frodo)\n"
 "Report-Msgid-Bugs-To: http://trac.xbmc.org/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2012-12-05 21:46+0000\n"
+"PO-Revision-Date: 2013-02-21 10:45+0000\n"
 "Last-Translator: TeamXBMC <xbmctranslations@gmail.com>\n"
 "Language-Team: English (http://www.transifex.com/projects/p/XBMC-Main-Frodo/language/en/)\n"
 "MIME-Version: 1.0\n"
@@ -24,11 +23,13 @@ msgstr "Universal Movie Scraper"
 
 msgctxt "Addon Description"
 msgid ""
-"This scraper collecting information from the following supported sites: "
-"IMDb, TMDb, Rotten Tomatoes, Trakt.tv, OFDb.de. It always does the initial "
-"search on TMDb, but following that it can be set field by field that from "
-"which site you want that specific information."
-msgstr "This scraper collecting information from the following supported sites: IMDb, TMDb, Rotten Tomatoes, Trakt.tv, OFDb.de. It always does the initial search on TMDb, but following that it can be set field by field that from which site you want that specific information."
+"Universal Scraper is currently the most customizable scraper by collecting "
+"information from the following supported sites: IMDb, TMDb, Rotten Tomatoes,"
+" Trakt.tv, OFDb.de, port.hu. This scraper is currently the flagship of the "
+"Team-XBMC scrapers. The initial search can be done either on TMDb or IMDb "
+"(according to the settings), but following that it can be set field by field"
+" that from which site you want that specific information."
+msgstr "Universal Scraper is currently the most customizable scraper by collecting information from the following supported sites: IMDb, TMDb, Rotten Tomatoes, Trakt.tv, OFDb.de, port.hu. This scraper is currently the flagship of the Team-XBMC scrapers. The initial search can be done either on TMDb or IMDb (according to the settings), but following that it can be set field by field that from which site you want that specific information."
 
 msgctxt "#30001"
 msgid "Enable fanart from themoviedb.org"
@@ -63,16 +64,16 @@ msgid "Enable trailers from themoviedb.org"
 msgstr "Enable trailers from themoviedb.org"
 
 msgctxt "#30011"
-msgid "Artwork"
-msgstr "Artwork"
+msgid "Poster"
+msgstr "Poster"
 
 msgctxt "#30012"
 msgid "Trailers"
 msgstr "Trailers"
 
 msgctxt "#30013"
-msgid "Get Set (Collection) Titles from themoviedb.org"
-msgstr "Get Set (Collection) Titles from themoviedb.org"
+msgid "Get Set (Collection) Name from themoviedb.org"
+msgstr "Get Set (Collection) Name from themoviedb.org"
 
 msgctxt "#30014"
 msgid "Get Plot from"
@@ -187,8 +188,16 @@ msgid "Get IMDb TOP250 Ranking"
 msgstr "Get IMDb TOP250 Ranking"
 
 msgctxt "#30045"
-msgid "Get Outline From IMDb"
-msgstr "Get Outline From IMDb"
+msgid "Get Outline From"
+msgstr "Get Outline From"
+
+msgctxt "#30046"
+msgid "     Preferred Set (Collection) Name Language"
+msgstr "     Preferred Set (Collection) Name Language"
+
+msgctxt "#30047"
+msgid "Poster Sources"
+msgstr "Poster Sources"
 
 msgctxt "#30100"
 msgid "Rating"
@@ -202,10 +211,6 @@ msgctxt "#30115"
 msgid "     Use the Score Aggregated from"
 msgstr "     Use the Score Aggregated from"
 
-msgctxt "#30120"
-msgid "     Use Critics' Consensus as Movie Outline"
-msgstr "     Use Critics' Consensus as Movie Outline"
-
 msgctxt "#30200"
 msgid "Credits"
 msgstr "Credits"
@@ -217,3 +222,52 @@ msgstr "Get Studio from"
 msgctxt "#30202"
 msgid "Get Country from"
 msgstr "Get Country from"
+
+msgctxt "#30300"
+msgid "Search"
+msgstr "Search"
+
+msgctxt "#30301"
+msgid "themoviedb.org"
+msgstr "themoviedb.org"
+
+msgctxt "#30302"
+msgid "IMDb"
+msgstr "IMDb"
+
+msgctxt "#30303"
+msgid "Search Engine to Use"
+msgstr "Search Engine to Use"
+
+msgctxt "#30304"
+msgid "     Secondary Search Language (In Addition to en-us)"
+msgstr "     Secondary Search Language (In Addition to en-us)"
+
+msgctxt "#30305"
+msgid "     Include All Movie Categories"
+msgstr "     Include All Movie Categories"
+
+msgctxt "#30306"
+msgid "Warning:"
+msgstr "Warning:"
+
+msgctxt "#30307"
+msgid ""
+"Enabling All Movie Categories will greatly reduce the search accuracy !!!"
+msgstr "Enabling All Movie Categories will greatly reduce the search accuracy !!!"
+
+msgctxt "#30400"
+msgid "Plot"
+msgstr "Plot"
+
+msgctxt "#30401"
+msgid "Plot / Tagline / Outline"
+msgstr "Plot / Tagline / Outline"
+
+msgctxt "#30500"
+msgid "Fanart"
+msgstr "Fanart"
+
+msgctxt "#30501"
+msgid "Fanart Sources"
+msgstr "Fanart Sources"

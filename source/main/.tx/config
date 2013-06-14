@@ -77,10 +77,6 @@ source_lang = en
 file_filter = translations/XBMC-Main-Frodo.metadata-artists-universal/<lang>.po
 source_lang = en
 
-[XBMC-Main-Frodo.metadata-musicvideos-last-fm]
-file_filter = translations/XBMC-Main-Frodo.metadata-musicvideos-last-fm/<lang>.po
-source_lang = en
-
 [XBMC-Main-Frodo.metadata-themoviedb-org]
 file_filter = translations/XBMC-Main-Frodo.metadata-themoviedb-org/<lang>.po
 source_lang = en
@@ -125,43 +121,43 @@ source_lang = en
 file_filter = translations/XBMC-Main-Frodo.pvr-dvbviewer/<lang>.po
 source_lang = en
 
-[XBMC-Main-Frodo.metadata-albums-last-fm]
-file_filter = translations/XBMC-Main-Frodo.metadata-albums-last-fm/<lang>.po
-source_lang = en
-
 [XBMC-Main-Frodo.metadata-albums-theaudiodb-com]
 file_filter = translations/XBMC-Main-Frodo.metadata-albums-theaudiodb-com/<lang>.po
-source_lang = en
-
-[XBMC-Main-Frodo.metadata-artists-last-fm]
-file_filter = translations/XBMC-Main-Frodo.metadata-artists-last-fm/<lang>.po
 source_lang = en
 
 [XBMC-Main-Frodo.metadata-artists-theaudiodb-com]
 file_filter = translations/XBMC-Main-Frodo.metadata-artists-theaudiodb-com/<lang>.po
 source_lang = en
 
-[XBMC-Main-Frodo.metadata-imdb-com]
-file_filter = translations/XBMC-Main-Frodo.metadata-imdb-com/<lang>.po
-source_lang = en
-
 [XBMC-Main-Frodo.metadata-musicvideos-theaudiodb-com]
 file_filter = translations/XBMC-Main-Frodo.metadata-musicvideos-theaudiodb-com/<lang>.po
 source_lang = en
 
-[XBMC-Main-Frodo.metadata-rottentomatoes-com]
-file_filter = translations/XBMC-Main-Frodo.metadata-rottentomatoes-com/<lang>.po
+[XBMC-Main-Frodo.pvr-demo]
+file_filter = translations/XBMC-Main-Frodo.pvr-demo/<lang>.po
 source_lang = en
 
-[XBMC-Main-Frodo.metadata-universal]
-file_filter = translations/XBMC-Main-Frodo.metadata-universal/<lang>.po
+[XBMC-Main-Frodo.pvr-njoy]
+file_filter = translations/XBMC-Main-Frodo.pvr-njoy/<lang>.po
 source_lang = en
 
 [XBMC-Main-Frodo.openelec-tv]
 file_filter = translations/XBMC-Main-Frodo.openelec-tv/<lang>.po
 source_lang = en
 
+[XBMC-Main-Frodo.metadata-universal]
+file_filter = translations/XBMC-Main-Frodo.metadata-universal/<lang>.po
+source_lang = en
+
+[XBMC-Main-Frodo.plugin-video-bliptv]
+file_filter = translations/XBMC-Main-Frodo.plugin-video-bliptv/<lang>.po
+source_lang = en
+
 [XBMC-Main-Frodo.pvr-argustv]
 file_filter = translations/XBMC-Main-Frodo.pvr-argustv/<lang>.po
+source_lang = en
+
+[XBMC-Main-Frodo.plugin-video-vimeo]
+file_filter = translations/XBMC-Main-Frodo.plugin-video-vimeo/<lang>.po
 source_lang = en
 
